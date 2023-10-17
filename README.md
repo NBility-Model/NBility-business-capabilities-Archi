@@ -1,6 +1,6 @@
 # NBility-business-capabilities-Archi
 
-This repo contains NBility-business-capabilities model version 2.1. 
+This repo contains NBility-business-capabilities model version 2.1 in Archi format.  
 
 # Installation 
 The use the NBility-business-capabilities you need [Archi](https://www.archimatetool.com/). 
