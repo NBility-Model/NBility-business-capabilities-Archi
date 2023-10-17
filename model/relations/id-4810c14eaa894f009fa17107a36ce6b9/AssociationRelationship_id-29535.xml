@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gewijzigd door"
+    id="id-29535"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-28743.xml#id-28743"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-28818.xml#id-28818"/>
+</archimate:AssociationRelationship>

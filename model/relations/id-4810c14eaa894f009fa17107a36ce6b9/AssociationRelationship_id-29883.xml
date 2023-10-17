@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realisatie van aansluitdienst aangeboden op"
+    id="id-29883"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-28568.xml#id-28568"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-28538.xml#id-28538"/>
+</archimate:AssociationRelationship>

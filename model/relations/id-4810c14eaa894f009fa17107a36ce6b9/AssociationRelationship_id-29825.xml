@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="basis voor"
+    id="id-29825"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-28724.xml#id-28724"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-28794.xml#id-28794"/>
+</archimate:AssociationRelationship>

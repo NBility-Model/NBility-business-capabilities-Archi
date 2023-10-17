@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Goederenbeweging"
+    id="id-28995"
+    documentation="Een fysieke of logische verplaatsing van goederen. Hieronder wordt mede verstaan de ontvangst, reservering, uitgifte en retournering van goederen."/>
