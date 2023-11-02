@@ -3,7 +3,7 @@
 This repo contains NBility-business-capabilities model version 2.1 in Archi format.  
 
 # View 
-The model can be viewed [here without the need to install Archi]([https://nbility-example.github.io/NBility-business-capabilities-Archi/](https://nbility-model.github.io/NBility-business-capabilities-Archi/).
+The model can be viewed [here without the need to install Archi](https://nbility-model.github.io/NBility-business-capabilities-Archi/).
 
 # Edit  
 To contribute to the LF Energy Archimate models you need [Archi](https://www.archimatetool.com/). 
