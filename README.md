@@ -21,7 +21,7 @@ Creating a personal token is described in this link. https://docs.github.com/en/
 6. The model is cloned from github and shown in archi. The following steps may still be required to get the model under 'Models': Collaboration → Toggle Collaboration Workspace: The Collaboration Workspace opens on the right side of the screen. The project is visible. Double click on the model: The model is added under 'Models' on the left side of the screen and can be edited.
 
 # License
-This project is licensed - see [LICENSE](LICENSE) for details.
+This project is licensed Creative Commons Attribution 4.0 International Public License (CC-BY-4.0) - see [LICENSE](LICENSE) for details.
 
 # Contributing
 Please read [CONTRIBUTING.md] for details on the process for submitting pull requests to us.
