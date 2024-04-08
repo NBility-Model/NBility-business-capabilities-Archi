@@ -2110,7 +2110,7 @@
       </sourceConnections>
       <bounds
           x="12"
-          y="696"
+          y="708"
           width="353"
           height="252"/>
       <children
@@ -2303,7 +2303,7 @@
           x="12"
           y="384"
           width="353"
-          height="300"/>
+          height="313"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-30069"
@@ -2435,7 +2435,7 @@
             x="7"
             y="267"
             width="340"
-            height="27"/>
+            height="34"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_id-29046.xml#id-29046"/>
