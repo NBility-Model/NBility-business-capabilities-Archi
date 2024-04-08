@@ -143,18 +143,24 @@ To protect the integrity of the main branch and avoid overwriting updates from s
 
 4. To ensure that your changes have been successfully committed and published, you can verify by visiting https://github.com/NBility-Model to see if your commit appears in the specific branch you've worked on.
 
-
-### Merge
+## Create Pull Request Review and Merge Topic Branch
 
 On regular intervals all committed and published branches need to be merged into the main branch which will trickle down into all subsequent branches.
 
-## Further reading
+1. Log onto your GitHub Account at [GitHub.com](github.com) 
+2. In https://github.com/NBility-Model, create a Github pull request from your topic branch on by clicking on the button [**Compare & Pull Request**].
 
-For more information on the mechanics and command line (CLI) operations, you can read the following documents:
+![coArchi-create-pull-request](https://github.com/NBility-Model/.github/blob/main/images/Create%20Pull%20request.PNG)
 
-https://docs.github.com/en/get-started/using-git/about-git
+3. Add a title and description to your pull request. To finalize your pull requestion, click on the button [**Create pull request**].
 
-https://git-scm.com/docs/gittutorial
+![coArchi-create-pull-request](https://github.com/NBility-Model/.github/blob/main/images/Create%20Pull%20request%20part%202.PNG)
+
+4. Pull requests will be reviewed by one of the maintainers of NBility Model who may discuss, offer constructive feedback, request changes, or approve the work. 
+
+5. Upon receiving the sign-off of one of the maintainers of NBility Model you may merge your changes, or if you do not have permission to do that, you may request a maintainer to merge it for you.
+
+![coArchi-create-marge](https://github.com/NBility-Model/.github/blob/main/images/Review%20and%20merge.PNG)
 
 # License
 This project is licensed Creative Commons Attribution 4.0 International Public License (CC-BY-4.0) - see [LICENSE](LICENSE) for details.
