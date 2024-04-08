@@ -1,6 +1,6 @@
 # NBility-business-capabilities-Archi-Dutch
 
-This repo contains NBility-business-capabilities model version 2.1 in Dutch and Archi format.  
+This repo contains NBility-business-capabilities model version 2.1 in Dutch and Archi format. The models are built using Archi. 
 
 # View 
 The model can be viewed [here without the need to install Archi](https://nbility-model.github.io/NBility-business-capabilities-Archi/).
@@ -9,6 +9,8 @@ The model can be viewed [here without the need to install Archi](https://nbility
 To contribute to the LF Energy Archimate models you need [Archi](https://www.archimatetool.com/). 
 
 ## Step-by-step guide for Archi
+Below are detailed instructions on installing and configuring Archimate, the coArchi plugin and integrating with Github.
+
 1. Download and install the archi software. This can be downloaded from the following location https://www.archimatetool.com/. 
 1. Download the following Archi plugin "coArchi – Model Collaboration for Archi" (https://www.archimatetool.com/plugins/#coArchi) to share and version the created models. 
 1. It is necessary to create a Personal Access Token. (https://github.com/archimatetool/archi-modelrepository-plugin/wiki/Refresh-and-Publish)
