@@ -81,7 +81,7 @@ To obtain the repo URL, you can copy of from the **Clone** address:
 
 ![coArchi-clone](https://github.com/NBility-Model/.github/blob/main/images/Clone%20address.PNG)
 
-### Navigating the UI
+## Navigating the UI
 
 1. In Archi, select [**Toggle Collaboration Workspace**] and [**Toggle Branches View**] from the **Collaboration** menu.  The Workspace and Branch windows will be docked within Archi.  Archi/coArchi supports repository branches.
 
@@ -89,7 +89,7 @@ To obtain the repo URL, you can copy of from the **Clone** address:
 
 The Collaboration Workspace is used to navigate between different models and individual branches checked out while the Branches View provide the ability to manipulate branches within the selected model. 
 
-### Refresh model
+## Refresh model
 
 **IMPORTANT: To ensure that the local repository remains synchronized with the upstream repository and to prevent overwriting any changes made since the last pull from the server, it is crucial to refresh the model from GitHub before applying any modifications.** Regular refreshs of the model not only maintain alignment with the upstream repository but also mitigate the risk of merge conflicts.
 
@@ -101,29 +101,48 @@ Alternatively, you can - in archi - select [**Toggle Collaboration Workspace**] 
 
 ![coArchi-refresh-model-alternative](https://github.com/NBility-Model/.github/blob/main/images/Refresh%20model.PNG)
 
-## Branching
+## Add new branch
 
-To protect the integrity of the main branch and avoid overwriting updates from someone else, it is recommended to create a branch for each new piece of work.  Branches could be named by feature/[**topic name**] or fix/[**topic name**].  Branches can be created either through the coArchi plugin or via Github.com.
+To protect the integrity of the main branch and avoid overwriting updates from someone else, it is recommended to create a branch for each new piece of work.  Branches could be named by feature_[**topic name**] or fix_[**topic name**].  Branches can be created either through the coArchi plugin or via Github.com.
 
-1. [**Add branch**] will create a local branch while [**Add branch and checkout**] will create the local branch and set it as the active branch.  Neither of these actions will create the upstream branch (on Github server).
+### Via the coArchi plugin
 
-![coArchi-add-branch]()
+1. In Archi, select [**Toggle Branches View**] from the **Collaboration** menu.
 
-2. To commit and publish the new branch, following the steps from [**Commiting changes**] and [**Publishing Changes**].
+![coArchi-branches](https://github.com/NBility-Model/.github/blob/main/images/Branches%20view.PNG)
+
+2. In Branches Workspace, click on the [**Add branch**] icon.
+
+![coArchi-add-branche](https://github.com/NBility-Model/.github/blob/main/images/Add%20branch.PNG)
+
+3. [**Add branch**] will create a local branch while [**Add branch and checkout**] will create the local branch and set it as the active branch.  Neither of these actions will create the upstream branch (on Github server).
+
+![coArchi-add-branch](https://github.com/NBility-Model/.github/blob/main/images/Add_branch_part%202.PNG)
+
+4. To commit and publish the new branch, following the steps from [**Commiting changes**] and [**Publishing Changes**].
+
+## Switch branch
 
 2. [**Switch branch**] will 
 
 ![coArchi-switch-branch]()
 
-### Committing changes
+## Committing and publishing changes
 
-By committing changes you create a local snapshot of the repository into a single package.  **This does not upload the changes to the upstream branch, but create a local packaged copy**.  To commit your latest changes, select [**Commit changes**] from the Collaboration menu.
+1. To commit your latest changes, select [**Commit changes**] from the **Collaboration** menu. 
 
-![coArchi-commit]()
+![coArchi-commit](https://github.com/NBility-Model/.github/blob/main/images/Commit%20changes.PNG)
 
-### Publishing changes
+2.  Enter your user details and a commit message. By committing changes you create a local snapshot of the repository into a single package. **IMPORTANT: This does not upload the changes to the upstream branch, but only create a local packaged copy**.
 
-The final step is to publish the committed package back to the repository.  This will insert the last committed package into the upstream branch.
+![coArchi-commit-part2](https://github.com/NBility-Model/.github/blob/main/images/Commit%20changes%20part%202.PNG)
+
+3. The final step is to publish the committed package back to the upstream repository. This will insert the last committed package into the upstream branchat GitHub.com. To publish your latest changes, select [**Publish changes**] from the **Collaboration** menu.
+
+![coArchi-publish-changes](https://github.com/NBility-Model/.github/blob/main/images/Publish%20changes.PNG)
+
+4. To ensure that your changes have been successfully committed and published, you can verify by visiting https://github.com/NBility-Model to see if your commit appears in the specific branch you've worked on.
+
 
 ### Merge
 
