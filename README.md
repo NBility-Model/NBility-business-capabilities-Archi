@@ -91,7 +91,7 @@ The Collaboration Workspace is used to navigate between different models and ind
 
 ### Refresh model
 
-**It is important to refresh the model from Github prior to making any changes to avoid overwriting upstream changes made since the local repo copy was pulled from the server**.  Regular refreshes also help to keep local repo copies updated with changes made to the upstream repository. 
+**IMPORTANT: To ensure that the local repository remains synchronized with the upstream repository and to prevent overwriting any changes made since the last pull from the server, it is crucial to refresh the model from GitHub before applying any modifications.** Regular refreshs of the model not only maintain alignment with the upstream repository but also mitigate the risk of merge conflicts.
 
 1. To refresh your local copy of the model, open the model / branch from the Collaboration Workspace and select [**Refresh Model**] from the **Collaboration** application menu.
 
@@ -103,11 +103,15 @@ Alternatively, you can - in archi - select [**Toggle Collaboration Workspace**] 
 
 ## Branching
 
-To protect the integrity of the main branch and avoid overwriting updates from oneanother, it is recommended to create a branch for each new piece of work.  Branches could be named by initials, date or subdomain.  Branches can be created either through the coArchi plugin or online on Github.
+To protect the integrity of the main branch and avoid overwriting updates from someone else, it is recommended to create a branch for each new piece of work.  Branches could be named by feature/[**topic name**] or fix/[**topic name**].  Branches can be created either through the coArchi plugin or via Github.com.
+
+1. [**Add branch**] will create a local branch while [**Add branch and checkout**] will create the local branch and set it as the active branch.  Neither of these actions will create the upstream branch (on Github server).
 
 ![coArchi-add-branch]()
 
-[**Add branch**] will create a local branch while [**Add branch and checkout**] will create the local branch and set it as the active branch.  Neither of these actions will create the upstream branch (on Github server).
+2. To commit and publish the new branch, following the steps from [**Commiting changes**] and [**Publishing Changes**].
+
+2. [**Switch branch**] will 
 
 ![coArchi-switch-branch]()
 
