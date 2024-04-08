@@ -1100,7 +1100,7 @@
           x="7"
           y="60"
           width="353"
-          height="173"/>
+          height="205"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-29977"
@@ -1113,7 +1113,7 @@
             x="7"
             y="40"
             width="340"
-            height="27"/>
+            height="45"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_id-29200.xml#id-29200"/>
@@ -1128,7 +1128,7 @@
           fillColor="#efeff8">
         <bounds
             x="7"
-            y="74"
+            y="94"
             width="340"
             height="27"/>
         <archimateElement
@@ -1145,7 +1145,7 @@
           fillColor="#efeff8">
         <bounds
             x="7"
-            y="107"
+            y="132"
             width="340"
             height="27"/>
         <archimateElement
@@ -1162,7 +1162,7 @@
           fillColor="#efeff8">
         <bounds
             x="7"
-            y="140"
+            y="168"
             width="340"
             height="27"/>
         <archimateElement
@@ -1200,7 +1200,8 @@
             href="CompositionRelationship_id-29014.xml#id-29014"/>
       </sourceConnections>
       <bounds
-          y="247"
+          x="7"
+          y="276"
           width="353"
           height="107"/>
       <children
