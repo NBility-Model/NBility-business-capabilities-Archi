@@ -575,7 +575,7 @@
           x="7"
           y="60"
           width="353"
-          height="227"/>
+          height="289"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-29933"
@@ -585,9 +585,9 @@
           lineColor="#000000"
           fillColor="#edf5e2">
         <bounds
-            x="7"
-            y="27"
-            width="340"
+            x="12"
+            y="48"
+            width="325"
             height="27"/>
         <archimateElement
             xsi:type="archimate:Capability"
@@ -602,10 +602,10 @@
           lineColor="#000000"
           fillColor="#edf5e2">
         <bounds
-            x="7"
-            y="60"
-            width="340"
-            height="27"/>
+            x="12"
+            y="81"
+            width="325"
+            height="40"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_id-28658.xml#id-28658"/>
@@ -619,10 +619,10 @@
           lineColor="#000000"
           fillColor="#edf5e2">
         <bounds
-            x="7"
-            y="94"
-            width="340"
-            height="27"/>
+            x="12"
+            y="132"
+            width="325"
+            height="42"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_id-28923.xml#id-28923"/>
@@ -636,9 +636,9 @@
           lineColor="#000000"
           fillColor="#edf5e2">
         <bounds
-            x="7"
-            y="127"
-            width="340"
+            x="12"
+            y="180"
+            width="325"
             height="27"/>
         <archimateElement
             xsi:type="archimate:Capability"
@@ -653,9 +653,9 @@
           lineColor="#000000"
           fillColor="#edf5e2">
         <bounds
-            x="7"
-            y="160"
-            width="340"
+            x="12"
+            y="213"
+            width="325"
             height="27"/>
         <archimateElement
             xsi:type="archimate:Capability"
@@ -702,9 +702,9 @@
       </sourceConnections>
       <bounds
           x="7"
-          y="440"
+          y="516"
           width="353"
-          height="127"/>
+          height="135"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-29945"
@@ -715,9 +715,9 @@
           fillColor="#edf5e2">
         <bounds
             x="7"
-            y="27"
+            y="24"
             width="340"
-            height="27"/>
+            height="38"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_id-28883.xml#id-28883"/>
@@ -732,7 +732,7 @@
           fillColor="#edf5e2">
         <bounds
             x="7"
-            y="60"
+            y="68"
             width="340"
             height="27"/>
         <archimateElement
@@ -749,7 +749,7 @@
           fillColor="#edf5e2">
         <bounds
             x="7"
-            y="94"
+            y="102"
             width="340"
             height="27"/>
         <archimateElement
@@ -768,9 +768,9 @@
         lineColor="#000000"
         fillColor="#edf5e2">
       <bounds
-          x="14"
-          y="254"
-          width="340"
+          x="19"
+          y="307"
+          width="325"
           height="27"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -813,9 +813,9 @@
       </sourceConnections>
       <bounds
           x="7"
-          y="300"
+          y="360"
           width="353"
-          height="127"/>
+          height="145"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-29955"
@@ -826,7 +826,7 @@
           fillColor="#edf5e2">
         <bounds
             x="7"
-            y="27"
+            y="24"
             width="340"
             height="27"/>
         <archimateElement
@@ -845,7 +845,7 @@
             x="7"
             y="60"
             width="340"
-            height="27"/>
+            height="39"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_id-28586.xml#id-28586"/>
@@ -860,7 +860,7 @@
           fillColor="#edf5e2">
         <bounds
             x="7"
-            y="94"
+            y="108"
             width="340"
             height="27"/>
         <archimateElement
@@ -926,9 +926,9 @@
       </sourceConnections>
       <bounds
           x="7"
-          y="580"
+          y="664"
           width="353"
-          height="200"/>
+          height="225"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-29963"
@@ -973,9 +973,9 @@
           fillColor="#edf5e2">
         <bounds
             x="7"
-            y="94"
+            y="96"
             width="340"
-            height="27"/>
+            height="39"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_id-28729.xml#id-28729"/>
@@ -990,9 +990,9 @@
           fillColor="#edf5e2">
         <bounds
             x="7"
-            y="127"
+            y="144"
             width="340"
-            height="27"/>
+            height="42"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_id-28751.xml#id-28751"/>
@@ -1007,7 +1007,7 @@
           fillColor="#edf5e2">
         <bounds
             x="7"
-            y="160"
+            y="192"
             width="340"
             height="27"/>
         <archimateElement
