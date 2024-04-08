@@ -376,7 +376,7 @@
           x="7"
           y="487"
           width="353"
-          height="133"/>
+          height="174"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-29919"
@@ -386,9 +386,9 @@
           lineColor="#000000"
           fillColor="#dfffff">
         <bounds
-            x="7"
-            y="33"
-            width="340"
+            x="12"
+            y="41"
+            width="325"
             height="27"/>
         <archimateElement
             xsi:type="archimate:Capability"
@@ -403,10 +403,10 @@
           lineColor="#000000"
           fillColor="#dfffff">
         <bounds
-            x="7"
-            y="67"
-            width="340"
-            height="27"/>
+            x="12"
+            y="75"
+            width="325"
+            height="46"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_id-29011.xml#id-29011"/>
@@ -420,9 +420,9 @@
           lineColor="#000000"
           fillColor="#dfffff">
         <bounds
-            x="7"
-            y="100"
-            width="340"
+            x="12"
+            y="132"
+            width="325"
             height="27"/>
         <archimateElement
             xsi:type="archimate:Capability"
