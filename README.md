@@ -123,9 +123,11 @@ To protect the integrity of the main branch and avoid overwriting updates from s
 
 ## Switch branch
 
-2. [**Switch branch**] will 
+1. In Archi, select [**Toggle Branches View**] from the **Collaboration** menu.
+2. In archi, right click on the branch you like to switch to and click on [**Switch branch**].
 
-![coArchi-switch-branch]()
+![coArchi-switch-branch](https://github.com/NBility-Model/.github/blob/main/images/Switch%20Branch.PNG)
+
 
 ## Committing and publishing changes
 
