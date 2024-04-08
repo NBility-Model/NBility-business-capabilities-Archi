@@ -42,7 +42,7 @@
         x="393"
         y="53"
         width="367"
-        height="947"/>
+        height="968"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-29893"
@@ -517,7 +517,7 @@
         x="13"
         y="53"
         width="367"
-        height="947"/>
+        height="968"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-29931"
@@ -1051,7 +1051,7 @@
         x="1153"
         y="53"
         width="367"
-        height="947"/>
+        height="968"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-29975"
@@ -1293,7 +1293,7 @@
         x="1913"
         y="53"
         width="367"
-        height="947"/>
+        height="968"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-29993"
@@ -1819,8 +1819,8 @@
     <bounds
         x="773"
         y="53"
-        width="367"
-        height="947"/>
+        width="368"
+        height="968"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-30035"
@@ -1902,8 +1902,8 @@
             href="CompositionRelationship_id-28997.xml#id-28997"/>
       </sourceConnections>
       <bounds
-          x="7"
-          y="60"
+          x="12"
+          y="72"
           width="353"
           height="307"/>
       <children
@@ -2109,10 +2109,10 @@
             href="CompositionRelationship_id-28776.xml#id-28776"/>
       </sourceConnections>
       <bounds
-          x="7"
-          y="694"
+          x="12"
+          y="696"
           width="353"
-          height="240"/>
+          height="252"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-30055"
@@ -2123,7 +2123,7 @@
           fillColor="#ffe8e8">
         <bounds
             x="7"
-            y="33"
+            y="45"
             width="340"
             height="27"/>
         <archimateElement
@@ -2140,7 +2140,7 @@
           fillColor="#ffe8e8">
         <bounds
             x="7"
-            y="66"
+            y="78"
             width="340"
             height="27"/>
         <archimateElement
@@ -2157,7 +2157,7 @@
           fillColor="#ffe8e8">
         <bounds
             x="7"
-            y="100"
+            y="112"
             width="340"
             height="27"/>
         <archimateElement
@@ -2174,7 +2174,7 @@
           fillColor="#ffe8e8">
         <bounds
             x="7"
-            y="133"
+            y="145"
             width="340"
             height="27"/>
         <archimateElement
@@ -2191,7 +2191,7 @@
           fillColor="#ffe8e8">
         <bounds
             x="7"
-            y="166"
+            y="178"
             width="340"
             height="27"/>
         <archimateElement
@@ -2208,7 +2208,7 @@
           fillColor="#ffe8e8">
         <bounds
             x="7"
-            y="200"
+            y="212"
             width="340"
             height="27"/>
         <archimateElement
@@ -2300,8 +2300,8 @@
             href="CompositionRelationship_id-29045.xml#id-29045"/>
       </sourceConnections>
       <bounds
-          x="7"
-          y="380"
+          x="12"
+          y="384"
           width="353"
           height="300"/>
       <children
@@ -2495,7 +2495,7 @@
         x="1533"
         y="53"
         width="367"
-        height="947"/>
+        height="968"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-30087"
