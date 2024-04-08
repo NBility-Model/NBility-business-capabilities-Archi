@@ -100,7 +100,7 @@
           x="7"
           y="60"
           width="353"
-          height="200"/>
+          height="217"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-29895"
@@ -181,7 +181,7 @@
             x="7"
             y="167"
             width="340"
-            height="27"/>
+            height="38"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_id-28649.xml#id-28649"/>
@@ -245,7 +245,7 @@
       </sourceConnections>
       <bounds
           x="7"
-          y="274"
+          y="288"
           width="353"
           height="200"/>
       <children
@@ -374,7 +374,7 @@
       </sourceConnections>
       <bounds
           x="7"
-          y="487"
+          y="504"
           width="353"
           height="174"/>
       <children
