@@ -23,7 +23,8 @@
         font="1|Arial|14.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
         fontColor="#000000"
         lineColor="#000000"
-        fillColor="#ffffff">
+        fillColor="#ffffff"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-1afbb77302b6491c99d13726d4867961"
@@ -74,7 +75,8 @@
         font="1|Arial|14.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
         fontColor="#000000"
         lineColor="#000000"
-        fillColor="#ffffff">
+        fillColor="#ffffff"
+        type="1">
       <bounds
           x="20"
           y="100"
@@ -116,7 +118,8 @@
         font="1|Arial|14.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
         fontColor="#000000"
         lineColor="#000000"
-        fillColor="#ffffff">
+        fillColor="#ffffff"
+        type="1">
       <bounds
           x="20"
           y="100"
@@ -158,7 +161,8 @@
         font="1|Arial|14.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
         fontColor="#000000"
         lineColor="#000000"
-        fillColor="#ffffff">
+        fillColor="#ffffff"
+        type="1">
       <bounds
           x="20"
           y="99"
@@ -200,7 +204,8 @@
         font="1|Arial|14.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
         fontColor="#000000"
         lineColor="#000000"
-        fillColor="#ffffff">
+        fillColor="#ffffff"
+        type="1">
       <bounds
           x="20"
           y="100"
@@ -242,7 +247,8 @@
         font="1|Arial|14.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
         fontColor="#000000"
         lineColor="#000000"
-        fillColor="#ffffff">
+        fillColor="#ffffff"
+        type="1">
       <bounds
           x="20"
           y="100"

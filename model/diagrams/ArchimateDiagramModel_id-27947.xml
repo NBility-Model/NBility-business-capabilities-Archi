@@ -443,7 +443,8 @@
       fontColor="#ffffff"
       lineColor="#585858"
       textAlignment="1"
-      fillColor="#55aaff">
+      fillColor="#55aaff"
+      type="1">
     <bounds
         x="13"
         y="1033"
@@ -460,7 +461,8 @@
       fontColor="#ffffff"
       lineColor="#585858"
       textAlignment="1"
-      fillColor="#55aaff">
+      fillColor="#55aaff"
+      type="1">
     <bounds
         x="13"
         y="7"
@@ -584,6 +586,9 @@
           fontColor="#000000"
           lineColor="#000000"
           fillColor="#edf5e2">
+        <features
+            name="labelExpression"
+            value="${properties::ID}. ${name}"/>
         <bounds
             x="12"
             y="48"
