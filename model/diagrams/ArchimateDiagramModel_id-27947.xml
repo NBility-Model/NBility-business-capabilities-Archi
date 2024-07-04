@@ -443,7 +443,8 @@
       fontColor="#ffffff"
       lineColor="#585858"
       textAlignment="1"
-      fillColor="#55aaff">
+      fillColor="#55aaff"
+      type="1">
     <bounds
         x="13"
         y="1033"
@@ -460,7 +461,8 @@
       fontColor="#ffffff"
       lineColor="#585858"
       textAlignment="1"
-      fillColor="#55aaff">
+      fillColor="#55aaff"
+      type="1">
     <bounds
         x="13"
         y="7"

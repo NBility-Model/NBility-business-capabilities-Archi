@@ -90,7 +90,8 @@
           font="1|Arial|12.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
           fontColor="#574f04"
           lineColor="#d9c91e"
-          fillColor="#ffffff">
+          fillColor="#ffffff"
+          type="1">
         <bounds
             x="40"
             y="60"
@@ -107,7 +108,8 @@
           font="1|Arial|12.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
           fontColor="#574f04"
           lineColor="#d9c91e"
-          fillColor="#ffffff">
+          fillColor="#ffffff"
+          type="1">
         <bounds
             x="40"
             y="133"
@@ -150,7 +152,8 @@
           font="1|Arial|12.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
           fontColor="#574f04"
           lineColor="#d9c91e"
-          fillColor="#ffffff">
+          fillColor="#ffffff"
+          type="1">
         <bounds
             x="40"
             y="53"
@@ -193,7 +196,8 @@
           font="1|Arial|12.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
           fontColor="#574f04"
           lineColor="#d9c91e"
-          fillColor="#ffffff">
+          fillColor="#ffffff"
+          type="1">
         <bounds
             x="40"
             y="53"
@@ -236,7 +240,8 @@
           font="1|Arial|12.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
           fontColor="#574f04"
           lineColor="#d9c91e"
-          fillColor="#ffffff">
+          fillColor="#ffffff"
+          type="1">
         <bounds
             x="40"
             y="54"
@@ -322,7 +327,8 @@
           font="1|Arial|12.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
           fontColor="#574f04"
           lineColor="#d9c91e"
-          fillColor="#ffffff">
+          fillColor="#ffffff"
+          type="1">
         <bounds
             x="47"
             y="50"
@@ -365,7 +371,8 @@
           font="1|Arial|12.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
           fontColor="#574f04"
           lineColor="#d9c91e"
-          fillColor="#ffffff">
+          fillColor="#ffffff"
+          type="1">
         <bounds
             x="40"
             y="54"
@@ -408,7 +415,8 @@
           font="1|Arial|12.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
           fontColor="#574f04"
           lineColor="#d9c91e"
-          fillColor="#ffffff">
+          fillColor="#ffffff"
+          type="1">
         <bounds
             x="40"
             y="53"
@@ -503,7 +511,8 @@
           font="1|Arial|12.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
           fontColor="#574f04"
           lineColor="#d9c91e"
-          fillColor="#ffffff">
+          fillColor="#ffffff"
+          type="1">
         <bounds
             x="40"
             y="46"
@@ -520,7 +529,8 @@
           font="1|Arial|12.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
           fontColor="#574f04"
           lineColor="#d9c91e"
-          fillColor="#ffffff">
+          fillColor="#ffffff"
+          type="1">
         <bounds
             x="40"
             y="120"
@@ -563,7 +573,8 @@
           font="1|Arial|12.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
           fontColor="#574f04"
           lineColor="#d9c91e"
-          fillColor="#ffffff">
+          fillColor="#ffffff"
+          type="1">
         <bounds
             x="40"
             y="53"
@@ -606,7 +617,8 @@
           font="1|Arial|12.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
           fontColor="#574f04"
           lineColor="#d9c91e"
-          fillColor="#ffffff">
+          fillColor="#ffffff"
+          type="1">
         <bounds
             x="40"
             y="53"
@@ -683,7 +695,8 @@
           font="1|Arial|12.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
           fontColor="#574f04"
           lineColor="#d9c91e"
-          fillColor="#ffffff">
+          fillColor="#ffffff"
+          type="1">
         <bounds
             x="40"
             y="60"
@@ -795,7 +808,8 @@
           font="1|Arial|12.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
           fontColor="#574f04"
           lineColor="#d9c91e"
-          fillColor="#ffffff">
+          fillColor="#ffffff"
+          type="1">
         <bounds
             x="40"
             y="53"
@@ -838,7 +852,8 @@
           font="1|Arial|12.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
           fontColor="#574f04"
           lineColor="#d9c91e"
-          fillColor="#ffffff">
+          fillColor="#ffffff"
+          type="1">
         <bounds
             x="40"
             y="54"
@@ -881,7 +896,8 @@
           font="1|Arial|12.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
           fontColor="#574f04"
           lineColor="#d9c91e"
-          fillColor="#ffffff">
+          fillColor="#ffffff"
+          type="1">
         <bounds
             x="40"
             y="53"
@@ -924,7 +940,8 @@
           font="1|Arial|12.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
           fontColor="#574f04"
           lineColor="#d9c91e"
-          fillColor="#ffffff">
+          fillColor="#ffffff"
+          type="1">
         <bounds
             x="40"
             y="53"
@@ -1019,7 +1036,8 @@
           font="1|Arial|12.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
           fontColor="#574f04"
           lineColor="#d9c91e"
-          fillColor="#ffffff">
+          fillColor="#ffffff"
+          type="1">
         <bounds
             x="40"
             y="53"
@@ -1062,7 +1080,8 @@
           font="1|Arial|12.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
           fontColor="#574f04"
           lineColor="#d9c91e"
-          fillColor="#ffffff">
+          fillColor="#ffffff"
+          type="1">
         <bounds
             x="40"
             y="53"
@@ -1105,7 +1124,8 @@
           font="1|Arial|12.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
           fontColor="#574f04"
           lineColor="#d9c91e"
-          fillColor="#ffffff">
+          fillColor="#ffffff"
+          type="1">
         <bounds
             x="40"
             y="54"
@@ -1148,7 +1168,8 @@
           font="1|Arial|12.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
           fontColor="#574f04"
           lineColor="#d9c91e"
-          fillColor="#ffffff">
+          fillColor="#ffffff"
+          type="1">
         <bounds
             x="40"
             y="53"

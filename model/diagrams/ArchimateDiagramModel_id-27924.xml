@@ -9,7 +9,8 @@
       font="1|Arial|14.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
       fontColor="#000000"
       lineColor="#000000"
-      fillColor="#e1efcf">
+      fillColor="#e1efcf"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-30854"
@@ -38,7 +39,8 @@
       font="1|Arial|14.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
       fontColor="#000000"
       lineColor="#000000"
-      fillColor="#ffcf9f">
+      fillColor="#ffcf9f"
+      type="1">
     <bounds
         x="387"
         y="20"
@@ -54,7 +56,8 @@
       font="1|Arial|14.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
       fontColor="#000000"
       lineColor="#000000"
-      fillColor="#fcf7b4">
+      fillColor="#fcf7b4"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-30855"
@@ -83,7 +86,8 @@
       font="1|Arial|14.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
       fontColor="#000000"
       lineColor="#000000"
-      fillColor="#ff9b9b">
+      fillColor="#ff9b9b"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-30841"
@@ -112,7 +116,8 @@
       font="1|Arial|14.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
       fontColor="#000000"
       lineColor="#000000"
-      fillColor="#caffff">
+      fillColor="#caffff"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-30850"
@@ -152,7 +157,8 @@
       font="1|Arial|14.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Arial"
       fontColor="#000000"
       lineColor="#000000"
-      fillColor="#d8d8ed">
+      fillColor="#d8d8ed"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-30848"

@@ -11,7 +11,8 @@
       fontColor="#ffffff"
       lineColor="#585858"
       textAlignment="1"
-      fillColor="#55aaff">
+      fillColor="#55aaff"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-922faa163f88460e9c3645b2202f9c35"
@@ -184,7 +185,8 @@
       fontColor="#ffffff"
       lineColor="#585858"
       textAlignment="1"
-      fillColor="#55aaff">
+      fillColor="#55aaff"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-ee5da8c8511340229bf3029b6521b7d2"
