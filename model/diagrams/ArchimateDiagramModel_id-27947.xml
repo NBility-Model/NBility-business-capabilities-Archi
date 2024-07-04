@@ -586,6 +586,9 @@
           fontColor="#000000"
           lineColor="#000000"
           fillColor="#edf5e2">
+        <features
+            name="labelExpression"
+            value="${properties::ID}. ${name}"/>
         <bounds
             x="12"
             y="48"
