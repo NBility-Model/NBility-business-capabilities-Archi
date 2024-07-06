@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marktprocessen uitvoeren/faciliteren"
+    id="id-718383"
+    documentation="Het vermogen om marktprocessen uit te voeren en/of te faciliteren.">
+  <properties
+      key="Code"
+      value="C.6.3"/>
+  <properties
+      key="Level"
+      value="2"/>
+</archimate:BusinessFunction>

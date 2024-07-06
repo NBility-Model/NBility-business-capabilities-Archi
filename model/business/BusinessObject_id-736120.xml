@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Campagne"
+    id="id-736120"
+    documentation="Een samenhangende reeks activiteiten in communicatie.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

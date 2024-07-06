@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transportbehoefte"
+    id="id-469993"
+    documentation="Het gewenste energietransport op lange termijn.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

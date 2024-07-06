@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energietransport herstellen"
+    id="id-718379"
+    documentation="Het vermogen om afwijkingen op energie transport te herstellen">
+  <properties
+      key="Code"
+      value="C.2.2"/>
+  <properties
+      key="Level"
+      value="2"/>
+</archimate:BusinessFunction>

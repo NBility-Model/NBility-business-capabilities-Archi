@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werkopdracht"
+    id="id-729629"
+    documentation="De verzameling bedrijfsobjecten nodig om regie te voeren over werkzaamheden.">
+  <properties
+      key="Level"
+      value="2"/>
+</archimate:BusinessObject>

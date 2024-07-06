@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klantcontactmoment"
+    id="id-479212"
+    documentation="Een aaneengesloten periode waarbij interactief informatie wordt uitgewisseld tussen een klant en de netbeheerder.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

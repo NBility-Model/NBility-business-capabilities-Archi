@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Subdomein Meting"
+    id="id-729661"
+    documentation="De verzameling bedrijfsobjecten nodig om metingen van energietransport en -netten beschikbaar te krijgen.">
+  <properties
+      key="Level"
+      value="2"/>
+</archimate:BusinessObject>

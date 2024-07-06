@@ -1,5 +1,0 @@
-<archimate:Capability
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="C.6.4. Delen van marktdata faciliteren"
-    id="id-28577"
-    documentation="Het vermogen om delen van marktdata te faciliteren. In BAS/MFF model worden uitvoeren markt(systeem)processen en data delen onderscheiden. De wet kent  vier soorten data delen: voor markt(systeem)processen, data delen op verzoek (toestemming), dataverzoeken van derden en open data. Deze capability vult in het data delen op verzoek (toestemming), dataverzoeken van derden en open data."/>

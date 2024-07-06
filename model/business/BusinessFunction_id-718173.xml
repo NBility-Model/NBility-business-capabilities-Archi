@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De energiemarkt faciliteren"
+    id="id-718173"
+    documentation="Het vermogen om met de partijen in de energiemarkt data uit te wisselen, volledig en op het juiste moment, om de marktwerking te garanderen.">
+  <properties
+      key="Code"
+      value="C.6"/>
+  <properties
+      key="Level"
+      value="1"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Netcomponenten ontwikkelen"
+    id="id-718694"
+    documentation="Het vermogen om netcomponenten te ontwikkelen al dan niet in samenwerking met fabrikanten/partners. Netcomponenten kunnen automaire netcomponenten betreffen zoals een apparaat of samengestelde netcomponenten zoals een station maar ook digitale componenten of functies.">
+  <properties
+      key="Code"
+      value="C.3.3.5"/>
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessFunction>

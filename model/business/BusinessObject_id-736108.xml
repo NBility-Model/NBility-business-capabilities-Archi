@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dataset"
+    id="id-736108"
+    documentation="Een verzameling gegevens die als geheel wordt verwerkt.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

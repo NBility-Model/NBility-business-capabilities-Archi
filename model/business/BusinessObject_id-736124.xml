@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samenwerkingsverband"
+    id="id-736124"
+    documentation="Een afspraak tussen partijen in of rond de energiesector om een gemeenschappelijk doel na te streven.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

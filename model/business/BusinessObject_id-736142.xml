@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VGMK-incident"
+    id="id-736142"
+    documentation="Een ongewenst voorval dat voortvloeit uit bedrijfsactiviteiten en mogelijk tot letsel of schade leidt.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arbeidsplaats"
+    id="id-468924"
+    documentation="Een functie binnen een organisatieonderdeel, te vervullen door één medewerker.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

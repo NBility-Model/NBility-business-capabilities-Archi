@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategie ontwikkelen en bewaken"
+    id="id-718815"
+    documentation="Het vermogen om een strategie te bepalen waarmee missie en visie middels strategische doelen worden gerealiseerd.&#xA;.">
+  <properties
+      key="Code"
+      value="E.1.1"/>
+  <properties
+      key="Level"
+      value="2"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschikbaar maken metingen van energietransport en -netten"
+    id="id-718341"
+    documentation="Het vermogen om de metingen te verwerken en te verspreiden.">
+  <properties
+      key="Code"
+      value="C.4.2"/>
+  <properties
+      key="Level"
+      value="2"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Niet-beschikbaarheid"
+    id="id-722923"
+    documentation="Een situatie waarbij een of meer netfuncties tijdelijk niet kunnen worden gebruikt.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerker"
+    id="id-736067"
+    documentation="De verzameling bedrijfsobjecten nodig om medewerkers te werven en inzetbaar te houden.">
+  <properties
+      key="Level"
+      value="1"/>
+</archimate:BusinessObject>

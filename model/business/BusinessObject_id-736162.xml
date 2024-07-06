@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitaal product"
+    id="id-736162"
+    documentation="De verzameling bedrijfsobjecten nodig om digitale producten te ontwikkelen en beheren.">
+  <properties
+      key="Level"
+      value="1"/>
+</archimate:BusinessObject>

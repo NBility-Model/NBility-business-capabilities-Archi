@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderbreking"
+    id="id-471288"
+    documentation="Een interruptie of beperking van het transport van energie bij één of meer afnemers.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

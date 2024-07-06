@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werkmiddel"
+    id="id-729611"
+    documentation="De verzameling bedrijfsobjecten nodig om werkzaamheden te faciliteren.">
+  <properties
+      key="Level"
+      value="2"/>
+</archimate:BusinessObject>

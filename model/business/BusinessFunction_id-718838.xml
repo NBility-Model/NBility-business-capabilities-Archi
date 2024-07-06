@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data besturen"
+    id="id-718838"
+    documentation="Het vermogen om data te besturen.">
+  <properties
+      key="Code"
+      value="E.2.2"/>
+  <properties
+      key="Level"
+      value="2"/>
+</archimate:BusinessFunction>

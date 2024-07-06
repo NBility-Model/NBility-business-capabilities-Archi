@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datakwaliteitsregel"
+    id="id-736104"
+    documentation="Een beperking waar een dataset aan moet voldoen.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

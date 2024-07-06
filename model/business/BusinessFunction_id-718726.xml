@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Programma van eisen/functioneel ontwerp opstellen"
+    id="id-718726"
+    documentation="Het vermogen om de bepaalde aanpassingen functioneel te ontwerpen inclusief het bepalen van het programma van eisen voor de verandering.">
+  <properties
+      key="Code"
+      value="C.3.1.5"/>
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessFunction>

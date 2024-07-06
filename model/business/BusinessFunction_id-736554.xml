@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerkersstrategie en -plannen opstellen en besturen"
+    id="id-736554"
+    documentation="Het vermogen om medewerkersstrategie en -plannen op te stellen en te besturen.">
+  <properties
+      key="Code"
+      value="E.3.1"/>
+  <properties
+      key="Level"
+      value="2"/>
+</archimate:BusinessFunction>

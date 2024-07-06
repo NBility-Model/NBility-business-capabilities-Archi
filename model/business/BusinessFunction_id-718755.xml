@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Impact van (geplande) onderbrekingen bepalen"
+    id="id-718755"
+    documentation="Het vermogen om vast te stellen welke aansluitingen getroffen worden door de (geplande/ongeplande) onderbreking en voor welke onderbrekingsduur.">
+  <properties
+      key="Code"
+      value="C.2.3.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerkersstrategie"
+    id="id-736088"
+    documentation="Een algemene aanpak die een organisatie hanteert om medewerkers te werven en inzetbaar te houden zodat zij haar doelstellingen realiseert.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

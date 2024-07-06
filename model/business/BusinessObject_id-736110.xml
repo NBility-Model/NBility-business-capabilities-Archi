@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data-analysemodel"
+    id="id-736110"
+    documentation="Een algoritme bedoeld om bij toepassing op een dataset waardevolle informatie te genereren.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

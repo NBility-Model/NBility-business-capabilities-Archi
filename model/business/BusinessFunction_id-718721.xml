@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opdracht voor uitvoeren van netaanpassing verstrekken, bewaken en administratief verwerken"
+    id="id-718721"
+    documentation="Het vermogen om de opdracht voor de aanpassing aan de uitvoering te verstrekken inclusief het functioneel ontwerp/programma van eisen. Het monitoren/bewaken van de netaanpassing inclusief input verstrekken aan (meerjaren)planning bij afwijking buiten de bandbreedte en aan functioneel ontwerp bij afwijking van het functioneel ontwerp/programma van eisen. Het borgen en mogelijk maken van verwerking van de aanpassingen van de assets in de assetregistraties.">
+  <properties
+      key="Code"
+      value="C.3.1.8"/>
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessFunction>

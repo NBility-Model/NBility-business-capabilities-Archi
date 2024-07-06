@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vacature"
+    id="id-736077"
+    documentation="Een onvervulde arbeidsplaats die open staat voor werving.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

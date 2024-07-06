@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werk"
+    id="id-729609"
+    documentation="De verzameling bedrijfsobjecten nodig om werkzaamheden aan energienetten uit te voeren.">
+  <properties
+      key="Level"
+      value="1"/>
+</archimate:BusinessObject>

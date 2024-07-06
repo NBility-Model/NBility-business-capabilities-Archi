@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Waardering"
+    id="id-736027"
+    documentation="Een vaststelling van de geldelijke waarde van bezittingen.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

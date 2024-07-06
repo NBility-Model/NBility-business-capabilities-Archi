@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energie-uitwisseling"
+    id="id-723109"
+    documentation="Een afname dan wel invoeding van energie op een energienet.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

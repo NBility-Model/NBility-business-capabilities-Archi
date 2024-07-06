@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsgebouw"
+    id="id-736041"
+    documentation="De verzameling bedrijfsobjecten nodig om bedrijfsgebouwen te beheren.">
+  <properties
+      key="Level"
+      value="2"/>
+</archimate:BusinessObject>

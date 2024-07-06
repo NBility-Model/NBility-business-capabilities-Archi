@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werkzaamheden uitvoeren"
+    id="id-711278"
+    documentation="Het vermogen om werkzaamheden aan energienetten uit te voeren.">
+  <properties
+      key="Code"
+      value="C.5.3"/>
+  <properties
+      key="Level"
+      value="2"/>
+</archimate:BusinessFunction>

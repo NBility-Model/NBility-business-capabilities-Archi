@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klantovereenkomst"
+    id="id-729646"
+    documentation="De verzameling bedrijfsobjecten nodig om overeenkomsten te verwerven en beheren.">
+  <properties
+      key="Level"
+      value="2"/>
+</archimate:BusinessObject>

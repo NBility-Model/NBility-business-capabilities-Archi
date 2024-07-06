@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transportberekening"
+    id="id-722927"
+    documentation="Een kwantitatieve analyse van het energietransport met als doel deze in stand te houden.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

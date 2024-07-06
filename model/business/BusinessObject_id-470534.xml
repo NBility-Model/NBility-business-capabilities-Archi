@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energiediefstal"
+    id="id-470534"
+    documentation="Een situatie waarbij op illegale wijze energie wordt onttrokken aan het energienet.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

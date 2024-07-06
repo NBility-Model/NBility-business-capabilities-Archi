@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opregel- of afregelaanbod"
+    id="id-723122"
+    documentation="Een aanbod aan een netbeheerder om het productie- en/of belastingspatroon op een of meer aansluitingen te wijzigen.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerkersprestatie"
+    id="id-479162"
+    documentation="De mate waarin een medewerker gestelde doelen of verplichtingen volbrengt.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitale producten testen"
+    id="id-736322"
+    documentation="Het vermogen om digitale producten te testen. (IT4IT - Test)">
+  <properties
+      key="Code"
+      value="E.4.2.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessFunction>

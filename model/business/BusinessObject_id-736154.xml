@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veranderportfolio"
+    id="id-736154"
+    documentation="Een globale planning van gewenste veranderingen.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

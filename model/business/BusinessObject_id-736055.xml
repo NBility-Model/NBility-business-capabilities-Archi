@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inkoopstrategie"
+    id="id-736055"
+    documentation="Een algemene aanpak die een organisatie hanteert om goederen en diensten te verkrijgen zodat zij haar doelstellingen realiseert.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

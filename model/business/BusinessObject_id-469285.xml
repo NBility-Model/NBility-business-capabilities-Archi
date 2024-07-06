@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facilitair product"
+    id="id-469285"
+    documentation="Een voorwerp of dienst die het gebruik van een bedrijfsgebouw ondersteunt.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werkzaamheden faciliteren"
+    id="id-711280"
+    documentation="Het vermogen om werkzaamheden aan energienetten te faciliteren opdat deze kunnen worden uitgevoerd.">
+  <properties
+      key="Code"
+      value="C.5.4"/>
+  <properties
+      key="Level"
+      value="2"/>
+</archimate:BusinessFunction>

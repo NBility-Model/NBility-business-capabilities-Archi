@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inkomstenverlies beperken"
+    id="id-718342"
+    documentation="Het vermogen om inkomstenverlies op te sporen, oorzaken te onderkennen en weg te nemen c.q te herstellen. Dit geldt zowel voor klant als voor de netbeheerder met eerlijke verdeling van kosten en opbrengsten als resultaat.">
+  <properties
+      key="Code"
+      value="C.1.4"/>
+  <properties
+      key="Level"
+      value="2"/>
+</archimate:BusinessFunction>

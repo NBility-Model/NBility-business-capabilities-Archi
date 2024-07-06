@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitaalproductprestatie"
+    id="id-736180"
+    documentation="De mate waarin de instantie van een digitaal product afgesproken prestatiedoelen behaalt.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

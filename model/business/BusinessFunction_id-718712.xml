@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portfolio van werkzaamheden opstellen en onderhouden"
+    id="id-718712"
+    documentation="Het vermogen om een portfolio aan werkzaamheden aan energienetten op te stellen en te onderhouden die past binnen de capaciteit. Het betreft het portolio van de service provider. Denk ondermeer aan Sales&amp;OperationsPlanning (S&amp;OP) - Supply.">
+  <properties
+      key="Code"
+      value="C.5.1.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessFunction>

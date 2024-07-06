@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Goederen en diensten verkrijgen"
+    id="id-718833"
+    documentation="Het vermogen om goederen en diensten te verkrijgen.">
+  <properties
+      key="Code"
+      value="E.5"/>
+  <properties
+      key="Level"
+      value="1"/>
+</archimate:BusinessFunction>

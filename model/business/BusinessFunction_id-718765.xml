@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contractloze aansluitingen bewaken/verminderen"
+    id="id-718765"
+    documentation="Het vermogen om technisch netverlies en gemiste inkomsten te verkleinen door het aantal contractloze aansluitingen (aansluitingen zonder overeenkomst) te verkleinen alsook de duur van contractloos zijn.">
+  <properties
+      key="Code"
+      value="C.1.4.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessFunction>

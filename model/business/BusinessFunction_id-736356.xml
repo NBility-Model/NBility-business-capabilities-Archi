@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsrichting opstellen en besturen"
+    id="id-736356"
+    documentation="Het vermogen om richting / sturing te geven aan het bedrijf door een missie, visie en een strategie te bepalen, met stakeholders in overeenkomst komen, de transformatie van de inrichting te besturen en continuïteit en compliance te bewaken.&#xA;.">
+  <properties
+      key="Code"
+      value="E.1"/>
+  <properties
+      key="Level"
+      value="1"/>
+</archimate:BusinessFunction>

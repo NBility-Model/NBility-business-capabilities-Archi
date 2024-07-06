@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energietransport"
+    id="id-722908"
+    documentation="Een verplaatsing van energie via een energienet.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

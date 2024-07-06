@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energietransport en -netten waarnemen en omzetten in metingen"
+    id="id-718732"
+    documentation="Het vermogen om energietransport en -netten waar te nemen (net doorstroom, functie performance, net component eigenschap) en om te zetten in metingen (meetdata).">
+  <properties
+      key="Code"
+      value="C.4.1.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessFunction>

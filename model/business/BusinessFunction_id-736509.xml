@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerkersverzuim begeleiden"
+    id="id-736509"
+    documentation="Het vermogen om medewerkersverzuim door ziekte te begeleiden. Dit betreft onder meer de activiteiten van Wet poortwachter waaronder het verzuim registreren, beoordelen, herstel bevorderen en weer aan het werk geraken door werkgevers en werknemer samen met arbodienst en bedrijfsarts.">
+  <properties
+      key="Code"
+      value="E.3.3.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessFunction>

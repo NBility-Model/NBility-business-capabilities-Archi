@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marktprocesverzoek"
+    id="id-729682"
+    documentation="Een vraag om een vooraf vastgesteld marktproces (bijvoorbeeld een inhuizing) uit te voeren.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Archiefstuk"
+    id="id-736112"
+    documentation="Een te bewaren document dat is gemaakt of ontvangen door de netbeheerder bij de uitvoering van zijn activiteiten.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

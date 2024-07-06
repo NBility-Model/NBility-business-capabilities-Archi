@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werkopdracht"
+    id="id-469165"
+    documentation="Een autorisatie voor het uitvoeren van werk aan een energienet.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

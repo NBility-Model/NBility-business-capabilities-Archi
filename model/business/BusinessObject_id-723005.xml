@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standaard werkproduct"
+    id="id-723005"
+    documentation="Regelmatig terugkerend werk, met een norm voor de benodigde uren, materialen en/of instructies.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

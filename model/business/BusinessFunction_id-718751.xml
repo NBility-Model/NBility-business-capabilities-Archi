@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Storingen toewijzen"
+    id="id-718751"
+    documentation="Het vermogen om een monteur aan de storing te koppelen voor lokale analyse en herstel, al dan niet voorzien van een urgentie of prioriteit van de storing.">
+  <properties
+      key="Code"
+      value="C.2.2.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessFunction>

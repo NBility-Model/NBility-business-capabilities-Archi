@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werkmiddel"
+    id="id-475118"
+    documentation="Een gebruiksvoorwerp zoals een stuk gereedschap (bouwmaterieel) of voertuig (rollend materieel) dat wordt gebruikt om te werken aan het energienet.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

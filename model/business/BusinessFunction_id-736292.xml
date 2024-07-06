@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitale producten leveren"
+    id="id-736292"
+    documentation="Het vermogen om digitale producten op te leveren. (IT4IT - Request to Fulfill)">
+  <properties
+      key="Code"
+      value="E.4.3"/>
+  <properties
+      key="Level"
+      value="2"/>
+</archimate:BusinessFunction>

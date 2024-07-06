@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontwikkeling en instandhouding van energienetten besturen"
+    id="id-718167"
+    documentation="Het vermogen om energienetten te ontwikkelen en op het afgesproken niveau beschikbaar te houden, zodat het energienet continu aan de gestelde eisen voldoet. Denk hierbij aan het ontwikkelen van primaire, secundaire, tertiaire en telecom netcomponenten.">
+  <properties
+      key="Code"
+      value="C.3"/>
+  <properties
+      key="Level"
+      value="1"/>
+</archimate:BusinessFunction>

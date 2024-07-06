@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsstrategie"
+    id="id-736148"
+    documentation="Een algemene aanpak die een organisatie hanteert om haar missie, visie, kernwaarden en doelstellingen te realiseren.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

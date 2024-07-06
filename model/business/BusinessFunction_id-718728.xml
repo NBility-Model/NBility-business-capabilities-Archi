@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vragen van marktpartijen afhandelen"
+    id="id-718728"
+    documentation="Het vermogen om verzoeken van marktpartijen aan te nemen en af te handelen, zoals vragen over metingen, facturen, etc.">
+  <properties
+      key="Code"
+      value="C.6.1.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessFunction>

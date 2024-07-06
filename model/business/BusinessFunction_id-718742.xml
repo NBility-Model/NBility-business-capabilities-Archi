@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energie-uitwisseling toewijzen aan marktpartijen"
+    id="id-718742"
+    documentation="Het vermogen om de vastgestelde energie-uitwisseling toe te wijzen aan marktpartijen. Dit omvat het alloceren en reconciliëren waarna financieel settlement volgt in het financiële ondersteunende proces.">
+  <properties
+      key="Code"
+      value="C.6.3.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessFunction>

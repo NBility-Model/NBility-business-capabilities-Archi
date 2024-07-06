@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proces"
+    id="id-736098"
+    documentation="Een ordening van repetitief uit te voeren werk, gericht op een beoogd resultaat.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

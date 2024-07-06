@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tracévergunningen verkrijgen/zakelijk recht vestigen"
+    id="id-718723"
+    documentation="Het vermogen om vergunningen te verkrijgen en zakelijke rechten te vestigen, en deze te beheren.">
+  <properties
+      key="Code"
+      value="C.3.1.7"/>
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessFunction>

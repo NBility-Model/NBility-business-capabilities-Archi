@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tertiaire netcomponent"
+    id="id-723050"
+    documentation="Een facilitaire voorziening voor de fysieke bescherming en/of ondersteuning van netcomponenten.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

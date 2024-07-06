@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Storingen onderzoeken"
+    id="id-718707"
+    documentation="Het vermogen om root cause analyses uit te voeren op de storingen van een bepaalde periode en deze om te zetten in verbeteracties waaronder aanpassing van onderhoudsplan, herontwikkeling/vernieuwing van netcomponenten, aanpassen van storing afhandelingsproces, ..">
+  <properties
+      key="Code"
+      value="C.3.2.6"/>
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessFunction>

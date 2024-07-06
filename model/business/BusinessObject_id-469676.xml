@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technische bedrijfsstandaard"
+    id="id-469676"
+    documentation="Een norm die aangeeft waaraan een bepaald product in technisch opzicht zou moeten voldoen.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Open data beschikbaar maken"
+    id="id-736329"
+    documentation="Het vermogen om open data beschikbaar te maken ten behoeve van energietransitie of anderszins omgevingsvraagstukken uit te wisselen met klanten en/of andere stakeholders als gemeenten, energiecorporaties, warmtebedrijven, woningcorporaties, provincies, rijksoverheid, consultancybureau's. De wet kent  vier soorten data delen. Deze capability betreft  open data.">
+  <properties
+      key="Code"
+      value="C.6.4.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privacy borgen"
+    id="id-736310"
+    documentation="Het vermogen om privacyrisico's te inventariseren,  te analyseren, te prioriteren en maatregelen te borgen.&#xA;.">
+  <properties
+      key="Code"
+      value="E.1.4.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessFunction>

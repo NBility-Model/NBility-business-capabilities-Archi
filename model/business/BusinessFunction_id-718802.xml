@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Installaties achter aansluitingen beheren"
+    id="id-718802"
+    documentation="Het vermogen om de marktgegevens over installaties achter aansluitingen te beheren zoals productie-, opslag- en verbruikseenheden.">
+  <properties
+      key="Code"
+      value="C.6.2.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessFunction>

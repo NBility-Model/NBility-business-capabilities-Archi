@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Crisissen beheersen"
+    id="id-718826"
+    documentation="Het vermogen om crissisen te besturen en planmatig te beheersen.&#xA;.">
+  <properties
+      key="Code"
+      value="E.1.4.7"/>
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessFunction>

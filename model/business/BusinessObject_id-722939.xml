@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klantnotificatie"
+    id="id-722939"
+    documentation="Een aan een klant gerichte officiële kennisgeving van een verandering in de status van de aansluit- of transportdienst.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

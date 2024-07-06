@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energiemarkt"
+    id="id-729665"
+    documentation="De verzameling bedrijfsobjecten nodig om de energiemarkt te faciliteren.">
+  <properties
+      key="Level"
+      value="1"/>
+</archimate:BusinessObject>

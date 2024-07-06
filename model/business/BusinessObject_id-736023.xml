@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Liquide middel"
+    id="id-736023"
+    documentation="Direct beschikbaar geld of direct opeisbaar tegoed.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

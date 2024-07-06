@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Storingen en onderbrekingen oplossen"
+    id="id-718752"
+    documentation="Het vermogen om het energienet 'in operatie' te brengen om de onderbreking bij afnemers (verbruikersminuten) te minimaliseren.">
+  <properties
+      key="Code"
+      value="C.2.2.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessFunction>

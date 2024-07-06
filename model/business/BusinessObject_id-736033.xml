@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financieel verslag"
+    id="id-736033"
+    documentation="Een overzicht van de financiële situatie van een organisatie.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

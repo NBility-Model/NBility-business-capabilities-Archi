@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Netcomponentconditie"
+    id="id-468996"
+    documentation="(Technische) toestand waarin een netcomponent verkeert.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

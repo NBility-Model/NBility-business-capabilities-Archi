@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werkactiviteit"
+    id="id-472136"
+    documentation="Een inspanning van een medewerker die voortvloeit uit een werkopdracht.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>

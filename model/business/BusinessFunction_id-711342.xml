@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energienetten in stand houden"
+    id="id-711342"
+    documentation="Het vermogen om werkzaamheden te definiëren die de energienetten beschikbaar houden op basis van de toestand van het net gerelateerd aan afgesproken prestaties.">
+  <properties
+      key="Code"
+      value="C.3.2"/>
+  <properties
+      key="Level"
+      value="2"/>
+</archimate:BusinessFunction>

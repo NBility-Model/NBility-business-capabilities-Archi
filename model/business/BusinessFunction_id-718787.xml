@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metingen interpretabel maken"
+    id="id-718787"
+    documentation="Het vermogen om metingen functioneel te verrijken (bv. operationele net component identifier vertalen naar functionele net component identifier en toevoegen van metadata (datum, tijd en kwaliteits identificatie)). Dit omvat het technisch vertalen van de meting (o.a. protocol vertaling).">
+  <properties
+      key="Code"
+      value="C.4.2.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessFunction>

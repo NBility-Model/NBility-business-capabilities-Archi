@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerkersverlof verantwoorden"
+    id="id-736540"
+    documentation="Het vermogen om (calamiteiten) verlof aan te vragen en te registreren.">
+  <properties
+      key="Code"
+      value="E.3.3.5"/>
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessFunction>

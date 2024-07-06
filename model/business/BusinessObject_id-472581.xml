@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitvoeringscapaciteit"
+    id="id-472581"
+    documentation="Het vermogen van medewerkers om werkactiviteiten uit te voeren.">
+  <properties
+      key="Level"
+      value="3"/>
+</archimate:BusinessObject>
