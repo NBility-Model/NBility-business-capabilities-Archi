@@ -9,4 +9,13 @@
   <properties
       key="Name (en)"
       value="Disturbance"/>
+  <properties
+      key="Alias"
+      value="storingsmelding"/>
+  <properties
+      key="Source"
+      value="storing (Handleiding Nestor)"/>
+  <properties
+      key="Source"
+      value="storing (Regeling investeringsplan en kwaliteit elektriciteit en gas)"/>
 </archimate:BusinessObject>

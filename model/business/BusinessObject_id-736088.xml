@@ -9,4 +9,7 @@
   <properties
       key="Name (en)"
       value="Human resource strategy"/>
+  <properties
+      key="Alias"
+      value="medewerkersbeleid"/>
 </archimate:BusinessObject>

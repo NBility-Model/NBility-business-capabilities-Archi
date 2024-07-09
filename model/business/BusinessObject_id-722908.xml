@@ -9,4 +9,25 @@
   <properties
       key="Name (en)"
       value="Energy transport"/>
+  <properties
+      key="Alias"
+      value="spanningskwaliteit"/>
+  <properties
+      key="Alias"
+      value="gaskwaliteit"/>
+  <properties
+      key="Alias"
+      value="gasdruk"/>
+  <properties
+      key="Alias"
+      value="debiet"/>
+  <properties
+      key="Alias"
+      value="belasting"/>
+  <properties
+      key="Alias"
+      value="energietransmissie"/>
+  <properties
+      key="Alias"
+      value="energiedistributie"/>
 </archimate:BusinessObject>

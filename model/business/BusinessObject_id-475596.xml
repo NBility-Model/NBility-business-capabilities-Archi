@@ -9,4 +9,19 @@
   <properties
       key="Name (en)"
       value="Purchase agreement"/>
+  <properties
+      key="Alias"
+      value="inkoopcontract"/>
+  <properties
+      key="Alias"
+      value="verwerkersovereenkomst"/>
+  <properties
+      key="Alias"
+      value="aanbesteding"/>
+  <properties
+      key="Alias"
+      value="raamcontract"/>
+  <properties
+      key="Alias"
+      value="raamovereenkomst"/>
 </archimate:BusinessObject>

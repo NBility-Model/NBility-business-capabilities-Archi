@@ -9,4 +9,25 @@
   <properties
       key="Name (en)"
       value="Facility product"/>
+  <properties
+      key="Alias"
+      value="toegangspas"/>
+  <properties
+      key="Alias"
+      value="ruimtereservering"/>
+  <properties
+      key="Alias"
+      value="schoonmaak"/>
+  <properties
+      key="Alias"
+      value="catering"/>
+  <properties
+      key="Alias"
+      value="verhuizing"/>
+  <properties
+      key="Alias"
+      value="poststuk"/>
+  <properties
+      key="Alias"
+      value="facilitaire dienst"/>
 </archimate:BusinessObject>

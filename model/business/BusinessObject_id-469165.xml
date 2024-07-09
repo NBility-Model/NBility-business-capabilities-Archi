@@ -9,4 +9,19 @@
   <properties
       key="Name (en)"
       value="Work order"/>
+  <properties
+      key="Alias"
+      value="case"/>
+  <properties
+      key="Alias"
+      value="project"/>
+  <properties
+      key="Alias"
+      value="werkorder"/>
+  <properties
+      key="Alias"
+      value="WBS-element"/>
+  <properties
+      key="Alias"
+      value="uitvoeringsopdracht"/>
 </archimate:BusinessObject>

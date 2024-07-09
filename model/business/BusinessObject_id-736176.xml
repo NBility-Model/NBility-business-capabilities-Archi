@@ -9,4 +9,25 @@
   <properties
       key="Name (en)"
       value="Digital product instance"/>
+  <properties
+      key="Alias"
+      value="digitale identiteit"/>
+  <properties
+      key="Alias"
+      value="user account"/>
+  <properties
+      key="Alias"
+      value="service level agreement (SLA)"/>
+  <properties
+      key="Alias"
+      value="request for change (RFC)"/>
+  <properties
+      key="Alias"
+      value="autorisatie"/>
+  <properties
+      key="Source"
+      value="desired product instance (Open Group IT4IT)"/>
+  <properties
+      key="Source"
+      value="desired product instance (Open Group IT4IT)"/>
 </archimate:BusinessObject>

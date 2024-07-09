@@ -9,4 +9,13 @@
   <properties
       key="Name (en)"
       value="Worker agreement"/>
+  <properties
+      key="Alias"
+      value="arbeidsovereenkomst"/>
+  <properties
+      key="Alias"
+      value="stageovereenkomst"/>
+  <properties
+      key="Alias"
+      value="dienstbetrekking"/>
 </archimate:BusinessObject>

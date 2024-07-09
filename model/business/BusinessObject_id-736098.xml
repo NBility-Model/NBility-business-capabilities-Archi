@@ -9,4 +9,16 @@
   <properties
       key="Name (en)"
       value="Process"/>
+  <properties
+      key="Alias"
+      value="waardestroom"/>
+  <properties
+      key="Alias"
+      value="workflow"/>
+  <properties
+      key="Alias"
+      value="procesbeschrijving"/>
+  <properties
+      key="Source"
+      value="proces (Wikipedia)"/>
 </archimate:BusinessObject>

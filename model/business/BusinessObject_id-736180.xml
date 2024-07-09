@@ -9,4 +9,16 @@
   <properties
       key="Name (en)"
       value="Digital product performance"/>
+  <properties
+      key="Alias"
+      value="incident"/>
+  <properties
+      key="Alias"
+      value="problem"/>
+  <properties
+      key="Alias"
+      value="alert"/>
+  <properties
+      key="Alias"
+      value="event log"/>
 </archimate:BusinessObject>

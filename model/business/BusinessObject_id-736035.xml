@@ -9,4 +9,7 @@
   <properties
       key="Name (en)"
       value="Finance strategy"/>
+  <properties
+      key="Alias"
+      value="financieel beleid"/>
 </archimate:BusinessObject>

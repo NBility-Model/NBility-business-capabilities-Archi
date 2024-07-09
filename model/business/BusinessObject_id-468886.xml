@@ -9,4 +9,16 @@
   <properties
       key="Name (en)"
       value="Connection"/>
+  <properties
+      key="Alias"
+      value="overdrachtspunt"/>
+  <properties
+      key="Alias"
+      value="allocatiepunt"/>
+  <properties
+      key="Source"
+      value="aansluiting (Elektriciteitswet 1998)"/>
+  <properties
+      key="Source"
+      value="aansluiting (Gaswet)"/>
 </archimate:BusinessObject>

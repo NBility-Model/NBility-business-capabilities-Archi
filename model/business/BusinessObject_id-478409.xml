@@ -9,4 +9,40 @@
   <properties
       key="Name (en)"
       value="Market participant"/>
+  <properties
+      key="Alias"
+      value="marktdeelnemer"/>
+  <properties
+      key="Alias"
+      value="energieleverancier (LV)"/>
+  <properties
+      key="Alias"
+      value="netbeheerder (NB)"/>
+  <properties
+      key="Alias"
+      value="programmaverantwoordelijke (PV)"/>
+  <properties
+      key="Alias"
+      value="meetverantwoordelijke (MV)"/>
+  <properties
+      key="Alias"
+      value="aggregator"/>
+  <properties
+      key="Alias"
+      value="balancing responsible party (BRP)"/>
+  <properties
+      key="Alias"
+      value="balancing service provider (BSP)"/>
+  <properties
+      key="Alias"
+      value="congestion service provider (CSP)"/>
+  <properties
+      key="Source"
+      value="marktpartij (Begrippencode elektriciteit)"/>
+  <properties
+      key="Source"
+      value="marktdeelnemer (Elektriciteitswet 1998"/>
+  <properties
+      key="Source"
+      value="marktdeelnemer (Gaswet)"/>
 </archimate:BusinessObject>

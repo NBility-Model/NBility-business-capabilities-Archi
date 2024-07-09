@@ -9,4 +9,10 @@
   <properties
       key="Name (en)"
       value="Worker performance"/>
+  <properties
+      key="Alias"
+      value="functioneringsbeoordeling"/>
+  <properties
+      key="Alias"
+      value="personeelsdossier"/>
 </archimate:BusinessObject>

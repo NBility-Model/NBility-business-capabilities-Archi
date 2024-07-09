@@ -9,4 +9,7 @@
   <properties
       key="Name (en)"
       value="Work activity"/>
+  <properties
+      key="Alias"
+      value="taak"/>
 </archimate:BusinessObject>

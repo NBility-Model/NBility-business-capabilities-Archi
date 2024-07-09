@@ -9,4 +9,19 @@
   <properties
       key="Name (en)"
       value="Customer agreement"/>
+  <properties
+      key="Alias"
+      value="klantopdracht"/>
+  <properties
+      key="Alias"
+      value="klantorder"/>
+  <properties
+      key="Alias"
+      value="restrictiecontract"/>
+  <properties
+      key="Alias"
+      value="aansluit- en transportovereenkomst (ATO)"/>
+  <properties
+      key="Source"
+      value="overeenkomst (contract) (Wikipedia)"/>
 </archimate:BusinessObject>

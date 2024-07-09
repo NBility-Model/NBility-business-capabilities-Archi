@@ -9,4 +9,22 @@
   <properties
       key="Name (en)"
       value="Digital product release"/>
+  <properties
+      key="Alias"
+      value="programmacode"/>
+  <properties
+      key="Alias"
+      value="user story"/>
+  <properties
+      key="Alias"
+      value="versie"/>
+  <properties
+      key="Alias"
+      value="release"/>
+  <properties
+      key="Alias"
+      value="software bill of materials (SBOM)"/>
+  <properties
+      key="Source"
+      value="product release (Open Group IT4IT)"/>
 </archimate:BusinessObject>

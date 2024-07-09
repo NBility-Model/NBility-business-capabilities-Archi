@@ -9,4 +9,16 @@
   <properties
       key="Name (en)"
       value="Measurement"/>
+  <properties
+      key="Alias"
+      value="meetgegeven"/>
+  <properties
+      key="Alias"
+      value="meetdata"/>
+  <properties
+      key="Alias"
+      value="meterstand"/>
+  <properties
+      key="Alias"
+      value="meetpunt"/>
 </archimate:BusinessObject>

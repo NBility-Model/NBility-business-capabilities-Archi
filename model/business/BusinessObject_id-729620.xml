@@ -9,4 +9,7 @@
   <properties
       key="Name (en)"
       value="Work portfolio"/>
+  <properties
+      key="Alias"
+      value="werksamenstelling"/>
 </archimate:BusinessObject>

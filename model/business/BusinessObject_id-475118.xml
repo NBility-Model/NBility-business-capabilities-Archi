@@ -9,4 +9,7 @@
   <properties
       key="Name (en)"
       value="Work resource"/>
+  <properties
+      key="Alias"
+      value="materieel"/>
 </archimate:BusinessObject>
