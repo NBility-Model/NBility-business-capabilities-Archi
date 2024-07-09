@@ -4,6 +4,8 @@
     name="op basis van"
     id="id-9d71c6d456414e1a8720d7c0d0562129"
     directed="true">
+  <properties
+      key="Name (en)"/>
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-729643.xml#id-729643"/>

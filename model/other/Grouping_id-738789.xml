@@ -1,8 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Core bedrijfsobjecten"
+    name="Core objecten"
     id="id-738789">
   <properties
       key="Name (en)"
-      value="Core business objects"/>
+      value="Core objects"/>
 </archimate:Grouping>
