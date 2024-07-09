@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="2"/>
+  <properties
+      key="Name (en)"
+      value="Serve market parties and maintain relations"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to serve energy market parties and maintain relations between them."/>
 </archimate:BusinessFunction>

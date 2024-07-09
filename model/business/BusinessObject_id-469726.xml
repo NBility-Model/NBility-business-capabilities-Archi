@@ -6,4 +6,13 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Grid component configuration"/>
+  <properties
+      key="Alias"
+      value="assetconfiguratie"/>
+  <properties
+      key="Alias"
+      value="assetfirmware"/>
 </archimate:BusinessObject>

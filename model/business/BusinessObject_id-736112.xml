@@ -6,4 +6,16 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Archival document"/>
+  <properties
+      key="Source"
+      value="archiefbescheiden (Archiefwet 1995)"/>
+  <properties
+      key="Alias"
+      value="archiefbescheiden"/>
+  <properties
+      key="Alias"
+      value="archiefobject"/>
 </archimate:BusinessObject>

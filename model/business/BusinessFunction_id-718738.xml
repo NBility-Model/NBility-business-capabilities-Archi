@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Manage warehouses and stock"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to manage warehouses and stock. Think about storage, stock issueing, returns and stock taking."/>
 </archimate:BusinessFunction>

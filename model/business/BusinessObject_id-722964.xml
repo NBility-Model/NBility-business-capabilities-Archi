@@ -6,4 +6,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Contractless situation"/>
+  <properties
+      key="Alias"
+      value="energieafname zonder contract"/>
 </archimate:BusinessObject>

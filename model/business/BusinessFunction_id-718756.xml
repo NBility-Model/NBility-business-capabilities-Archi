@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Plan and analyse transport"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to estimate the load on the energy grid in the short term, including identifying congestion, balance differences and processing the results of adjustment actions (e.g. switching actions and direct and/or market flex call). Creating the inclusive insight that is necessary to be able to draw up a T-forecast (transport forecast)."/>
 </archimate:BusinessFunction>

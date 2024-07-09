@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Perform environmental analysis"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to perform environmental analysis. Think about: soil conditions, asbestos, flora, fauna, legal ownership."/>
 </archimate:BusinessFunction>

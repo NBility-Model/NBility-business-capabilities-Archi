@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Maintain relations with market parties"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to maintain relations with market parties, including the registration of these market parties, e.g. energy supplier, balance responsible party (BRP), Aggregators, ..."/>
 </archimate:BusinessFunction>

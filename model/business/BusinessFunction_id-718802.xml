@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Manage installations behind connections"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to manage market data on production, storage and consumption units."/>
 </archimate:BusinessFunction>

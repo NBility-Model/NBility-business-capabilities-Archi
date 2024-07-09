@@ -6,4 +6,7 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Customer invoice"/>
 </archimate:BusinessObject>

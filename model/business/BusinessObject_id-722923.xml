@@ -6,4 +6,16 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Non-availability"/>
+  <properties
+      key="Source"
+      value="niet-beschikbaarhied (Netcode elektriciteit)"/>
+  <properties
+      key="Alias"
+      value="voorziene niet-beschikbaarheid (VNB)"/>
+  <properties
+      key="Alias"
+      value="onvoorziene niet-beschikbaarheid (ONB)"/>
 </archimate:BusinessObject>

@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Advise clients on work"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to estimate work and to advise clients, like an asset manager, on this work"/>
 </archimate:BusinessFunction>

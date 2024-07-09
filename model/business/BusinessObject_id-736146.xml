@@ -6,4 +6,19 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Business performance"/>
+  <properties
+      key="Source"
+      value="prestatie (Wikipedia)"/>
+  <properties
+      key="Alias"
+      value="key performance indicator (KPI)"/>
+  <properties
+      key="Alias"
+      value="objectives and key results (OKR)"/>
+  <properties
+      key="Alias"
+      value="measure"/>
 </archimate:BusinessObject>

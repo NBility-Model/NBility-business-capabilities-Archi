@@ -6,4 +6,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Sick leave"/>
+  <properties
+      key="Source"
+      value="verzuim (Wikipedia)"/>
 </archimate:BusinessObject>

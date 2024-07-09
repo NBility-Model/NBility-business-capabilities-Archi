@@ -6,4 +6,28 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Outage"/>
+  <properties
+      key="Source"
+      value="onderbreking (Regeling investeringsplan en kwaliteit elektriciteit en gas)"/>
+  <properties
+      key="Alias"
+      value="geplande werkzaamheden"/>
+  <properties
+      key="Alias"
+      value="verstoring"/>
+  <properties
+      key="Alias"
+      value="voorziene onderbreking"/>
+  <properties
+      key="Alias"
+      value="onvoorziene onderbreking"/>
+  <properties
+      key="Alias"
+      value="geplande onderbreking"/>
+  <properties
+      key="Alias"
+      value="ongeplande onderbreking"/>
 </archimate:BusinessObject>

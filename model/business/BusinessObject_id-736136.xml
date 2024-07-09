@@ -6,4 +6,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Business continuity plan"/>
+  <properties
+      key="Source"
+      value="business continuity plan (ISO 22301)"/>
 </archimate:BusinessObject>

@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Determine compensation for damage caused by work activities"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to determine financial compensation for customers when an employee or contractor has caused damage at the customer"/>
 </archimate:BusinessFunction>

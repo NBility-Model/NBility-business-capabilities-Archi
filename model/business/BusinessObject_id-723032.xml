@@ -6,4 +6,16 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Environmental analysis"/>
+  <properties
+      key="Alias"
+      value="bodemkwaliteit"/>
+  <properties
+      key="Alias"
+      value="fysieke leefomgeving"/>
+  <properties
+      key="Alias"
+      value="ondergrond"/>
 </archimate:BusinessObject>

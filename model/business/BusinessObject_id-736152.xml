@@ -6,4 +6,25 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Change initiative"/>
+  <properties
+      key="Alias"
+      value="project"/>
+  <properties
+      key="Alias"
+      value="epic"/>
+  <properties
+      key="Alias"
+      value="backlog"/>
+  <properties
+      key="Alias"
+      value="feature"/>
+  <properties
+      key="Alias"
+      value="story"/>
+  <properties
+      key="Alias"
+      value="enabler"/>
 </archimate:BusinessObject>

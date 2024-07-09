@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Create, adjust and remove digital products"/>
+  <properties
+      key="Documentation (en)"
+      value="(IT4IT Develop)"/>
 </archimate:BusinessFunction>

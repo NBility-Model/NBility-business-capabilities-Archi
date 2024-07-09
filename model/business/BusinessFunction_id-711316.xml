@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="2"/>
+  <properties
+      key="Name (en)"
+      value="Create and maintain work portfolio"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to prepare and maintain a portfolio for work on energy grids."/>
 </archimate:BusinessFunction>

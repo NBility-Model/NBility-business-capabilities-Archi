@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="2"/>
+  <properties
+      key="Name (en)"
+      value="Assure Digital products"/>
+  <properties
+      key="Documentation (en)"
+      value="(IT4IT - Detect to Correct)"/>
 </archimate:BusinessFunction>

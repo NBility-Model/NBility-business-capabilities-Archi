@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Collect and analyse/simulate (changed) needs for capacity and functionality"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to collect, analyse and simulate (changing) needs for capacity and functionality. Think of: long term, investments/capex planning."/>
 </archimate:BusinessFunction>

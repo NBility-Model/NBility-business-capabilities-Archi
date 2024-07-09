@@ -6,4 +6,19 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Switching plan"/>
+  <properties
+      key="Source"
+      value="bedieningsplan (BEIVIAG)"/>
+  <properties
+      key="Alias"
+      value="schakelplan"/>
+  <properties
+      key="Alias"
+      value="schakelbrief"/>
+  <properties
+      key="Alias"
+      value="bedienplan"/>
 </archimate:BusinessObject>

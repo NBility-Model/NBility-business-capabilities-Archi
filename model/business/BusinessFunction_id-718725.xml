@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Commission and decommision grid components on premises"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to commission and decommission grid components on the premises."/>
 </archimate:BusinessFunction>

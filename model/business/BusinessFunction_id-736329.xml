@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Make open data available"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to exchange data with customers and/or stakeholders like municipalities, energy corporations, warmtebedrijfen, housing corporation, provinces, central government and consultancy agencies, for the purpose of the energy transition or other environmental issues."/>
 </archimate:BusinessFunction>

@@ -6,4 +6,16 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Travel movement"/>
+  <properties
+      key="Source"
+      value="reis (Wikipedia)"/>
+  <properties
+      key="Alias"
+      value="woon-werkverkeer"/>
+  <properties
+      key="Alias"
+      value="zakelijk verkeer"/>
 </archimate:BusinessObject>

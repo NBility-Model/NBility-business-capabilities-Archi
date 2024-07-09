@@ -6,4 +6,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Vacancy"/>
+  <properties
+      key="Source"
+      value="vacature (Wikipedia)"/>
 </archimate:BusinessObject>

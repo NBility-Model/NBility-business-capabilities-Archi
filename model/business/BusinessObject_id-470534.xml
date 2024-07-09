@@ -6,4 +6,13 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Energy theft"/>
+  <properties
+      key="Source"
+      value="energiediefstal (Netbeheer Nederland)"/>
+  <properties
+      key="Alias"
+      value="energiefraude"/>
 </archimate:BusinessObject>

@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="1"/>
+  <properties
+      key="Name (en)"
+      value="Develop and control business direction"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to provide direction to the company by determining a mission, vision and strategy, reaching agreements with stakeholders, managing the transformation of the organization and monitoring continuity and compliance."/>
 </archimate:BusinessFunction>

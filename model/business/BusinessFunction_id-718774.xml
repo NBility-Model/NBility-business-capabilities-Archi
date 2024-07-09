@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Execute energy market procedures"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to accept and handle requests for changes of connections and allocation points  initiated by market parties (like switching, move in, move out and banckruptcy of supplier)"/>
 </archimate:BusinessFunction>

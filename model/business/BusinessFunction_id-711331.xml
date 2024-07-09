@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="2"/>
+  <properties
+      key="Name (en)"
+      value="Invoice and collect"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to create, send and collect invoices."/>
 </archimate:BusinessFunction>

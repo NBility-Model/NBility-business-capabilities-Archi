@@ -6,4 +6,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Innovation"/>
+  <properties
+      key="Source"
+      value="innovatie (Wikipedia)"/>
 </archimate:BusinessObject>

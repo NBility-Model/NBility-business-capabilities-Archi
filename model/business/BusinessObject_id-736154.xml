@@ -6,4 +6,16 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Change portfolio"/>
+  <properties
+      key="Alias"
+      value="routekaart"/>
+  <properties
+      key="Alias"
+      value="roadmap"/>
+  <properties
+      key="Alias"
+      value="programma"/>
 </archimate:BusinessObject>

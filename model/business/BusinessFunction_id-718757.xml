@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Control energy transport"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to determine and send control actions to specific net components, supported by signal and/or measurement data and formalised logic to keep energy flowing and maintain balance."/>
 </archimate:BusinessFunction>

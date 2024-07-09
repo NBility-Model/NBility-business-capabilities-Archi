@@ -6,4 +6,19 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Goods movement"/>
+  <properties
+      key="Source"
+      value="goods movement (SAP)"/>
+  <properties
+      key="Alias"
+      value="pakbon"/>
+  <properties
+      key="Alias"
+      value="bill of materials (BOM)"/>
+  <properties
+      key="Alias"
+      value="stuklijst"/>
 </archimate:BusinessObject>

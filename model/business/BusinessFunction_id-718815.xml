@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="2"/>
+  <properties
+      key="Name (en)"
+      value="Formulate strategy"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
 </archimate:BusinessFunction>

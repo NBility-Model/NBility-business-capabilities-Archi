@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Classify disturbances"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to determine the type of failure partly based on an estimate of local conditions (eg location of gas leak, number of parts per million (ppm), regulated, sector and internal guidelines, impact or possible impact)."/>
 </archimate:BusinessFunction>

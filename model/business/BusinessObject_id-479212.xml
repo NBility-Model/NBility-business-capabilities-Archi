@@ -6,4 +6,19 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Customer interaction"/>
+  <properties
+      key="Source"
+      value="contactmoment (Gemma)"/>
+  <properties
+      key="Alias"
+      value="klantinteractie"/>
+  <properties
+      key="Alias"
+      value="klantevent"/>
+  <properties
+      key="Alias"
+      value="klantvraag"/>
 </archimate:BusinessObject>

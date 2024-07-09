@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="2"/>
+  <properties
+      key="Name (en)"
+      value="Acquire and manage contracts"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to enter into and manage agreements with customers."/>
 </archimate:BusinessFunction>

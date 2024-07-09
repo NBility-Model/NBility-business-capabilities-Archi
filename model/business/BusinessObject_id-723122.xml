@@ -6,4 +6,19 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Upward or downward regulation offer"/>
+  <properties
+      key="Alias"
+      value="bieding balanceringsenergie"/>
+  <properties
+      key="Alias"
+      value="bieding redispatch"/>
+  <properties
+      key="Alias"
+      value="balanceringscapaciteit"/>
+  <properties
+      key="Alias"
+      value="redispatchcapaciteit"/>
 </archimate:BusinessObject>

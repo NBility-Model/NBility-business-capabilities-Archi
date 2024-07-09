@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Develop and maintain policies and standards on energy grids"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to develop and maintain policies and standards for adapting (expanding, replacing, renewing) and maintaining energy grids, such as a technical manual."/>
 </archimate:BusinessFunction>

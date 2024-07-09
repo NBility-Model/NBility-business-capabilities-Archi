@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Manage and collect outstanding debts"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to get outstanding debts paid on time, taking into account legal deadlines. This also includes engaging a debt collector or making a payment arrangement."/>
 </archimate:BusinessFunction>

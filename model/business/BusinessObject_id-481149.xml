@@ -6,4 +6,25 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Grid calculation"/>
+  <properties
+      key="Source"
+      value="scenario (Regeling investeringsplan en kwaliteit elektriciteit en gas)"/>
+  <properties
+      key="Alias"
+      value="scenario"/>
+  <properties
+      key="Alias"
+      value="netsimulatie"/>
+  <properties
+      key="Alias"
+      value="loadflowberekening"/>
+  <properties
+      key="Alias"
+      value="kortsluitberekening"/>
+  <properties
+      key="Alias"
+      value="stabiliteitsberekening"/>
 </archimate:BusinessObject>

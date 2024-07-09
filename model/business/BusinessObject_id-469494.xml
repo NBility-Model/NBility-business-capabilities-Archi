@@ -6,4 +6,25 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Connection location"/>
+  <properties
+      key="Alias"
+      value="leveringsadres"/>
+  <properties
+      key="Alias"
+      value="leveringspunt"/>
+  <properties
+      key="Alias"
+      value="verbruiksplaats"/>
+  <properties
+      key="Alias"
+      value="pand"/>
+  <properties
+      key="Alias"
+      value="kadastraal perceel"/>
+  <properties
+      key="Alias"
+      value="verblijfsobject"/>
 </archimate:BusinessObject>

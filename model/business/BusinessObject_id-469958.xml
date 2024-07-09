@@ -6,4 +6,25 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Customer request"/>
+  <properties
+      key="Alias"
+      value="klacht"/>
+  <properties
+      key="Alias"
+      value="claim"/>
+  <properties
+      key="Alias"
+      value="vraag"/>
+  <properties
+      key="Alias"
+      value="melding"/>
+  <properties
+      key="Alias"
+      value="klantcase"/>
+  <properties
+      key="Alias"
+      value="klantticket"/>
 </archimate:BusinessObject>

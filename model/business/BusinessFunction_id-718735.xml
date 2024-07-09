@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Operationally plan work"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to execute operational planning of work, like scheduling technicians."/>
 </archimate:BusinessFunction>

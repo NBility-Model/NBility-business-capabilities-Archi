@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Validate measurements"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to check measurements against validity rules and correct them if necessary."/>
 </archimate:BusinessFunction>

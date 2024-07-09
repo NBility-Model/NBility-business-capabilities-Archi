@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Determine impact of (planned) outages"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to determine which connections are affected by the (planned/unplanned) interruption and for which duration."/>
 </archimate:BusinessFunction>

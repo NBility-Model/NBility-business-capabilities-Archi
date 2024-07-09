@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Prepare and maintain work portfolio"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to prepare and maintain a portfolio for work on energy grids, taking into account the capacity. The portofolio concern the service provider, like Sales&amp;OperationsPlanning (S&amp;OP) - Supply."/>
 </archimate:BusinessFunction>

@@ -6,4 +6,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Crisis"/>
+  <properties
+      key="Source"
+      value="crisis (Wikipedia)"/>
 </archimate:BusinessObject>

@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="2"/>
+  <properties
+      key="Name (en)"
+      value="Expand, replace and renew energy grids"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to define work for adjustments to the energy grids."/>
 </archimate:BusinessFunction>

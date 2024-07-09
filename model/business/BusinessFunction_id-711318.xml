@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="2"/>
+  <properties
+      key="Name (en)"
+      value="Realise energy transport"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to determine and coordinate supply and demand in the moment."/>
 </archimate:BusinessFunction>

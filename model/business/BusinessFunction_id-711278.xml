@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="2"/>
+  <properties
+      key="Name (en)"
+      value="Execute work"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to perform work on energy grids."/>
 </archimate:BusinessFunction>

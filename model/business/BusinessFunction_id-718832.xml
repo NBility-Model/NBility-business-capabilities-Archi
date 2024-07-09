@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="1"/>
+  <properties
+      key="Name (en)"
+      value="Manage finance"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to manage finances."/>
 </archimate:BusinessFunction>

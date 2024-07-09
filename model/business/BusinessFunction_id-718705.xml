@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Translate external regulations into guidelines"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to translate external regulations into internal guidelines (policies and standards)."/>
 </archimate:BusinessFunction>

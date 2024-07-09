@@ -6,4 +6,19 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Data quality rule"/>
+  <properties
+      key="Source"
+      value="kwaliteitsregel (NORA raamwerk gegevenkwaliteit)"/>
+  <properties
+      key="Alias"
+      value="gegevenskwaliteitsregel"/>
+  <properties
+      key="Alias"
+      value="bedrijfsregel"/>
+  <properties
+      key="Alias"
+      value="business rule"/>
 </archimate:BusinessObject>

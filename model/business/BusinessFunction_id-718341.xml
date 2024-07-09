@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="2"/>
+  <properties
+      key="Name (en)"
+      value="Distribute measurements"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to process measurements of energy flows and energy grids and make them availabe to other capabilities."/>
 </archimate:BusinessFunction>

@@ -6,4 +6,25 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Worker remuneration"/>
+  <properties
+      key="Alias"
+      value="salaris"/>
+  <properties
+      key="Alias"
+      value="arbeidsloon"/>
+  <properties
+      key="Alias"
+      value="stagevergoeding"/>
+  <properties
+      key="Alias"
+      value="vrijwilligersvergoeding"/>
+  <properties
+      key="Alias"
+      value="reiskosten"/>
+  <properties
+      key="Alias"
+      value="declaratie"/>
 </archimate:BusinessObject>

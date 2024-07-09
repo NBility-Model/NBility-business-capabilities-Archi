@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Create preliminary and final design of energy grids"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to create preliminary and final design of energy grids, taking into account (technical) guidelines and function design/program requirements."/>
 </archimate:BusinessFunction>

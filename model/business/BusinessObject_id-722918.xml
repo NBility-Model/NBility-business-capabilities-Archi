@@ -6,4 +6,22 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Switching situation"/>
+  <properties
+      key="Source"
+      value="bedieningssituatie (BEIVIAG)"/>
+  <properties
+      key="Alias"
+      value="schakeltoestand"/>
+  <properties
+      key="Alias"
+      value="actuele netconfiguratie"/>
+  <properties
+      key="Alias"
+      value="netsituatie"/>
+  <properties
+      key="Alias"
+      value="schakelstand"/>
 </archimate:BusinessObject>

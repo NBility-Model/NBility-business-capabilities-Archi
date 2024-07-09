@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Make market data available for third parties"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to exchange data by market messages, based on a legal basis or in response to issued permission, for the purpose of market facilitation."/>
 </archimate:BusinessFunction>

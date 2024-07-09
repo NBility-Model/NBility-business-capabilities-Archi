@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="2"/>
+  <properties
+      key="Name (en)"
+      value="Limit revenue loss"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to detect revenue loss, identify causes and remove or repair them."/>
 </archimate:BusinessFunction>

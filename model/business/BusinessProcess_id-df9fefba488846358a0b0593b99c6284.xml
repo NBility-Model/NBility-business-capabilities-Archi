@@ -5,4 +5,7 @@
   <properties
       key="Code"
       value="P.A."/>
+  <properties
+      key="Name (en)"
+      value="Agree, connect and disconnect energy users"/>
 </archimate:BusinessProcess>

@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Provide service to customers"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to offer customers and market parties services and support via (digital) channels, e.g. via telephone, email, website, social media, etc."/>
 </archimate:BusinessFunction>

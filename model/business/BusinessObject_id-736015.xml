@@ -6,4 +6,46 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Financial status"/>
+  <properties
+      key="Alias"
+      value="kostenplaats"/>
+  <properties
+      key="Alias"
+      value="grootboekrekening"/>
+  <properties
+      key="Alias"
+      value="rekeningstelsel"/>
+  <properties
+      key="Alias"
+      value="rekeningschema"/>
+  <properties
+      key="Alias"
+      value="financiële stamdata"/>
+  <properties
+      key="Alias"
+      value="balansspecificatie"/>
+  <properties
+      key="Alias"
+      value="balansrekening"/>
+  <properties
+      key="Alias"
+      value="balanspost"/>
+  <properties
+      key="Alias"
+      value="resultaatrekening"/>
+  <properties
+      key="Alias"
+      value="resultatenrekening"/>
+  <properties
+      key="Alias"
+      value="winst- en verliesrekening"/>
+  <properties
+      key="Alias"
+      value="kostensoort"/>
+  <properties
+      key="Alias"
+      value="kostendrager"/>
 </archimate:BusinessObject>

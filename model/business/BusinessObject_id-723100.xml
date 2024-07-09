@@ -6,4 +6,16 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Market agreement"/>
+  <properties
+      key="Alias"
+      value="vraagresponsovereenkomst"/>
+  <properties
+      key="Alias"
+      value="overeenkomst voor redispatchcapaciteit"/>
+  <properties
+      key="Alias"
+      value="overeenkomst voor balanceringscapaciteit"/>
 </archimate:BusinessObject>

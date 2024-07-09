@@ -6,4 +6,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Consent from system user"/>
+  <properties
+      key="Source"
+      value="toestemming (Informatiecode elektriciteit en gas)"/>
 </archimate:BusinessObject>

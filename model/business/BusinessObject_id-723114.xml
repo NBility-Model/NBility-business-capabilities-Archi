@@ -6,4 +6,16 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Upward or downward regulation demand"/>
+  <properties
+      key="Source"
+      value="opregel- en afregelbehoefte (Netcode elektriciteit)"/>
+  <properties
+      key="Alias"
+      value="GOPACS-announcement"/>
+  <properties
+      key="Alias"
+      value="congestieverwachting"/>
 </archimate:BusinessObject>

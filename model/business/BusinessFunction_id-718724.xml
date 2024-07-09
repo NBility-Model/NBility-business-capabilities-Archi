@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Collect measurements"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability of collecting measurements for processing purposes."/>
 </archimate:BusinessFunction>

@@ -6,4 +6,13 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Transport problem"/>
+  <properties
+      key="Source"
+      value="transportprobleem (Netcode elektriciteit)"/>
+  <properties
+      key="Alias"
+      value="fysieke congestie"/>
 </archimate:BusinessObject>

@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="2"/>
+  <properties
+      key="Name (en)"
+      value="Maintain energy grids"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to define activities that keep the energy grids available based on grid condition related to agreed performance."/>
 </archimate:BusinessFunction>

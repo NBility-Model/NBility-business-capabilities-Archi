@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Collect energy demand"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to estimate the energy demand of parties in the area by collecting and processing information (in consultations), such as Regional Energy Strategy (RES), government and business initiatives."/>
 </archimate:BusinessFunction>

@@ -6,4 +6,58 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Energy exchange"/>
+  <properties
+      key="Source"
+      value="meetgegevens (Begrippencode elektriciteit)"/>
+  <properties
+      key="Source"
+      value="energie-uitwisseling (Netcode elektriciteit)"/>
+  <properties
+      key="Alias"
+      value="gebruik"/>
+  <properties
+      key="Alias"
+      value="verbruik"/>
+  <properties
+      key="Alias"
+      value="meetgegevens"/>
+  <properties
+      key="Alias"
+      value="meetdata"/>
+  <properties
+      key="Alias"
+      value="meterstand"/>
+  <properties
+      key="Alias"
+      value="reconciliatievolume"/>
+  <properties
+      key="Alias"
+      value="gealloceerd verbruik"/>
+  <properties
+      key="Alias"
+      value="standaardjaarvolume"/>
+  <properties
+      key="Alias"
+      value="standaardjaarverbruik (SJV)"/>
+  <properties
+      key="Alias"
+      value="standaardjaarinvoeding (SJI)"/>
+  <properties
+      key="Alias"
+      value="standaardjaarafname (SJA)"/>
+  <properties
+      key="Alias"
+      value="netverlies"/>
+  <properties
+      key="Alias"
+      value="afname"/>
+  <properties
+      key="Alias"
+      value="invoeding"/>
+  <properties
+      key="Alias"
+      value="teruglevering"/>
 </archimate:BusinessObject>

@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Develope a vision on energy grids"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to develop a vision for energy grids, for example by making use of innovations."/>
 </archimate:BusinessFunction>

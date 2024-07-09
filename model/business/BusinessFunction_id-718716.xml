@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Secure the work environment"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to secure the working environment, like voltage free energy grid and blocking roads."/>
 </archimate:BusinessFunction>

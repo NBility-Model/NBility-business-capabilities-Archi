@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="2"/>
+  <properties
+      key="Name (en)"
+      value="Establish energy grid guidelines and patterns"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to translate laws and regulations, safety and environmental requirements into guidelines, policies and implementation patterns for the energy grids and to have them applied."/>
 </archimate:BusinessFunction>

@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Assign disturbances"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to associate a technician with the fault for local analysis and remediation, whether or not provided with an urgency or priority of the fault."/>
 </archimate:BusinessFunction>

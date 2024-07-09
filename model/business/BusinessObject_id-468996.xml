@@ -6,4 +6,16 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Grid component condition"/>
+  <properties
+      key="Source"
+      value="conditie (NEN 2767)"/>
+  <properties
+      key="Alias"
+      value="toestandswaardering"/>
+  <properties
+      key="Alias"
+      value="assetconditie"/>
 </archimate:BusinessObject>

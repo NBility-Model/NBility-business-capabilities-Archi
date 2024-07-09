@@ -6,4 +6,16 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Upward or downward regulation"/>
+  <properties
+      key="Source"
+      value="opregelen, afregelen, regelactie (Netcode elektriciteit)"/>
+  <properties
+      key="Alias"
+      value="redispatching"/>
+  <properties
+      key="Alias"
+      value="afschakeling"/>
 </archimate:BusinessObject>

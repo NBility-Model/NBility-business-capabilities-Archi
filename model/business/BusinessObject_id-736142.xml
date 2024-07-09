@@ -6,4 +6,16 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="SHEQ incident"/>
+  <properties
+      key="Source"
+      value="incident (ISO 45001)"/>
+  <properties
+      key="Alias"
+      value="VGMK-melding"/>
+  <properties
+      key="Alias"
+      value="VGMK-registratie"/>
 </archimate:BusinessObject>

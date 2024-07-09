@@ -6,4 +6,37 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Facility"/>
+  <properties
+      key="Source"
+      value="installatie (Begrippencode elektriciteit)"/>
+  <properties
+      key="Source"
+      value="installatie (gasinstallatie (Begrippencode gas)"/>
+  <properties
+      key="Alias"
+      value="klantinstallatie"/>
+  <properties
+      key="Alias"
+      value="opwekker"/>
+  <properties
+      key="Alias"
+      value="productie-installatie"/>
+  <properties
+      key="Alias"
+      value="GCvO-installatie"/>
+  <properties
+      key="Alias"
+      value="elektriciteitsproductie-eenheid"/>
+  <properties
+      key="Alias"
+      value="verbruikseenheid"/>
+  <properties
+      key="Alias"
+      value="energieopslageenheid"/>
+  <properties
+      key="Alias"
+      value="systeemelement"/>
 </archimate:BusinessObject>

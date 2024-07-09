@@ -6,4 +6,16 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Payment order"/>
+  <properties
+      key="Alias"
+      value="vlottende passiva"/>
+  <properties
+      key="Alias"
+      value="crediteur"/>
+  <properties
+      key="Alias"
+      value="factuur"/>
 </archimate:BusinessObject>

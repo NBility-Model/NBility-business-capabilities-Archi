@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Analyse alternatives to mitigate quality risk and determine mitigating measures"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to formulate and analyse alternatives for mitigation of grid risk quality/bottleneck resolution and determine mitigating measures."/>
 </archimate:BusinessFunction>

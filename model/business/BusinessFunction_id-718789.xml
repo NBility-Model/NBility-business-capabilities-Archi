@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Manage congestion areas"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to manage congestion areas"/>
 </archimate:BusinessFunction>

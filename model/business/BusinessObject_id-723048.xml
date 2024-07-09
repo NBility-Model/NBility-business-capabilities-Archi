@@ -6,4 +6,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Primary grid component"/>
+  <properties
+      key="Alias"
+      value="primaire asset"/>
 </archimate:BusinessObject>

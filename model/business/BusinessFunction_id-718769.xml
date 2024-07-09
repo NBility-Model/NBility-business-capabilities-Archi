@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Maintain relationship with customers"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to maintain and record positive and constructive relationships with customers."/>
 </archimate:BusinessFunction>

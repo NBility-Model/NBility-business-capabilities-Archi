@@ -6,4 +6,37 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Secondary grid component"/>
+  <properties
+      key="Alias"
+      value="secundaire asset"/>
+  <properties
+      key="Alias"
+      value="sensor"/>
+  <properties
+      key="Alias"
+      value="meter"/>
+  <properties
+      key="Alias"
+      value="actuator"/>
+  <properties
+      key="Alias"
+      value="remote terminal unit (RTU)"/>
+  <properties
+      key="Alias"
+      value="netwerkbeveiliging"/>
+  <properties
+      key="Alias"
+      value="meetinrichting"/>
+  <properties
+      key="Alias"
+      value="comptabele meter"/>
+  <properties
+      key="Alias"
+      value="slimme meter"/>
+  <properties
+      key="Alias"
+      value="klantmeter"/>
 </archimate:BusinessObject>

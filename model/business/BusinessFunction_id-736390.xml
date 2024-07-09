@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="2"/>
+  <properties
+      key="Name (en)"
+      value="Manage facilities"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
 </archimate:BusinessFunction>

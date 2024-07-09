@@ -6,4 +6,25 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Dataset"/>
+  <properties
+      key="Source"
+      value="dataset (NORA raamwerk gegevenskwaliteit)"/>
+  <properties
+      key="Alias"
+      value="metadata"/>
+  <properties
+      key="Alias"
+      value="datamodel"/>
+  <properties
+      key="Alias"
+      value="gegevensverzameling"/>
+  <properties
+      key="Alias"
+      value="informatiemodel"/>
+  <properties
+      key="Alias"
+      value="datacatalogus"/>
 </archimate:BusinessObject>

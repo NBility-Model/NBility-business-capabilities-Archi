@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Monitor and reduce connections without contract"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to reduce technical grid loss and missed income by reducing the number and duration of connections without contracts."/>
 </archimate:BusinessFunction>

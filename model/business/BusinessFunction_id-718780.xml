@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Determine energy exchange"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to calculate consumption and generation estimations like energy consumption according to the standard annual consumption method."/>
 </archimate:BusinessFunction>

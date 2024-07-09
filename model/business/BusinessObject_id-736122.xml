@@ -6,4 +6,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Accountability report"/>
+  <properties
+      key="Alias"
+      value="MVO-rapportage (maatschappelijk verantwoord ondernemen)"/>
 </archimate:BusinessObject>

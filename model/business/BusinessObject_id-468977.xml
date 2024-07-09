@@ -6,4 +6,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Competency"/>
+  <properties
+      key="Alias"
+      value="kwalificatie"/>
 </archimate:BusinessObject>

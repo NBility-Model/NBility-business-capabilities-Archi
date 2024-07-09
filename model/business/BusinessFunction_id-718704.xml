@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Monitor energy transport"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to monitor the energy supply/demand balance of the grid and bottlenecks."/>
 </archimate:BusinessFunction>

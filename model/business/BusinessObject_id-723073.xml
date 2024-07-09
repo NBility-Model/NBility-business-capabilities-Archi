@@ -6,4 +6,16 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Digging message"/>
+  <properties
+      key="Source"
+      value="graafbericht (Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken)"/>
+  <properties
+      key="Alias"
+      value="KLIC"/>
+  <properties
+      key="Alias"
+      value="graafmelding"/>
 </archimate:BusinessObject>

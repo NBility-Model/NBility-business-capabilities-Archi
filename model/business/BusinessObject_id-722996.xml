@@ -6,4 +6,16 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Preliminary or final design"/>
+  <properties
+      key="Alias"
+      value="voorontwerp"/>
+  <properties
+      key="Alias"
+      value="detailontwerp"/>
+  <properties
+      key="Alias"
+      value="netontwerp"/>
 </archimate:BusinessObject>

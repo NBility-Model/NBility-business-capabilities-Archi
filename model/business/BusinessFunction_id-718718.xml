@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Determine and value grid risks on capacity and/or functionality"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to determine and value grid risks and bottlenecks on capacity and/or functionality, given the need for capacity and functionality and the capacity and functionality of the current energy grid. For example: tactical risk management, risk management methodology."/>
 </archimate:BusinessFunction>

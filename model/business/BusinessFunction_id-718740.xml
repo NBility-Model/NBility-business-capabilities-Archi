@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Issue work to execution"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to instruct on work in progress inside or outside the grid operator."/>
 </archimate:BusinessFunction>

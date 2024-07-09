@@ -6,4 +6,16 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Work plan"/>
+  <properties
+      key="Source"
+      value="werkplan (BEIVIAG)"/>
+  <properties
+      key="Alias"
+      value="uitvoeringsplan"/>
+  <properties
+      key="Alias"
+      value="veiligheidsplan"/>
 </archimate:BusinessObject>

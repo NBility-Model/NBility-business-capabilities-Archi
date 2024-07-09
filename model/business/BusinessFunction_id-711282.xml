@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="2"/>
+  <properties
+      key="Name (en)"
+      value="Direct work execution"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to direct work execution on energy grids."/>
 </archimate:BusinessFunction>

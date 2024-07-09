@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Make measurements interpretable"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to make measurements interpretable by functional enrichment (e.g. translation of an operation net component identifier by an functional net component identifier and enrichment with metadata like date, time and quality identification). This includes technical transformations (e.g. translation of protocol)."/>
 </archimate:BusinessFunction>

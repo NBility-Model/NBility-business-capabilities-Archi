@@ -6,4 +6,28 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Standard work product"/>
+  <properties
+      key="Alias"
+      value="maakproduct"/>
+  <properties
+      key="Alias"
+      value="standaard opdrachtproduct"/>
+  <properties
+      key="Alias"
+      value="typical"/>
+  <properties
+      key="Alias"
+      value="intern product"/>
+  <properties
+      key="Alias"
+      value="bill of materials (BOM)"/>
+  <properties
+      key="Alias"
+      value="stuklijst"/>
+  <properties
+      key="Alias"
+      value="uitvoeringsbestek"/>
 </archimate:BusinessObject>

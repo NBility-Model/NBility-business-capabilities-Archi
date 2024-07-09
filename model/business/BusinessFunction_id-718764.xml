@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Determine disturbance compensation"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to determine financial compensation for customers in the event of a prolonged service outage."/>
 </archimate:BusinessFunction>

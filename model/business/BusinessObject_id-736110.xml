@@ -6,4 +6,19 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Data analysis model"/>
+  <properties
+      key="Alias"
+      value="gegevensanalysemodel"/>
+  <properties
+      key="Alias"
+      value="data science model"/>
+  <properties
+      key="Alias"
+      value="algoritme"/>
+  <properties
+      key="Alias"
+      value="dataproduct"/>
 </archimate:BusinessObject>

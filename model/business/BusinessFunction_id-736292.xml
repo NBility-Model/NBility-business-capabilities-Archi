@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="2"/>
+  <properties
+      key="Name (en)"
+      value="Deliver digital products"/>
+  <properties
+      key="Documentation (en)"
+      value="(IT4IT - Request to Fulfill)"/>
 </archimate:BusinessFunction>

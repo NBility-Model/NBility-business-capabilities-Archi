@@ -6,4 +6,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Leave of absence"/>
+  <properties
+      key="Source"
+      value="verlof (Wikipedia)"/>
 </archimate:BusinessObject>

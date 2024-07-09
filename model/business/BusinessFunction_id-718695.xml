@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Prepare execution of work"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to prepare execution of work, like resource planning, materials and equipment,  permits and soil investigation, digging notification."/>
 </archimate:BusinessFunction>

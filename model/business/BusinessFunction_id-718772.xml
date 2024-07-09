@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Close, adjust, manage and terminate contracts/SLAs"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to make agreements/contracts with customers about products and services, including performance management, contract register management and register connections. This also includes adjusting and terminating contracts and SLAs."/>
 </archimate:BusinessFunction>

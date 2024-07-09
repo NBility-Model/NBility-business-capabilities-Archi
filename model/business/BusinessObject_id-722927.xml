@@ -6,4 +6,22 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Transport calculation"/>
+  <properties
+      key="Source"
+      value="(loadflow)analyse (Netcode elektriciteit)"/>
+  <properties
+      key="Alias"
+      value="loadflowanalyse"/>
+  <properties
+      key="Alias"
+      value="netveiligheidsanalyse"/>
+  <properties
+      key="Alias"
+      value="distributieprognose"/>
+  <properties
+      key="Alias"
+      value="netberekening"/>
 </archimate:BusinessObject>

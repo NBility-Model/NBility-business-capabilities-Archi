@@ -6,4 +6,16 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Execution capacity"/>
+  <properties
+      key="Alias"
+      value="aanwijzing"/>
+  <properties
+      key="Alias"
+      value="sleutel"/>
+  <properties
+      key="Alias"
+      value="digitaal veiligheidspaspoort (DVP)"/>
 </archimate:BusinessObject>

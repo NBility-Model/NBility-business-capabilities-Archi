@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Manage issued permissions"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to manage, issued permissions of consumers, concerning sharing energy consumption and productiondata with allowed parties."/>
 </archimate:BusinessFunction>

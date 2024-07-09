@@ -6,4 +6,22 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Grid function"/>
+  <properties
+      key="Source"
+      value="functionele entiteit (NEN 2660)"/>
+  <properties
+      key="Alias"
+      value="assetfunctie"/>
+  <properties
+      key="Alias"
+      value="nettopologie"/>
+  <properties
+      key="Alias"
+      value="connectiviteit"/>
+  <properties
+      key="Alias"
+      value="voedingsgebied"/>
 </archimate:BusinessObject>

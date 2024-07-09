@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Calculate compensation for services rendered"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to calculate a value for a service provided based on the correct data (including contract and project data, quantities, prices or consumption)."/>
 </archimate:BusinessFunction>

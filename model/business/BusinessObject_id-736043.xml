@@ -6,4 +6,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Company building strategy"/>
+  <properties
+      key="Alias"
+      value="huisvestingsplan"/>
 </archimate:BusinessObject>

@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="2"/>
+  <properties
+      key="Name (en)"
+      value="Create transport and switching plans"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to plan energy transport and align operations with safety, operational and timeliness requirements"/>
 </archimate:BusinessFunction>

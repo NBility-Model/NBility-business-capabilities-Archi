@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="2"/>
+  <properties
+      key="Name (en)"
+      value="Perform/facilitate market processes"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to perform/facilitate market processes."/>
 </archimate:BusinessFunction>

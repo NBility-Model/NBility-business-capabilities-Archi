@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="1"/>
+  <properties
+      key="Name (en)"
+      value="Develop and maintain digital technology"/>
+  <properties
+      key="Documentation (en)"
+      value="(IT4IT - Value delivery)"/>
 </archimate:BusinessFunction>

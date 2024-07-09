@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Manage energy grid connections"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to manage market data on connections and allocation points"/>
 </archimate:BusinessFunction>

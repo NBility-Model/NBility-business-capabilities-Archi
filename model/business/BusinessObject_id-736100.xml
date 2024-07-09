@@ -6,4 +6,22 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Case"/>
+  <properties
+      key="Source"
+      value="zaak (RGBZ)"/>
+  <properties
+      key="Alias"
+      value="project"/>
+  <properties
+      key="Alias"
+      value="zaak"/>
+  <properties
+      key="Alias"
+      value="geval"/>
+  <properties
+      key="Alias"
+      value="procesinstantie"/>
 </archimate:BusinessObject>

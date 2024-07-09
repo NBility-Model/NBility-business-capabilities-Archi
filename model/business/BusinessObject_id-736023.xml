@@ -6,4 +6,19 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Liquid asset"/>
+  <properties
+      key="Source"
+      value="liquide middelen (Wikipedia)"/>
+  <properties
+      key="Alias"
+      value="bankrekening"/>
+  <properties
+      key="Alias"
+      value="banktegoed"/>
+  <properties
+      key="Alias"
+      value="kastegoed"/>
 </archimate:BusinessObject>

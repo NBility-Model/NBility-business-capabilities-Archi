@@ -6,4 +6,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Information security risk"/>
+  <properties
+      key="Source"
+      value="information security, risk (ISO 27000:2018)"/>
 </archimate:BusinessObject>

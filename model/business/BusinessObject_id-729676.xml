@@ -6,4 +6,7 @@
   <properties
       key="Level"
       value="2"/>
+  <properties
+      key="Name (en)"
+      value="Market process"/>
 </archimate:BusinessObject>

@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Prevent excavation damage"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to prevent excavation damage."/>
 </archimate:BusinessFunction>

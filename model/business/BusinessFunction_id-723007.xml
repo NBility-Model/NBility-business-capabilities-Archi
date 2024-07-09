@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Maintain equipment"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to maintain equipment. This includes (re)calibrating measuring equipment, maintaining tools and work clothing."/>
 </archimate:BusinessFunction>

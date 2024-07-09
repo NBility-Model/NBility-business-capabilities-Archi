@@ -6,4 +6,16 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Financial report"/>
+  <properties
+      key="Source"
+      value="jaarrekening (Boek 2 van het Burgerlijk Wetboek, artikel 361)"/>
+  <properties
+      key="Alias"
+      value="financieel jaarverslag"/>
+  <properties
+      key="Alias"
+      value="jaarrekening"/>
 </archimate:BusinessObject>

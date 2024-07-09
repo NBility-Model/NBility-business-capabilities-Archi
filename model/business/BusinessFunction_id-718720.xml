@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Manage upward or downward regulation bids"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to manage Upward or downward regulation bids."/>
 </archimate:BusinessFunction>

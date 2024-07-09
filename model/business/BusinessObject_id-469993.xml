@@ -6,4 +6,19 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Transport demand"/>
+  <properties
+      key="Source"
+      value="scenario (Regeling investeringsplan en kwaliteit elektriciteit en gas)"/>
+  <properties
+      key="Alias"
+      value="klantvraag"/>
+  <properties
+      key="Alias"
+      value="energievraag"/>
+  <properties
+      key="Alias"
+      value="klantaanvraagprognose"/>
 </archimate:BusinessObject>

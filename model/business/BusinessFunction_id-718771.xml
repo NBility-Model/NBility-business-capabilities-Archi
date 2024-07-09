@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Create and send invoice"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to deliver an invoice with the correct content and form to the customer (can also be a market party)."/>
 </archimate:BusinessFunction>

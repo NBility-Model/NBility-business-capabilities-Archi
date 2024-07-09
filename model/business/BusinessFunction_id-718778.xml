@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Close contracts for market services"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to close contracts for market services."/>
 </archimate:BusinessFunction>

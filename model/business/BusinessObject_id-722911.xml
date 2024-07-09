@@ -6,4 +6,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Grid component performance"/>
+  <properties
+      key="Source"
+      value="prestatie in het kader van assetmanagement (ISO 55000)"/>
 </archimate:BusinessObject>

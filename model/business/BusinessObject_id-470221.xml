@@ -6,4 +6,22 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Organisational unit"/>
+  <properties
+      key="Alias"
+      value="organisatie-eenheid"/>
+  <properties
+      key="Alias"
+      value="afdeling"/>
+  <properties
+      key="Alias"
+      value="Scrum-team"/>
+  <properties
+      key="Alias"
+      value="business unit"/>
+  <properties
+      key="Alias"
+      value="agile team"/>
 </archimate:BusinessObject>

@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Execute work"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to execute work, like work on expansion, replacement, renewal, maintenance, inspection, connections and reconstructions."/>
 </archimate:BusinessFunction>

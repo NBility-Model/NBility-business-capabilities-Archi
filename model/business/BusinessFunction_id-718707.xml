@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Investigate malfunctions"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to perform root cause analyses on the failures of a certain period and to convert these into improvement actions including adjustment of maintenance plan, redevelopment/renewal of grid components, adjustment of failure handling process, ..."/>
 </archimate:BusinessFunction>

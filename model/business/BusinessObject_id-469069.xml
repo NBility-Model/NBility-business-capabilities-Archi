@@ -6,4 +6,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Telecom component"/>
+  <properties
+      key="Alias"
+      value="telecomasset"/>
 </archimate:BusinessObject>

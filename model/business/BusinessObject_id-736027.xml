@@ -6,4 +6,25 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Valuation"/>
+  <properties
+      key="Source"
+      value="waardering (Van Dale)"/>
+  <properties
+      key="Alias"
+      value="vaste activa"/>
+  <properties
+      key="Alias"
+      value="materieel vast actief"/>
+  <properties
+      key="Alias"
+      value="waardebepaling"/>
+  <properties
+      key="Alias"
+      value="taxatie"/>
+  <properties
+      key="Alias"
+      value="afschrijving"/>
 </archimate:BusinessObject>

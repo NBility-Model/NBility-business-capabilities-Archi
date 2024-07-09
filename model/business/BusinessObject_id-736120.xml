@@ -6,4 +6,16 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Campaign"/>
+  <properties
+      key="Alias"
+      value="marketingcampagne"/>
+  <properties
+      key="Alias"
+      value="stakeholderrelatie"/>
+  <properties
+      key="Alias"
+      value="communicatie"/>
 </archimate:BusinessObject>

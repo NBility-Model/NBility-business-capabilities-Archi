@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="(Long-term) plan measures on capacity and/or functionality"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to plan measures in time with agreed horizons (multiple years, year, rolling quarter, ...). For example: euros and money, within budget limits, programs such as cast iron replacement, coordination with service provider (Sales&amp;OperationsPlanning (S&amp;OP) - demand)."/>
 </archimate:BusinessFunction>

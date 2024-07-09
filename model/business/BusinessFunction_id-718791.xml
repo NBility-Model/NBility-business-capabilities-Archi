@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Communicate upward or downward regulation demand"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to communicate upward or downward regulation demand."/>
 </archimate:BusinessFunction>

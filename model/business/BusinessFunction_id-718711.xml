@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Determine and value grid risks on quality"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to determine and value grid risks and bottlenecks on quality, given the condition of the grid components and the grid."/>
 </archimate:BusinessFunction>

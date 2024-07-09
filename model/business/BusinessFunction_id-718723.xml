@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Obtain route permits / lay down right in rem"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to obtain route permits and to lay down rights in rem."/>
 </archimate:BusinessFunction>

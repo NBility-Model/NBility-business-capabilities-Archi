@@ -6,4 +6,22 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Grid design"/>
+  <properties
+      key="Source"
+      value="netontwerp (Netcode elektriciteit)"/>
+  <properties
+      key="Alias"
+      value="globaal netontwerp"/>
+  <properties
+      key="Alias"
+      value="functionele specificatie"/>
+  <properties
+      key="Alias"
+      value="programma van eisen"/>
+  <properties
+      key="Alias"
+      value="tracéontwerp"/>
 </archimate:BusinessObject>

@@ -6,4 +6,13 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Customer quote"/>
+  <properties
+      key="Source"
+      value="offerte (Wikipedia)"/>
+  <properties
+      key="Alias"
+      value="uitgaande offerte"/>
 </archimate:BusinessObject>

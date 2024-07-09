@@ -6,4 +6,22 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Architecture product"/>
+  <properties
+      key="Source"
+      value="enterprise architecture (ISO/IEC/IEEE 42010:2011)"/>
+  <properties
+      key="Alias"
+      value="enterprisearchitectuur"/>
+  <properties
+      key="Alias"
+      value="architectuurartefact"/>
+  <properties
+      key="Alias"
+      value="bedrijfsobjectenmodel (BOM)"/>
+  <properties
+      key="Alias"
+      value="capability"/>
 </archimate:BusinessObject>

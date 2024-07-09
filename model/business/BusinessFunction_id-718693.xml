@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Complete work on energy grid components administratively"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to complete work on energy grid components administratively, like time of work/acts/tasked completed, worked hours, used materials, data of inspections and data on placed energy grid components for asset administration purposes."/>
 </archimate:BusinessFunction>

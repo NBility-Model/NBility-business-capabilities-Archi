@@ -6,4 +6,31 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Technical business standard"/>
+  <properties
+      key="Source"
+      value="technische standaard (Kennisconsult)"/>
+  <properties
+      key="Source"
+      value="standaard (Wikipedia)"/>
+  <properties
+      key="Alias"
+      value="productblad"/>
+  <properties
+      key="Alias"
+      value="opdrachtproduct"/>
+  <properties
+      key="Alias"
+      value="technische standaard"/>
+  <properties
+      key="Alias"
+      value="PxQ-product"/>
+  <properties
+      key="Alias"
+      value="handboek techniek"/>
+  <properties
+      key="Alias"
+      value="productspecificatie"/>
 </archimate:BusinessObject>

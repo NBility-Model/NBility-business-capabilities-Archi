@@ -6,4 +6,13 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Business plan"/>
+  <properties
+      key="Alias"
+      value="jaarplan"/>
+  <properties
+      key="Alias"
+      value="meerjarenplan"/>
 </archimate:BusinessObject>

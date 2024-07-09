@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Develop and manage products and services"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability fo develop and manage products and services. This includes customer journeys and tarives."/>
 </archimate:BusinessFunction>

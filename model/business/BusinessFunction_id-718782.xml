@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Manage energy markets"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to manage energy markets enabling trading of energy services."/>
 </archimate:BusinessFunction>

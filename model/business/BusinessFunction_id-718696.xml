@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Develop strategy on energy grids"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to develop a strategy on energy grids and the energy supply."/>
 </archimate:BusinessFunction>

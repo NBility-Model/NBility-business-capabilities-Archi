@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="1"/>
+  <properties
+      key="Name (en)"
+      value="Develop and manage processes and data"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to develop and manage processes and data."/>
 </archimate:BusinessFunction>

@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="2"/>
+  <properties
+      key="Name (en)"
+      value="Develop digital technology strategy and manage digital product portfolio"/>
+  <properties
+      key="Documentation (en)"
+      value="(IT4IT - Strategy to portfolio)"/>
 </archimate:BusinessFunction>

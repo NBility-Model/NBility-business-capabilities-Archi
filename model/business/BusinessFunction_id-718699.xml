@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Identify strategic risks on energy grids"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to identify strategic risks on energy grids and the energy supply."/>
 </archimate:BusinessFunction>

@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Create switching plans"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to create sequential overviews of actions to be performed (operation) on grid components."/>
 </archimate:BusinessFunction>

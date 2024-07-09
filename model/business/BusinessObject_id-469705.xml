@@ -6,4 +6,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Switching step"/>
+  <properties
+      key="Source"
+      value="bedieningshandeling (BEIVIAG)"/>
 </archimate:BusinessObject>

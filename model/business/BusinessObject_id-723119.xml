@@ -6,4 +6,31 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Energy schedule or forecast"/>
+  <properties
+      key="Source"
+      value="energieprogramma (Begrippencode elektriciteit)"/>
+  <properties
+      key="Source"
+      value="programma (Gaswet)"/>
+  <properties
+      key="Source"
+      value="prognose (Begrippencode elektriciteit)"/>
+  <properties
+      key="Alias"
+      value="E-programma"/>
+  <properties
+      key="Alias"
+      value="balanceringsportfolio"/>
+  <properties
+      key="Alias"
+      value="transportprognose"/>
+  <properties
+      key="Alias"
+      value="T-prognose"/>
+  <properties
+      key="Alias"
+      value="GLDPM"/>
 </archimate:BusinessObject>

@@ -6,4 +6,16 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Grid modification order"/>
+  <properties
+      key="Source"
+      value="vervangingsinvestering of uitbreidingsinvestering (Regeling investeringsplan en kwaliteit elektriciteit en gas)"/>
+  <properties
+      key="Alias"
+      value="uitbreiding"/>
+  <properties
+      key="Alias"
+      value="vervanging"/>
 </archimate:BusinessObject>

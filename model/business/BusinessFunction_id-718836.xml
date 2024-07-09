@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="1"/>
+  <properties
+      key="Name (en)"
+      value="Recruit and manage human capital"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to recruit employees, keep them employable and organize them in an organizational structure."/>
 </archimate:BusinessFunction>

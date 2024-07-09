@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="1"/>
+  <properties
+      key="Name (en)"
+      value="Transport energy"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to bring together, balance and ensure continuity of energy supply and consumption, so that customers receive energy within the applicable requirements."/>
 </archimate:BusinessFunction>

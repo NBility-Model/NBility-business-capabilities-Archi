@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Make measurements available"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to make measurements of energy flows and energy grids available to other capabilities. For example for dashboard, reports, or analytics."/>
 </archimate:BusinessFunction>

@@ -6,4 +6,13 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Financial plan"/>
+  <properties
+      key="Alias"
+      value="budget"/>
+  <properties
+      key="Alias"
+      value="begroting"/>
 </archimate:BusinessObject>

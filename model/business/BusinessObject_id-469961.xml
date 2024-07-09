@@ -6,4 +6,13 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Quality bottleneck"/>
+  <properties
+      key="Source"
+      value="knelpunt (Regeling investeringsplan en kwaliteit elektriciteit en gas)"/>
+  <properties
+      key="Alias"
+      value="kwaliteitsrisico"/>
 </archimate:BusinessObject>

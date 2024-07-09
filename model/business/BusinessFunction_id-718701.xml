@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Evaluate work execution"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to evaluate work after ending work or in case of long lasting work during the work."/>
 </archimate:BusinessFunction>

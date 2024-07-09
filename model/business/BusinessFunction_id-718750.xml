@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Handle customer report/question/request"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to handle and satisfactorily address customer reports, questions and requests."/>
 </archimate:BusinessFunction>

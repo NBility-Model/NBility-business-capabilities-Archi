@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Manage legal affairs"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
 </archimate:BusinessFunction>

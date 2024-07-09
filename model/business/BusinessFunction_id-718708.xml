@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Determine (multi-)year planning for maintenance and inspections"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to plan maintenance and inspection measures in time with agreed horizons (multiple years, year, rolling quarter, ...)"/>
 </archimate:BusinessFunction>

@@ -6,4 +6,19 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Customer product"/>
+  <properties
+      key="Source"
+      value="product (economie) (Wikipedia)"/>
+  <properties
+      key="Alias"
+      value="tarief"/>
+  <properties
+      key="Alias"
+      value="verkoopproduct"/>
+  <properties
+      key="Alias"
+      value="dataproduct"/>
 </archimate:BusinessObject>

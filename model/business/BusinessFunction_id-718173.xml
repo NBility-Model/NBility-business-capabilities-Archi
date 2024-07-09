@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="1"/>
+  <properties
+      key="Name (en)"
+      value="Facilitate the energy market"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to exchange data with energy market parties, fully and at the right time, to guarantee market force."/>
 </archimate:BusinessFunction>

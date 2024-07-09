@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Create Functional requirements/design"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to functionally design the particular adjustments including determining the set of requirements for the change."/>
 </archimate:BusinessFunction>

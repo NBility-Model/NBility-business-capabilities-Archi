@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="1"/>
+  <properties
+      key="Name (en)"
+      value="Manage the development and maintenance of energy grids"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to develop energy grids and keep them available at the agreed level, to ensure the energy grid continuously meets the set requirements. E.g. the development of primary, secondary, tertiary and telecom net components."/>
 </archimate:BusinessFunction>

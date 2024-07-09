@@ -9,4 +9,10 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Recover from disturbances and outages"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to put the energy grid 'in operation' in order to minimise the disturbance impact (outage minutes of consumers)."/>
 </archimate:BusinessFunction>

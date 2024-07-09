@@ -6,4 +6,16 @@
   <properties
       key="Level"
       value="3"/>
+  <properties
+      key="Name (en)"
+      value="Financial control"/>
+  <properties
+      key="Alias"
+      value="bevoegdheid"/>
+  <properties
+      key="Alias"
+      value="mandaat"/>
+  <properties
+      key="Alias"
+      value="procuratie"/>
 </archimate:BusinessObject>
