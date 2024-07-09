@@ -58,7 +58,7 @@
         x="660"
         y="84"
         width="205"
-        height="507"/>
+        height="505"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-fe780c9c07b14f60ae0b1ca4300abcce"
@@ -561,7 +561,7 @@
         x="876"
         y="84"
         width="205"
-        height="506"/>
+        height="505"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-af3148c82bb84b058ca2af6232123851"
