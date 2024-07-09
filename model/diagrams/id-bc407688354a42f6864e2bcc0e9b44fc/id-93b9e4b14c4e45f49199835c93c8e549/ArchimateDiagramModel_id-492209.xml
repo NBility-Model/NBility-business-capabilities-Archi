@@ -254,6 +254,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-735534"
+      targetConnections="id-735505"
       fillColor="#e5f1d7"
       textPosition="1">
     <features
@@ -273,18 +274,6 @@
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-735525.xml#id-735525"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-735505"
-        source="id-735534"
-        target="id-735504">
-      <features
-          name="labelExpression"
-          value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-735506.xml#id-735506"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -310,7 +299,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-735504"
-      targetConnections="id-735505"
       fillColor="#e5f1d7"
       textPosition="1">
     <features
@@ -319,6 +307,18 @@
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-735505"
+        source="id-735504"
+        target="id-735534">
+      <features
+          name="labelExpression"
+          value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-735506.xml#id-735506"/>
+    </sourceConnections>
     <bounds
         x="12"
         y="492"
@@ -1977,7 +1977,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-735603"
-      targetConnections="id-735642"
+      targetConnections="id-735642 id-735712"
       fillColor="#bfeeff"
       textPosition="1">
     <features
@@ -1986,18 +1986,6 @@
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-735712"
-        source="id-735603"
-        target="id-735604">
-      <features
-          name="labelExpression"
-          value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-735713.xml#id-735713"/>
-    </sourceConnections>
     <bounds
         x="324"
         y="972"
@@ -2010,7 +1998,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-735604"
-      targetConnections="id-735710 id-735701 id-735712"
+      targetConnections="id-735701"
       fillColor="#ffffcc"
       textPosition="1">
     <features
@@ -2067,32 +2055,11 @@
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-735668.xml#id-735668"/>
     </sourceConnections>
-    <bounds
-        x="12"
-        y="1332"
-        width="1249"
-        height="49"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-469165.xml#id-469165"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-735654"
-      targetConnections="id-735646"
-      fillColor="#ffffcc"
-      textPosition="1">
-    <features
-        name="iconVisible"
-        value="2"/>
-    <features
-        name="labelExpression"
-        value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-735710"
-        source="id-735654"
-        target="id-735604">
+        source="id-735604"
+        target="id-735654">
       <features
           name="labelExpression"
           value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -2105,6 +2072,39 @@
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-735711.xml#id-735711"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-735712"
+        source="id-735604"
+        target="id-735603">
+      <features
+          name="labelExpression"
+          value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-735713.xml#id-735713"/>
+    </sourceConnections>
+    <bounds
+        x="12"
+        y="1332"
+        width="1249"
+        height="49"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-469165.xml#id-469165"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-735654"
+      targetConnections="id-735646 id-735710"
+      fillColor="#ffffcc"
+      textPosition="1">
+    <features
+        name="iconVisible"
+        value="2"/>
+    <features
+        name="labelExpression"
+        value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-735691"

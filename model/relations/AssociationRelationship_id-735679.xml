@@ -4,6 +4,9 @@
     name="oplossing voor"
     id="id-735679"
     directed="true">
+  <properties
+      key="Name (en)"
+      value="solution for"/>
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-723037.xml#id-723037"/>

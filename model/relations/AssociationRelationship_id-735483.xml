@@ -4,6 +4,9 @@
     name="oplossing van"
     id="id-735483"
     directed="true">
+  <properties
+      key="Name (en)"
+      value="solution for"/>
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-722915.xml#id-722915"/>

@@ -11,7 +11,7 @@
       value="1"/>
   <properties
       key="Name (en)"
-      value="0"/>
+      value="Manage company buildings and facilities"/>
   <properties
       key="Documentation (en)"
       value="The ability to manage company buildings and facilities. Please note this concerns buildings and facilities that are not part of the grid; technical buildings are an asset category (tertiary assets) and are managed in domain 3. It also includes the physical workplace. This includes: office buildings, warehouses, training centers, ..."/>

@@ -4,6 +4,9 @@
     name="vanwege"
     id="id-735488"
     directed="true">
+  <properties
+      key="Name (en)"
+      value="because of"/>
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-723114.xml#id-723114"/>

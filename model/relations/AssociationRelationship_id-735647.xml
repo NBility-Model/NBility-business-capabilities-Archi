@@ -4,6 +4,9 @@
     name="gepland in"
     id="id-735647"
     directed="true">
+  <properties
+      key="Name (en)"
+      value="planned in"/>
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-469705.xml#id-469705"/>

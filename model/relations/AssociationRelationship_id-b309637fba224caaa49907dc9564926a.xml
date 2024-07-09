@@ -4,6 +4,9 @@
     name="van"
     id="id-b309637fba224caaa49907dc9564926a"
     directed="true">
+  <properties
+      key="Name (en)"
+      value="of"/>
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-729585.xml#id-729585"/>

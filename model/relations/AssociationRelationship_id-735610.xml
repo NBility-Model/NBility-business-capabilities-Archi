@@ -4,6 +4,9 @@
     name="voor"
     id="id-735610"
     directed="true">
+  <properties
+      key="Name (en)"
+      value="for"/>
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-723015.xml#id-723015"/>
