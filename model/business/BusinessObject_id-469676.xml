@@ -16,21 +16,21 @@
       key="Source"
       value="standaard (Wikipedia)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="productblad"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="opdrachtproduct"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="technische standaard"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="PxQ-product"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="handboek techniek"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="productspecificatie"/>
 </archimate:BusinessObject>

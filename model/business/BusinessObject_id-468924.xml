@@ -10,9 +10,9 @@
       key="Name (en)"
       value="Position"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="functie"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="formatieplaats"/>
 </archimate:BusinessObject>

@@ -10,24 +10,24 @@
       key="Name (en)"
       value="Facility product"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="toegangspas"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="ruimtereservering"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="schoonmaak"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="catering"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="verhuizing"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="poststuk"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="facilitaire dienst"/>
 </archimate:BusinessObject>

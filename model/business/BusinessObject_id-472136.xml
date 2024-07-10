@@ -10,6 +10,6 @@
       key="Name (en)"
       value="Work activity"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="taak"/>
 </archimate:BusinessObject>

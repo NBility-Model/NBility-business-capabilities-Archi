@@ -13,9 +13,9 @@
       key="Source"
       value="archiefbescheiden (Archiefwet 1995)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="archiefbescheiden"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="archiefobject"/>
 </archimate:BusinessObject>

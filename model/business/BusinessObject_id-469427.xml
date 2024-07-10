@@ -10,48 +10,48 @@
       key="Name (en)"
       value="Customer"/>
   <properties
-      key="Alias"
-      value="contractant"/>
-  <properties
-      key="Alias"
-      value="afnemer"/>
-  <properties
-      key="Alias"
-      value="verbruiker"/>
-  <properties
-      key="Alias"
-      value="netgebruiker"/>
-  <properties
-      key="Alias"
-      value="aangeslotene"/>
-  <properties
-      key="Alias"
-      value="systeemgebruiker"/>
-  <properties
-      key="Alias"
-      value="aanvrager"/>
-  <properties
-      key="Alias"
-      value="zakenpartner"/>
-  <properties
-      key="Alias"
-      value="consument"/>
-  <properties
-      key="Alias"
-      value="inwoner"/>
-  <properties
-      key="Alias"
-      value="huisgenoot"/>
-  <properties
-      key="Alias"
-      value="contactpersoon"/>
-  <properties
-      key="Alias"
-      value="debiteur"/>
-  <properties
-      key="Alias"
-      value="schadeveroorzaker"/>
-  <properties
       key="Source"
       value="klant (Wikipedia)"/>
+  <properties
+      key="Search term"
+      value="contractant"/>
+  <properties
+      key="Search term"
+      value="afnemer"/>
+  <properties
+      key="Search term"
+      value="verbruiker"/>
+  <properties
+      key="Search term"
+      value="netgebruiker"/>
+  <properties
+      key="Search term"
+      value="aangeslotene"/>
+  <properties
+      key="Search term"
+      value="systeemgebruiker"/>
+  <properties
+      key="Search term"
+      value="aanvrager"/>
+  <properties
+      key="Search term"
+      value="zakenpartner"/>
+  <properties
+      key="Search term"
+      value="consument"/>
+  <properties
+      key="Search term"
+      value="inwoner"/>
+  <properties
+      key="Search term"
+      value="huisgenoot"/>
+  <properties
+      key="Search term"
+      value="contactpersoon"/>
+  <properties
+      key="Search term"
+      value="debiteur"/>
+  <properties
+      key="Search term"
+      value="schadeveroorzaker"/>
 </archimate:BusinessObject>

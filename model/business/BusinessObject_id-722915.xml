@@ -13,9 +13,9 @@
       key="Source"
       value="opregelen, afregelen, regelactie (Netcode elektriciteit)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="redispatching"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="afschakeling"/>
 </archimate:BusinessObject>

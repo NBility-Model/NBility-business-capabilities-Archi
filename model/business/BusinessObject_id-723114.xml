@@ -13,9 +13,9 @@
       key="Source"
       value="opregel- en afregelbehoefte (Netcode elektriciteit)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="GOPACS-announcement"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="congestieverwachting"/>
 </archimate:BusinessObject>

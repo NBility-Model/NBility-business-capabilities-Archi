@@ -13,6 +13,6 @@
       key="Source"
       value="data service (DCAT-AP 3.0)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="dataproduct"/>
 </archimate:BusinessObject>

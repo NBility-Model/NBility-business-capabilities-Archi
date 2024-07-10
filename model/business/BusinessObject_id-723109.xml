@@ -16,48 +16,48 @@
       key="Source"
       value="energie-uitwisseling (Netcode elektriciteit)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="gebruik"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="verbruik"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="meetgegevens"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="meetdata"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="meterstand"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="reconciliatievolume"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="gealloceerd verbruik"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="standaardjaarvolume"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="standaardjaarverbruik (SJV)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="standaardjaarinvoeding (SJI)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="standaardjaarafname (SJA)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="netverlies"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="afname"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="invoeding"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="teruglevering"/>
 </archimate:BusinessObject>

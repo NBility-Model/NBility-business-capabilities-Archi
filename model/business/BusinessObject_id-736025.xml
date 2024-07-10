@@ -10,12 +10,12 @@
       key="Name (en)"
       value="Financing"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="lening"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="aandeelhouder"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="subsidie"/>
 </archimate:BusinessObject>

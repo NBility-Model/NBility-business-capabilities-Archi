@@ -10,15 +10,15 @@
       key="Name (en)"
       value="Business strategy"/>
   <properties
-      key="Alias"
-      value="objective"/>
-  <properties
-      key="Alias"
-      value="goal"/>
-  <properties
-      key="Alias"
-      value="beleid"/>
-  <properties
       key="Source"
       value="bedrijfsstrategie (Wikipedia)"/>
+  <properties
+      key="Search term"
+      value="objective"/>
+  <properties
+      key="Search term"
+      value="goal"/>
+  <properties
+      key="Search term"
+      value="beleid"/>
 </archimate:BusinessObject>

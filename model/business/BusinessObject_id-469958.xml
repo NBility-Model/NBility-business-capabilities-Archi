@@ -10,21 +10,21 @@
       key="Name (en)"
       value="Customer request"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="klacht"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="claim"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="vraag"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="melding"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="klantcase"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="klantticket"/>
 </archimate:BusinessObject>

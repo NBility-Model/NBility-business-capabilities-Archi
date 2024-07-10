@@ -10,18 +10,18 @@
       key="Name (en)"
       value="Financial fact"/>
   <properties
-      key="Alias"
-      value="boeking"/>
-  <properties
-      key="Alias"
-      value="mutatie"/>
-  <properties
-      key="Alias"
-      value="journaalpost"/>
-  <properties
-      key="Alias"
-      value="inkoopfactuur"/>
-  <properties
       key="Source"
       value="financieel feit (Wikipedia)"/>
+  <properties
+      key="Search term"
+      value="boeking"/>
+  <properties
+      key="Search term"
+      value="mutatie"/>
+  <properties
+      key="Search term"
+      value="journaalpost"/>
+  <properties
+      key="Search term"
+      value="inkoopfactuur"/>
 </archimate:BusinessObject>

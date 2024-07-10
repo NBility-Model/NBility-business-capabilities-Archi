@@ -10,9 +10,9 @@
       key="Name (en)"
       value="Worker performance"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="functioneringsbeoordeling"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="personeelsdossier"/>
 </archimate:BusinessObject>

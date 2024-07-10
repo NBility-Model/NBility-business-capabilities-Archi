@@ -10,15 +10,15 @@
       key="Name (en)"
       value="Data analysis model"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="gegevensanalysemodel"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="data science model"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="algoritme"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="dataproduct"/>
 </archimate:BusinessObject>

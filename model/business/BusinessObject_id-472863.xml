@@ -10,33 +10,33 @@
       key="Name (en)"
       value="Secondary grid component"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="secundaire asset"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="sensor"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="meter"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="actuator"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="remote terminal unit (RTU)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="netwerkbeveiliging"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="meetinrichting"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="comptabele meter"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="slimme meter"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="klantmeter"/>
 </archimate:BusinessObject>

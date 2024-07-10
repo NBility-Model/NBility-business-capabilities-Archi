@@ -10,21 +10,21 @@
       key="Name (en)"
       value="Change initiative"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="project"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="epic"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="backlog"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="feature"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="story"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="enabler"/>
 </archimate:BusinessObject>

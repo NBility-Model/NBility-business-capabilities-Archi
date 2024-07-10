@@ -16,12 +16,12 @@
       key="Source"
       value="investeringsplan (Gaswet)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="IP"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="netstructuurplan"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="strategisch assetmanagementplan"/>
 </archimate:BusinessObject>

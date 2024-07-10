@@ -10,12 +10,12 @@
       key="Name (en)"
       value="Preliminary or final design"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="voorontwerp"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="detailontwerp"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="netontwerp"/>
 </archimate:BusinessObject>

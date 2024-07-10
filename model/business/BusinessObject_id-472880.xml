@@ -10,6 +10,6 @@
       key="Name (en)"
       value="Customer quote request"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="case"/>
 </archimate:BusinessObject>

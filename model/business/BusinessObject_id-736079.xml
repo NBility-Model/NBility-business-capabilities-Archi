@@ -10,12 +10,12 @@
       key="Name (en)"
       value="Worker agreement"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="arbeidsovereenkomst"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="stageovereenkomst"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="dienstbetrekking"/>
 </archimate:BusinessObject>

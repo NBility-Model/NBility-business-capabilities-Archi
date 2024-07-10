@@ -13,12 +13,12 @@
       key="Source"
       value="contactmoment (Gemma)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="klantinteractie"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="klantevent"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="klantvraag"/>
 </archimate:BusinessObject>

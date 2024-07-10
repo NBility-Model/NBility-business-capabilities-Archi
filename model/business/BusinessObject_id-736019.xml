@@ -10,12 +10,12 @@
       key="Name (en)"
       value="Financial control"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="bevoegdheid"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="mandaat"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="procuratie"/>
 </archimate:BusinessObject>

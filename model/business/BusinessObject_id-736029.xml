@@ -10,12 +10,12 @@
       key="Name (en)"
       value="Payment order"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="vlottende passiva"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="crediteur"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="factuur"/>
 </archimate:BusinessObject>

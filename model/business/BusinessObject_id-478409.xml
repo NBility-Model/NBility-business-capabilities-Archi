@@ -10,33 +10,6 @@
       key="Name (en)"
       value="Market participant"/>
   <properties
-      key="Alias"
-      value="marktdeelnemer"/>
-  <properties
-      key="Alias"
-      value="energieleverancier (LV)"/>
-  <properties
-      key="Alias"
-      value="netbeheerder (NB)"/>
-  <properties
-      key="Alias"
-      value="programmaverantwoordelijke (PV)"/>
-  <properties
-      key="Alias"
-      value="meetverantwoordelijke (MV)"/>
-  <properties
-      key="Alias"
-      value="aggregator"/>
-  <properties
-      key="Alias"
-      value="balancing responsible party (BRP)"/>
-  <properties
-      key="Alias"
-      value="balancing service provider (BSP)"/>
-  <properties
-      key="Alias"
-      value="congestion service provider (CSP)"/>
-  <properties
       key="Source"
       value="marktpartij (Begrippencode elektriciteit)"/>
   <properties
@@ -45,4 +18,31 @@
   <properties
       key="Source"
       value="marktdeelnemer (Gaswet)"/>
+  <properties
+      key="Search term"
+      value="marktdeelnemer"/>
+  <properties
+      key="Search term"
+      value="energieleverancier (LV)"/>
+  <properties
+      key="Search term"
+      value="netbeheerder (NB)"/>
+  <properties
+      key="Search term"
+      value="programmaverantwoordelijke (PV)"/>
+  <properties
+      key="Search term"
+      value="meetverantwoordelijke (MV)"/>
+  <properties
+      key="Search term"
+      value="aggregator"/>
+  <properties
+      key="Search term"
+      value="balancing responsible party (BRP)"/>
+  <properties
+      key="Search term"
+      value="balancing service provider (BSP)"/>
+  <properties
+      key="Search term"
+      value="congestion service provider (CSP)"/>
 </archimate:BusinessObject>

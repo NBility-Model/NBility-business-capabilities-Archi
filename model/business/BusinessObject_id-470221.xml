@@ -10,18 +10,18 @@
       key="Name (en)"
       value="Organisational unit"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="organisatie-eenheid"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="afdeling"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="Scrum-team"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="business unit"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="agile team"/>
 </archimate:BusinessObject>

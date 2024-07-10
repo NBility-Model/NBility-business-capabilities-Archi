@@ -10,30 +10,30 @@
       key="Name (en)"
       value="Worker"/>
   <properties
-      key="Alias"
-      value="werknemer"/>
-  <properties
-      key="Alias"
-      value="fix fee persoon"/>
-  <properties
-      key="Alias"
-      value="interne medewerker"/>
-  <properties
-      key="Alias"
-      value="externe medewerker"/>
-  <properties
-      key="Alias"
-      value="eigen personeel (EP)"/>
-  <properties
-      key="Alias"
-      value="ander personeel (AP)"/>
-  <properties
-      key="Alias"
-      value="medewerkertevredenheid"/>
-  <properties
-      key="Alias"
-      value="sollicitant"/>
-  <properties
       key="Source"
       value="medewerker (HORA)"/>
+  <properties
+      key="Search term"
+      value="werknemer"/>
+  <properties
+      key="Search term"
+      value="fix fee persoon"/>
+  <properties
+      key="Search term"
+      value="interne medewerker"/>
+  <properties
+      key="Search term"
+      value="externe medewerker"/>
+  <properties
+      key="Search term"
+      value="eigen personeel (EP)"/>
+  <properties
+      key="Search term"
+      value="ander personeel (AP)"/>
+  <properties
+      key="Search term"
+      value="medewerkertevredenheid"/>
+  <properties
+      key="Search term"
+      value="sollicitant"/>
 </archimate:BusinessObject>

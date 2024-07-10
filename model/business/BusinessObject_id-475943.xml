@@ -10,9 +10,9 @@
       key="Name (en)"
       value="Purchasing supplier"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="aannemer"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="crediteur"/>
 </archimate:BusinessObject>

@@ -10,9 +10,9 @@
       key="Name (en)"
       value="Personal certificate"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="diploma"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="aanwijzingscertificaat"/>
 </archimate:BusinessObject>

@@ -10,6 +10,6 @@
       key="Name (en)"
       value="Work resource"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="materieel"/>
 </archimate:BusinessObject>

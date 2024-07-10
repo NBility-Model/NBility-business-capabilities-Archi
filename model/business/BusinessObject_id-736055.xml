@@ -10,9 +10,9 @@
       key="Name (en)"
       value="Purchasing strategy"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="inkoopbeleid"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="aanbestedingsbeleid"/>
 </archimate:BusinessObject>

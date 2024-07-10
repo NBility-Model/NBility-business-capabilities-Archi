@@ -10,9 +10,9 @@
       key="Name (en)"
       value="Market request"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="ticket"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="case"/>
 </archimate:BusinessObject>

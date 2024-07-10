@@ -10,21 +10,21 @@
       key="Name (en)"
       value="Worker remuneration"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="salaris"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="arbeidsloon"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="stagevergoeding"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="vrijwilligersvergoeding"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="reiskosten"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="declaratie"/>
 </archimate:BusinessObject>

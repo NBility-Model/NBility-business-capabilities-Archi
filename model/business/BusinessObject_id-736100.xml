@@ -13,15 +13,15 @@
       key="Source"
       value="zaak (RGBZ)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="project"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="zaak"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="geval"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="procesinstantie"/>
 </archimate:BusinessObject>

@@ -10,15 +10,15 @@
       key="Name (en)"
       value="Measurement"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="meetgegeven"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="meetdata"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="meterstand"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="meetpunt"/>
 </archimate:BusinessObject>

@@ -10,18 +10,18 @@
       key="Name (en)"
       value="Purchase agreement"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="inkoopcontract"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="verwerkersovereenkomst"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="aanbesteding"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="raamcontract"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="raamovereenkomst"/>
 </archimate:BusinessObject>

@@ -10,42 +10,42 @@
       key="Name (en)"
       value="Financial status"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="kostenplaats"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="grootboekrekening"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="rekeningstelsel"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="rekeningschema"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="financiële stamdata"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="balansspecificatie"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="balansrekening"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="balanspost"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="resultaatrekening"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="resultatenrekening"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="winst- en verliesrekening"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="kostensoort"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="kostendrager"/>
 </archimate:BusinessObject>

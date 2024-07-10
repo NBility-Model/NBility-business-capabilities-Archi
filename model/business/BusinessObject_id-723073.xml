@@ -13,9 +13,9 @@
       key="Source"
       value="graafbericht (Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="KLIC"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="graafmelding"/>
 </archimate:BusinessObject>

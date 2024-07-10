@@ -13,12 +13,12 @@
       key="Source"
       value="liquide middelen (Wikipedia)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="bankrekening"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="banktegoed"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="kastegoed"/>
 </archimate:BusinessObject>

@@ -19,18 +19,18 @@
       key="Source"
       value="prognose (Begrippencode elektriciteit)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="E-programma"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="balanceringsportfolio"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="transportprognose"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="T-prognose"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="GLDPM"/>
 </archimate:BusinessObject>

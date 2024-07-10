@@ -10,12 +10,12 @@
       key="Name (en)"
       value="Environmental analysis"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="bodemkwaliteit"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="fysieke leefomgeving"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="ondergrond"/>
 </archimate:BusinessObject>

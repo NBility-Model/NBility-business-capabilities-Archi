@@ -10,33 +10,33 @@
       key="Name (en)"
       value="Digital product"/>
   <properties
-      key="Alias"
-      value="informatiesysteem"/>
-  <properties
-      key="Alias"
-      value="applicatie"/>
-  <properties
-      key="Alias"
-      value="dataproduct"/>
-  <properties
-      key="Alias"
-      value="digitale dienst"/>
-  <properties
-      key="Alias"
-      value="solution"/>
-  <properties
-      key="Alias"
-      value="software"/>
-  <properties
-      key="Alias"
-      value="hardware"/>
-  <properties
-      key="Alias"
-      value="IT-component"/>
-  <properties
-      key="Alias"
-      value="configuratie-item"/>
-  <properties
       key="Source"
       value="digital product (Open Group IT4IT)"/>
+  <properties
+      key="Search term"
+      value="informatiesysteem"/>
+  <properties
+      key="Search term"
+      value="applicatie"/>
+  <properties
+      key="Search term"
+      value="dataproduct"/>
+  <properties
+      key="Search term"
+      value="digitale dienst"/>
+  <properties
+      key="Search term"
+      value="solution"/>
+  <properties
+      key="Search term"
+      value="software"/>
+  <properties
+      key="Search term"
+      value="hardware"/>
+  <properties
+      key="Search term"
+      value="IT-component"/>
+  <properties
+      key="Search term"
+      value="configuratie-item"/>
 </archimate:BusinessObject>

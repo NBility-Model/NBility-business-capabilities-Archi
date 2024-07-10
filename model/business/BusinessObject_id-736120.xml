@@ -10,12 +10,12 @@
       key="Name (en)"
       value="Campaign"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="marketingcampagne"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="stakeholderrelatie"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="communicatie"/>
 </archimate:BusinessObject>

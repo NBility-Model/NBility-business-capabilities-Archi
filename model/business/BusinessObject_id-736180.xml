@@ -10,15 +10,15 @@
       key="Name (en)"
       value="Digital product performance"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="incident"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="problem"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="alert"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="event log"/>
 </archimate:BusinessObject>

@@ -10,12 +10,12 @@
       key="Name (en)"
       value="Change portfolio"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="routekaart"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="roadmap"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="programma"/>
 </archimate:BusinessObject>

@@ -13,15 +13,15 @@
       key="Source"
       value="enterprise architecture (ISO/IEC/IEEE 42010:2011)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="enterprisearchitectuur"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="architectuurartefact"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="bedrijfsobjectenmodel (BOM)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="capability"/>
 </archimate:BusinessObject>

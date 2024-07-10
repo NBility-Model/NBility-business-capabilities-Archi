@@ -10,18 +10,18 @@
       key="Name (en)"
       value="Work order"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="case"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="project"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="werkorder"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="WBS-element"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="uitvoeringsopdracht"/>
 </archimate:BusinessObject>

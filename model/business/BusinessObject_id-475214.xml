@@ -10,21 +10,21 @@
       key="Name (en)"
       value="Company building"/>
   <properties
-      key="Alias"
-      value="vestiging"/>
-  <properties
-      key="Alias"
-      value="kantoorgebouw"/>
-  <properties
-      key="Alias"
-      value="magazijn"/>
-  <properties
-      key="Alias"
-      value="ruimte"/>
-  <properties
-      key="Alias"
-      value="parkeerplaats"/>
-  <properties
       key="Source"
       value="vestiging (Handelsregisterwet 2007)"/>
+  <properties
+      key="Search term"
+      value="vestiging"/>
+  <properties
+      key="Search term"
+      value="kantoorgebouw"/>
+  <properties
+      key="Search term"
+      value="magazijn"/>
+  <properties
+      key="Search term"
+      value="ruimte"/>
+  <properties
+      key="Search term"
+      value="parkeerplaats"/>
 </archimate:BusinessObject>

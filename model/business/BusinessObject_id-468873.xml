@@ -13,6 +13,6 @@
       key="Source"
       value="netcomponent (Netcode elektriciteit)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="asset"/>
 </archimate:BusinessObject>

@@ -10,9 +10,9 @@
       key="Name (en)"
       value="Business risk"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="verzekering"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="compliancerisico"/>
 </archimate:BusinessObject>

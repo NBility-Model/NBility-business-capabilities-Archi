@@ -10,24 +10,24 @@
       key="Name (en)"
       value="Standard work product"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="maakproduct"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="standaard opdrachtproduct"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="typical"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="intern product"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="bill of materials (BOM)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="stuklijst"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="uitvoeringsbestek"/>
 </archimate:BusinessObject>

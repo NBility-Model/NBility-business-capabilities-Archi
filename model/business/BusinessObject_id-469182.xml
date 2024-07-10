@@ -13,12 +13,12 @@
       key="Source"
       value="bedieningsplan (BEIVIAG)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="schakelplan"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="schakelbrief"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="bedienplan"/>
 </archimate:BusinessObject>

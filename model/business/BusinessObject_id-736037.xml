@@ -10,9 +10,9 @@
       key="Name (en)"
       value="Financial plan"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="budget"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="begroting"/>
 </archimate:BusinessObject>

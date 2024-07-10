@@ -13,15 +13,15 @@
       key="Source"
       value="bedieningssituatie (BEIVIAG)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="schakeltoestand"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="actuele netconfiguratie"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="netsituatie"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="schakelstand"/>
 </archimate:BusinessObject>

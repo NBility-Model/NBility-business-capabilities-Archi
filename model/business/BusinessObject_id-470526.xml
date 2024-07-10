@@ -13,9 +13,9 @@
       key="Source"
       value="werkplan (BEIVIAG)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="uitvoeringsplan"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="veiligheidsplan"/>
 </archimate:BusinessObject>

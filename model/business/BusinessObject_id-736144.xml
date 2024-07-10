@@ -10,9 +10,9 @@
       key="Name (en)"
       value="Business plan"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="jaarplan"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="meerjarenplan"/>
 </archimate:BusinessObject>

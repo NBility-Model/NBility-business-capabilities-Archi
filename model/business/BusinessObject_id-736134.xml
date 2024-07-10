@@ -10,9 +10,9 @@
       key="Name (en)"
       value="Legal advice"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="juridisch dossier"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="geschil"/>
 </archimate:BusinessObject>

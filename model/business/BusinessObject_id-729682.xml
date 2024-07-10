@@ -13,6 +13,6 @@
       key="Source"
       value="verzoek, marktproces (Informatiecode elektriciteit en gas)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="marktbericht"/>
 </archimate:BusinessObject>

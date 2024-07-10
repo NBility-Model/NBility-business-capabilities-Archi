@@ -13,9 +13,9 @@
       key="Source"
       value="incident (ISO 45001)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="VGMK-melding"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="VGMK-registratie"/>
 </archimate:BusinessObject>

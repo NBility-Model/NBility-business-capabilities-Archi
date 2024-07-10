@@ -10,6 +10,6 @@
       key="Name (en)"
       value="Maintenance or inspection plan"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="activiteitenplan"/>
 </archimate:BusinessObject>

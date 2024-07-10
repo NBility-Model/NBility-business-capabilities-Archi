@@ -13,15 +13,15 @@
       key="Source"
       value="functionele entiteit (NEN 2660)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="assetfunctie"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="nettopologie"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="connectiviteit"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="voedingsgebied"/>
 </archimate:BusinessObject>

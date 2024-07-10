@@ -10,12 +10,12 @@
       key="Name (en)"
       value="Market agreement"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="vraagresponsovereenkomst"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="overeenkomst voor redispatchcapaciteit"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="overeenkomst voor balanceringscapaciteit"/>
 </archimate:BusinessObject>

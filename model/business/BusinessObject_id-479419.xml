@@ -16,27 +16,27 @@
       key="Source"
       value="installatie (gasinstallatie (Begrippencode gas)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="klantinstallatie"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="opwekker"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="productie-installatie"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="GCvO-installatie"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="elektriciteitsproductie-eenheid"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="verbruikseenheid"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="energieopslageenheid"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="systeemelement"/>
 </archimate:BusinessObject>

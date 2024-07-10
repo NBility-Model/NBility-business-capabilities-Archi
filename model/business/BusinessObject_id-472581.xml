@@ -10,12 +10,12 @@
       key="Name (en)"
       value="Execution capacity"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="aanwijzing"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="sleutel"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="digitaal veiligheidspaspoort (DVP)"/>
 </archimate:BusinessObject>

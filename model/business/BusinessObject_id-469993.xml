@@ -13,12 +13,12 @@
       key="Source"
       value="scenario (Regeling investeringsplan en kwaliteit elektriciteit en gas)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="klantvraag"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="energievraag"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="klantaanvraagprognose"/>
 </archimate:BusinessObject>

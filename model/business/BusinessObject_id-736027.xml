@@ -13,18 +13,18 @@
       key="Source"
       value="waardering (Van Dale)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="vaste activa"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="materieel vast actief"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="waardebepaling"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="taxatie"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="afschrijving"/>
 </archimate:BusinessObject>

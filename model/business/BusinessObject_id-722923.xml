@@ -13,9 +13,9 @@
       key="Source"
       value="niet-beschikbaarhied (Netcode elektriciteit)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="voorziene niet-beschikbaarheid (VNB)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="onvoorziene niet-beschikbaarheid (ONB)"/>
 </archimate:BusinessObject>

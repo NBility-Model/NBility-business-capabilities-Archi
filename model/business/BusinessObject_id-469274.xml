@@ -10,12 +10,12 @@
       key="Name (en)"
       value="Customer invoice"/>
   <properties
-      key="Alias"
-      value="uitgaande factuur"/>
-  <properties
-      key="Alias"
-      value="creditnota"/>
-  <properties
       key="Source"
       value="factuur (Wikipedia)"/>
+  <properties
+      key="Search term"
+      value="uitgaande factuur"/>
+  <properties
+      key="Search term"
+      value="creditnota"/>
 </archimate:BusinessObject>

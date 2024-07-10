@@ -10,15 +10,15 @@
       key="Name (en)"
       value="Upward or downward regulation offer"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="bieding balanceringsenergie"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="bieding redispatch"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="balanceringscapaciteit"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="redispatchcapaciteit"/>
 </archimate:BusinessObject>

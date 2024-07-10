@@ -13,15 +13,15 @@
       key="Source"
       value="netontwerp (Netcode elektriciteit)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="globaal netontwerp"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="functionele specificatie"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="programma van eisen"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="tracéontwerp"/>
 </archimate:BusinessObject>

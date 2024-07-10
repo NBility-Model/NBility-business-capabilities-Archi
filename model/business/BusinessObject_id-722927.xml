@@ -13,15 +13,15 @@
       key="Source"
       value="(loadflow)analyse (Netcode elektriciteit)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="loadflowanalyse"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="netveiligheidsanalyse"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="distributieprognose"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="netberekening"/>
 </archimate:BusinessObject>

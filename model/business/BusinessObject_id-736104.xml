@@ -13,12 +13,12 @@
       key="Source"
       value="kwaliteitsregel (NORA raamwerk gegevenkwaliteit)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="gegevenskwaliteitsregel"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="bedrijfsregel"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="business rule"/>
 </archimate:BusinessObject>

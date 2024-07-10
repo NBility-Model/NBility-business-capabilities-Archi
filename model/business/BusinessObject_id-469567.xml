@@ -10,9 +10,9 @@
       key="Name (en)"
       value="Worker deployment"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="werkrooster"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="geschreven uren"/>
 </archimate:BusinessObject>

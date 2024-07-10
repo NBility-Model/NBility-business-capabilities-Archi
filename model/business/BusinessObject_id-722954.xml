@@ -13,12 +13,12 @@
       key="Source"
       value="product (economie) (Wikipedia)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="tarief"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="verkoopproduct"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="dataproduct"/>
 </archimate:BusinessObject>

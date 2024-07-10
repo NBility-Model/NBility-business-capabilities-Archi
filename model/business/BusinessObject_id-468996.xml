@@ -13,9 +13,9 @@
       key="Source"
       value="conditie (NEN 2767)"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="toestandswaardering"/>
   <properties
-      key="Alias"
+      key="Search term"
       value="assetconditie"/>
 </archimate:BusinessObject>
