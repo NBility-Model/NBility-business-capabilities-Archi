@@ -1,5 +1,0 @@
-<archimate:Capability
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="E.1.4.2. Informatiebeveiliging borgen"
-    id="id-29043"
-    documentation="Het vermogen om informatiebeveiligingsrisico's (waaronder cyberaanvallen) te inventariseren, te analyseren, te prioriteren en maatregelen te borgen. Dit omvat de NIST-CSF functies identify, protect, detect, respond, recover."/>
