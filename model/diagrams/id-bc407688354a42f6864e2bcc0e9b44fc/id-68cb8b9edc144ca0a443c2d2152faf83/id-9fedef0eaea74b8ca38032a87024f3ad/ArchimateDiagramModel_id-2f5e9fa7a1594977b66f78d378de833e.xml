@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="N1 E objectrelaties"
+    id="id-2f5e9fa7a1594977b66f78d378de833e">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-6e15f7887e6d400991a817401c4d7d80"
+      textAlignment="1"
+      content="Verwacht in volgende versie">
+    <bounds
+        x="12"
+        y="12"
+        width="185"
+        height="80"/>
+  </children>
+</archimate:ArchimateDiagramModel>
