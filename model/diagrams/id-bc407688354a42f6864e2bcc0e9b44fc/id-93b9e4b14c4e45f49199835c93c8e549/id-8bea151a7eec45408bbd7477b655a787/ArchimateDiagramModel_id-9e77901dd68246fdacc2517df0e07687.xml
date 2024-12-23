@@ -2757,24 +2757,6 @@
             value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-5ff92b7bedcd4fc6b5c4d18fc6a524ea"
-            source="id-b79af1f48bbd4179a2814638eb730766"
-            target="id-e3625fffb1494dd5a5d166ad05dc4593">
-          <archimateRelationship
-              xsi:type="archimate:AccessRelationship"
-              href="AccessRelationship_id-69f22180cfea490fa99725696184ac1c.xml#id-69f22180cfea490fa99725696184ac1c"/>
-        </sourceConnections>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-dbb86e7fec6b498b91855c40685b6039"
-            source="id-b79af1f48bbd4179a2814638eb730766"
-            target="id-6c61a63d81664b159a4b7ee225fa2eba">
-          <archimateRelationship
-              xsi:type="archimate:AccessRelationship"
-              href="AccessRelationship_id-733158273e254b5489e324efb6e072ae.xml#id-733158273e254b5489e324efb6e072ae"/>
-        </sourceConnections>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-7ee307bbff844f18a077eceddcf4d740"
             source="id-b79af1f48bbd4179a2814638eb730766"
             target="id-e426d55a7ead4d11b51546dee429c06d">
@@ -2813,7 +2795,6 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-6c61a63d81664b159a4b7ee225fa2eba"
-            targetConnections="id-dbb86e7fec6b498b91855c40685b6039"
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#ff7c80"
@@ -2836,7 +2817,6 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-e3625fffb1494dd5a5d166ad05dc4593"
-            targetConnections="id-5ff92b7bedcd4fc6b5c4d18fc6a524ea"
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#ff7c80"

@@ -1,0 +1,14 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedienen klant voor aansluiting"
+    id="id-7dc5fb527c2d46c29d7608b5cfd63af7">
+  <properties
+      key="Code"
+      value="P.A.1"/>
+  <properties
+      key="Name (en)"
+      value="Serve customer for connection"/>
+  <properties
+      key="Level"
+      value="1"/>
+</archimate:BusinessProcess>

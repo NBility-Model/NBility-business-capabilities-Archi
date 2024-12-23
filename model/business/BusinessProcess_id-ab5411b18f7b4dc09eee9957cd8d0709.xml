@@ -1,0 +1,14 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inpassen aansluiting in energienet"
+    id="id-ab5411b18f7b4dc09eee9957cd8d0709">
+  <properties
+      key="Code"
+      value="P.A.2.1"/>
+  <properties
+      key="Name (en)"
+      value="Integrate connection into energy grid"/>
+  <properties
+      key="Level"
+      value="2"/>
+</archimate:BusinessProcess>

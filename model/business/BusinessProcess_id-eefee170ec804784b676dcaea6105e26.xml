@@ -1,0 +1,14 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opnemen aansluiting in besturing energietransport"
+    id="id-eefee170ec804784b676dcaea6105e26">
+  <properties
+      key="Code"
+      value="P.A.4.1"/>
+  <properties
+      key="Name (en)"
+      value="Include connection in energy transport control"/>
+  <properties
+      key="Level"
+      value="2"/>
+</archimate:BusinessProcess>

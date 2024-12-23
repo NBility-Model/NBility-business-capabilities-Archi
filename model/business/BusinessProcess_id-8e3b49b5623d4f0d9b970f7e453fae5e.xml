@@ -1,0 +1,14 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overeenkomen aansluiting"
+    id="id-8e3b49b5623d4f0d9b970f7e453fae5e">
+  <properties
+      key="Code"
+      value="P.A.1.2"/>
+  <properties
+      key="Name (en)"
+      value="Agree connection"/>
+  <properties
+      key="Level"
+      value="2"/>
+</archimate:BusinessProcess>

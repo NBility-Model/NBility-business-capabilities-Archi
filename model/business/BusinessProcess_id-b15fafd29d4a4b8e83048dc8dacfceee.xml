@@ -1,0 +1,14 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Besturen reconstructie van energienet"
+    id="id-b15fafd29d4a4b8e83048dc8dacfceee">
+  <properties
+      key="Code"
+      value="P.B.2"/>
+  <properties
+      key="Name (en)"
+      value="Manage reconstruction of the energy network"/>
+  <properties
+      key="Level"
+      value="1"/>
+</archimate:BusinessProcess>

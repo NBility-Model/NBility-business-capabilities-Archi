@@ -2027,30 +2027,12 @@
             value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-b1984eb36043402887e02daff0cc8971"
-            source="id-d566e8a02f364e2a80fff801e127d380"
-            target="id-674d5ad829014e059791a40c2acaa154">
-          <archimateRelationship
-              xsi:type="archimate:AccessRelationship"
-              href="AccessRelationship_id-733158273e254b5489e324efb6e072ae.xml#id-733158273e254b5489e324efb6e072ae"/>
-        </sourceConnections>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-204da92dbc734811991deafda988079d"
             source="id-d566e8a02f364e2a80fff801e127d380"
             target="id-8c3e3c652d064f3babbea79fd2c5526b">
           <archimateRelationship
               xsi:type="archimate:AccessRelationship"
               href="AccessRelationship_id-52f991a7172e492584da6155a9f4de6b.xml#id-52f991a7172e492584da6155a9f4de6b"/>
-        </sourceConnections>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-dc460175904849d0a6bf12fe13e6a98b"
-            source="id-d566e8a02f364e2a80fff801e127d380"
-            target="id-39ec3b5c04e44dc0bbfff9beb44472b8">
-          <archimateRelationship
-              xsi:type="archimate:AccessRelationship"
-              href="AccessRelationship_id-69f22180cfea490fa99725696184ac1c.xml#id-69f22180cfea490fa99725696184ac1c"/>
         </sourceConnections>
         <bounds
             x="12"
@@ -2083,7 +2065,6 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-674d5ad829014e059791a40c2acaa154"
-            targetConnections="id-b1984eb36043402887e02daff0cc8971"
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#ff7c80"
@@ -2106,7 +2087,6 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-39ec3b5c04e44dc0bbfff9beb44472b8"
-            targetConnections="id-dc460175904849d0a6bf12fe13e6a98b"
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#ff7c80"
