@@ -1,0 +1,14 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overeenkomen reconstructie"
+    id="id-e35b126d1cc642b39386e8c881523a51">
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Code"
+      value="P.B.1.2"/>
+  <properties
+      key="Name (en)"
+      value="Agree reconstruction"/>
+</archimate:BusinessProcess>

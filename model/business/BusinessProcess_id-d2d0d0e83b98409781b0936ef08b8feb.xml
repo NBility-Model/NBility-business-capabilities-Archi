@@ -1,14 +1,14 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inpassen reconstructie in energienet"
-    id="id-b15fafd29d4a4b8e83048dc8dacfceee">
-  <properties
-      key="Code"
-      value="P.B.2"/>
-  <properties
-      key="Name (en)"
-      value="Manage reconstruction of the energy network"/>
+    id="id-d2d0d0e83b98409781b0936ef08b8feb">
   <properties
       key="Level"
-      value="1"/>
+      value="2"/>
+  <properties
+      key="Code"
+      value="P.B.2.1"/>
+  <properties
+      key="Name (en)"
+      value="Integrate reconstruction into energy grid"/>
 </archimate:BusinessProcess>
