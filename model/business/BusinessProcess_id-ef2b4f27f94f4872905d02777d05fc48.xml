@@ -1,4 +1,14 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Administratief opleveren aansluit werkzaamheden"
-    id="id-ef2b4f27f94f4872905d02777d05fc48"/>
+    id="id-ef2b4f27f94f4872905d02777d05fc48">
+  <properties
+      key="Code"
+      value="P.A.3.1.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Administrative delivery of connection work"/>
+</archimate:BusinessProcess>

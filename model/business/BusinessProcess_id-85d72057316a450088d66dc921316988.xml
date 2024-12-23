@@ -1,4 +1,14 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Offreren aansluiting"
-    id="id-85d72057316a450088d66dc921316988"/>
+    id="id-85d72057316a450088d66dc921316988">
+  <properties
+      key="Code"
+      value="P.A.1.2.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Offer connection"/>
+</archimate:BusinessProcess>

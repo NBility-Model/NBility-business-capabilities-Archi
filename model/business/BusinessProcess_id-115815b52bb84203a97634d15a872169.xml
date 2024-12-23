@@ -5,4 +5,10 @@
   <properties
       key="Code"
       value="P.A.1.1.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Make connection options visible"/>
 </archimate:BusinessProcess>

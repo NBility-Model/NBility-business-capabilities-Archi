@@ -5,4 +5,10 @@
   <properties
       key="Code"
       value="P.A.1.1.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Process connection request"/>
 </archimate:BusinessProcess>

@@ -1,4 +1,14 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opnemen netcomponenten aansluiting in levenscyclusbeheer"
-    id="id-5713267a5bdd4433b7b4d947dbc1fdbd"/>
+    id="id-5713267a5bdd4433b7b4d947dbc1fdbd">
+  <properties
+      key="Code"
+      value="P.A.2.1.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Include grid components connection in life cycle management"/>
+</archimate:BusinessProcess>
