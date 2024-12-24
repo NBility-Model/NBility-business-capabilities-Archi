@@ -1,14 +1,14 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Besturen reconstructie van energienet"
-    id="id-d2d0d0e83b98409781b0936ef08b8feb">
+    name="Bedienen klant voor netaanpassing"
+    id="id-e66a8647b8d540b7b13b5a14fc22f54f">
   <properties
       key="Level"
-      value="2"/>
+      value="1"/>
   <properties
       key="Code"
-      value="P.B.2.1"/>
+      value="P.C.1"/>
   <properties
       key="Name (en)"
-      value="Manage reconstruction of the energy network"/>
+      value="Serve customer for grid adjustment"/>
 </archimate:BusinessProcess>

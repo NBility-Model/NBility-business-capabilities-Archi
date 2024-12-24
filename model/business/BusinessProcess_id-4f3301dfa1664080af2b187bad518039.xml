@@ -1,0 +1,14 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Besturen instandhouding energienet door storingsherstel"
+    id="id-4f3301dfa1664080af2b187bad518039">
+  <properties
+      key="Level"
+      value="1"/>
+  <properties
+      key="Code"
+      value="P.D2.4"/>
+  <properties
+      key="Name (en)"
+      value="Manage maintenance energy network through fault recovery"/>
+</archimate:BusinessProcess>

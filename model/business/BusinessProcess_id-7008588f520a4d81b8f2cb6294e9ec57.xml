@@ -1,0 +1,14 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opnemen netaanpassing in besturing energietransport"
+    id="id-7008588f520a4d81b8f2cb6294e9ec57">
+  <properties
+      key="Level"
+      value="1"/>
+  <properties
+      key="Code"
+      value="P.C.4"/>
+  <properties
+      key="Name (en)"
+      value="Include grid adjustment in energy transport management"/>
+</archimate:BusinessProcess>

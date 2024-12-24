@@ -1,14 +1,14 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Besturen reconstructie van energienet"
-    id="id-d2d0d0e83b98409781b0936ef08b8feb">
+    name="Faciliteren energiemarkt voor energie-uitwisseling"
+    id="id-f9b2a17a26e84f049b0ce7dbb08bd208">
   <properties
       key="Level"
-      value="2"/>
+      value="1"/>
   <properties
       key="Code"
-      value="P.B.2.1"/>
+      value="P.G.1"/>
   <properties
       key="Name (en)"
-      value="Manage reconstruction of the energy network"/>
+      value="Facilitate energy market for energy exchange"/>
 </archimate:BusinessProcess>

@@ -1,0 +1,14 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedienen klant bij onderhoud"
+    id="id-d228f50049f44e8cb023c09172545867">
+  <properties
+      key="Code"
+      value="P.D1.1"/>
+  <properties
+      key="Level"
+      value="1"/>
+  <properties
+      key="Name (en)"
+      value="Serve customer during maintenance"/>
+</archimate:BusinessProcess>
