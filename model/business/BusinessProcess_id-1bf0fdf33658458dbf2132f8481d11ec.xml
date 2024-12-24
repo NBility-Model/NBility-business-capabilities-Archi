@@ -1,0 +1,14 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opnemen reconstructie in besturing energietransport"
+    id="id-1bf0fdf33658458dbf2132f8481d11ec">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Code"
+      value="P.B.4.1.1"/>
+  <properties
+      key="Name (en)"
+      value="Include reconstruction in energy transport control"/>
+</archimate:BusinessProcess>

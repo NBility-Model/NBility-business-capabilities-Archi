@@ -1,14 +1,14 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="In behandeling nemen aansluitverzoek"
-    id="id-555ed441b94247ed834317c3bb8af30d">
-  <properties
-      key="Code"
-      value="P.A.1.1.2"/>
+    name="Overeenkomen reconstructie"
+    id="id-718a0f8eb4ee4f9aa9b8ee48be3f7152">
   <properties
       key="Level"
       value="3"/>
   <properties
+      key="Code"
+      value="P.B.1.2.2"/>
+  <properties
       key="Name (en)"
-      value="Process connection option request"/>
+      value="Agree reconstruction"/>
 </archimate:BusinessProcess>

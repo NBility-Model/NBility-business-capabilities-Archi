@@ -1,0 +1,14 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opnemen netcomponenten reconstructie in levenscyclusbeheer"
+    id="id-4e51509b331a4fa7a98f6e6d6e57d242">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Code"
+      value="P.B.2.1.2"/>
+  <properties
+      key="Name (en)"
+      value="Include grid components reconstruction in life cycle management"/>
+</archimate:BusinessProcess>

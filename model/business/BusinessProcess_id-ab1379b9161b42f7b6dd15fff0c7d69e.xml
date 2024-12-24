@@ -1,0 +1,14 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="In behandeling nemen reconstructieverzoek"
+    id="id-ab1379b9161b42f7b6dd15fff0c7d69e">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Code"
+      value="P.B.1.1.2"/>
+  <properties
+      key="Name (en)"
+      value="Process reconstruction option request"/>
+</archimate:BusinessProcess>
