@@ -5,4 +5,10 @@
   <properties
       key="Level"
       value="2"/>
+  <properties
+      key="Code"
+      value="P.E.4.1"/>
+  <properties
+      key="Name (en)"
+      value="Measure adjustable power"/>
 </archimate:BusinessProcess>

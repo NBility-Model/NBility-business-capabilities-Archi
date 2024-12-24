@@ -5,4 +5,10 @@
   <properties
       key="Level"
       value="2"/>
+  <properties
+      key="Code"
+      value="P.E.3.3"/>
+  <properties
+      key="Name (en)"
+      value="Handle market questions about adjustable power"/>
 </archimate:BusinessProcess>

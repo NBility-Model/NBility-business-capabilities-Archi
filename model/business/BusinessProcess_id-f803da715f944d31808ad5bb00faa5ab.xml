@@ -1,14 +1,14 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bepalen transport capaciteit problemen"
-    id="id-ec8eb798cc9140e8aef5e8e57de55fef">
+    name="Meten energie-uitwisseling"
+    id="id-f803da715f944d31808ad5bb00faa5ab">
   <properties
       key="Level"
       value="2"/>
   <properties
       key="Code"
-      value="P.E.5.1"/>
+      value="P.F.2.2"/>
   <properties
       key="Name (en)"
-      value="Determine transport capacity problems"/>
+      value="Measure energy exchange"/>
 </archimate:BusinessProcess>

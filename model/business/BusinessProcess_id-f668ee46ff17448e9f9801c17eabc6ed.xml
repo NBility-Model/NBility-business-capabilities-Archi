@@ -1,14 +1,14 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bepalen transport capaciteit problemen"
-    id="id-ec8eb798cc9140e8aef5e8e57de55fef">
+    name="Factureren en innen energietransport"
+    id="id-f668ee46ff17448e9f9801c17eabc6ed">
   <properties
       key="Level"
       value="2"/>
   <properties
       key="Code"
-      value="P.E.5.1"/>
+      value="P.F.1.3"/>
   <properties
       key="Name (en)"
-      value="Determine transport capacity problems"/>
+      value="Invoice and collect energy transport"/>
 </archimate:BusinessProcess>

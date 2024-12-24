@@ -1,14 +1,14 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bepalen transport capaciteit problemen"
-    id="id-ec8eb798cc9140e8aef5e8e57de55fef">
+    name="Bepalen transportproblemen en restcapaciteit"
+    id="id-567011b675064e3a92984672562c0813">
   <properties
       key="Level"
       value="2"/>
   <properties
       key="Code"
-      value="P.E.5.1"/>
+      value="P.F.4.1"/>
   <properties
       key="Name (en)"
-      value="Determine transport capacity problems"/>
+      value="Determine transport problems and residual capacity"/>
 </archimate:BusinessProcess>
