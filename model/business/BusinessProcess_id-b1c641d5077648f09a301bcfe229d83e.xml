@@ -1,14 +1,14 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Uitvoeren storingherstel werkzaamheden"
-    id="id-39472cb2840a4f849d76c41db40afa9d">
+    name="Bepalen storing compensatie"
+    id="id-b1c641d5077648f09a301bcfe229d83e">
   <properties
       key="Level"
-      value="1"/>
+      value="2"/>
   <properties
       key="Code"
-      value="P.D2.5"/>
+      value="P.D2.1.2"/>
   <properties
       key="Name (en)"
-      value="Perform fault recovery work"/>
+      value="Determine energy interruption compensation"/>
 </archimate:BusinessProcess>

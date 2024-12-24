@@ -1,14 +1,14 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Uitvoeren storingherstel werkzaamheden"
-    id="id-39472cb2840a4f849d76c41db40afa9d">
+    name="Herstellen energietransport"
+    id="id-93b3a4cb7f6243688b5a8ce80ed13eda">
   <properties
       key="Level"
-      value="1"/>
+      value="2"/>
   <properties
       key="Code"
-      value="P.D2.5"/>
+      value="P.D2.3.1"/>
   <properties
       key="Name (en)"
-      value="Perform fault recovery work"/>
+      value="Restore energy transport"/>
 </archimate:BusinessProcess>

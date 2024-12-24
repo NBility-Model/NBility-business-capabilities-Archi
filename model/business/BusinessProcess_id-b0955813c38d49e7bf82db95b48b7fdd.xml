@@ -1,0 +1,14 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opnemen vervanging door onderhoud in besturing energietransport"
+    id="id-b0955813c38d49e7bf82db95b48b7fdd">
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Code"
+      value="P.D1.5.1"/>
+  <properties
+      key="Name (en)"
+      value="Include replacement due to maintenance in energy transport management"/>
+</archimate:BusinessProcess>

@@ -1,14 +1,14 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Uitvoeren storingherstel werkzaamheden"
-    id="id-39472cb2840a4f849d76c41db40afa9d">
+    name="Interacteren over onderhoud"
+    id="id-3d36eb58d16d4da09ccade840111e48d">
   <properties
       key="Level"
-      value="1"/>
+      value="2"/>
   <properties
       key="Code"
-      value="P.D2.5"/>
+      value="P.D1.1.1"/>
   <properties
       key="Name (en)"
-      value="Perform fault recovery work"/>
+      value="Interact about maintenance"/>
 </archimate:BusinessProcess>
