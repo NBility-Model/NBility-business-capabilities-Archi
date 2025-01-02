@@ -1,11 +1,11 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Behandelen vraag over storing"
-    id="id-a3bb734779fa4f25b3a553b6b76420b2">
+    name="Compenseren netverlies"
+    id="id-a51c38344ff645f68d8d0e6a527922c2">
   <properties
       key="Level"
       value="3"/>
   <properties
       key="Code"
-      value="P.D2.1.1.3"/>
+      value="P.G.3.1.1"/>
 </archimate:BusinessProcess>

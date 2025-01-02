@@ -1,6 +1,6 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Behandelen vragen over reconstructie"
+    name="Behandelen vraag over reconstructie"
     id="id-7600f400283944a4a5bf11e0462a2a3b">
   <properties
       key="Level"
@@ -10,5 +10,5 @@
       value="P.B.1.1.4"/>
   <properties
       key="Name (en)"
-      value="Answer questions about reconstruction"/>
+      value="Answer question about reconstruction"/>
 </archimate:BusinessProcess>
