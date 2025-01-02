@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Initieren definitief storingsherstel"
+    id="id-27b3b9fb39b34771b95a0cc6cf17e684">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Code"
+      value="P.D2.3.1.5"/>
+</archimate:BusinessProcess>

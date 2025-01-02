@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanalyseren grondoorzaak en initieren mitigerende maatregelen"
+    id="id-5b1ad4fbdddb42f0aa8724c26a2435e7">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Code"
+      value="P.D2.4.2.1"/>
+</archimate:BusinessProcess>

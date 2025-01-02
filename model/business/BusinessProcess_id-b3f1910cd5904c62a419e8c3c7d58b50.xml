@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opnemen netvervanging in besturing energietransport"
+    id="id-b3f1910cd5904c62a419e8c3c7d58b50">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Code"
+      value="P.D1.5.1.1"/>
+</archimate:BusinessProcess>

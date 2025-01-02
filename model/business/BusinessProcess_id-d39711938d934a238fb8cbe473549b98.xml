@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opnemen storingsherstel in besturing energienet"
+    id="id-d39711938d934a238fb8cbe473549b98">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Code"
+      value="P.D2.3.2.1"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="In behandeling nemen storingsmelding"
+    id="id-34dadad80be94a2994074166dd595ff7">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Code"
+      value="P.D2.1.1.1"/>
+</archimate:BusinessProcess>

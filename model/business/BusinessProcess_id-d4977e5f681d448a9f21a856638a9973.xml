@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oplossen onderbreking"
+    id="id-d4977e5f681d448a9f21a856638a9973">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Code"
+      value="P.D2.3.1.4"/>
+</archimate:BusinessProcess>

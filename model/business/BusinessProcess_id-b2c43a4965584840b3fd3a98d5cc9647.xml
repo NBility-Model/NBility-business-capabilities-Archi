@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toewijzen storing aan oplosgroep"
+    id="id-b2c43a4965584840b3fd3a98d5cc9647">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Code"
+      value="P.D2.3.1.2"/>
+</archimate:BusinessProcess>
