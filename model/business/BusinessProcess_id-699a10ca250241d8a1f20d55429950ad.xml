@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Offreren inzet regelbaar vermogen"
+    id="id-699a10ca250241d8a1f20d55429950ad">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Code"
+      value="P.E.1.2.1"/>
+</archimate:BusinessProcess>

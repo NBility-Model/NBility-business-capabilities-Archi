@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschikbaar maken metingen transportcapaciteit"
+    id="id-6e7d8db2927146a2b3500660de603d5e">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Code"
+      value="P.E.4.1.1"/>
+</archimate:BusinessProcess>
