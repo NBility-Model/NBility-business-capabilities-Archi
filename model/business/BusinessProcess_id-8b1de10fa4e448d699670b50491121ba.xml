@@ -1,0 +1,14 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bepalen capaciteitsknelpunten"
+    id="id-8b1de10fa4e448d699670b50491121ba">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Code"
+      value="P.C.2.1.2"/>
+  <properties
+      key="Name (en)"
+      value="Determine capacity bottlenecks"/>
+</archimate:BusinessProcess>

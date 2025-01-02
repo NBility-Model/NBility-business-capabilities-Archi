@@ -1,0 +1,14 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opnemen netcomponenten netaanpassing in levenscyclusbeheer"
+    id="id-7c280d05fe7446199627eefb229561ba">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Code"
+      value="P.C.2.1.5"/>
+  <properties
+      key="Name (en)"
+      value="Include grid components grid adjustment in life cycle management"/>
+</archimate:BusinessProcess>
