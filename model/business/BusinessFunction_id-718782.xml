@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Manage energy markets"/>
+      value="Operate energy markets"/>
   <properties
       key="Documentation (en)"
-      value="The ability to manage energy markets enabling trading of energy services."/>
+      value="The ability to operate energy markets to enable the trading of energy services such as over-the-counter markets and energy exchanges, energy trading markets, capacity, balancing and ancillary services in all time frames including forward, day-ahead and intraday markets."/>
 </archimate:BusinessFunction>

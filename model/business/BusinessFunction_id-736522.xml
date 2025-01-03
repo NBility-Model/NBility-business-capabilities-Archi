@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Develop change portfolio / develop a roadmap"/>
+      value="Develop and guard the change portfolio and roadmap"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to define, prioritize changes and manage dependencies and progress through a road map."/>
 </archimate:BusinessFunction>

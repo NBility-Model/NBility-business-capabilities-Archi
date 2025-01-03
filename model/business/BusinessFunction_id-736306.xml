@@ -11,8 +11,8 @@
       value="2"/>
   <properties
       key="Name (en)"
-      value="Recruite and exit employees"/>
+      value="Onboard and offboard employees"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to onboard and offboard employees."/>
 </archimate:BusinessFunction>

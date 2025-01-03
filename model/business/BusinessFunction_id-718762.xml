@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Fight energy theft"/>
+      value="Limit energy theft"/>
   <properties
       key="Documentation (en)"
-      value="The ability to track down and reduce technical and administrative energy theft in the grid (including the smart meter) and in the processes. The abilitity to cooperatie with investigative agencies, like police and fire brigade. The ability to track down and reduce customer and/or connection related energy theft."/>
+      value="The ability to track down and reduce technical and administrative energy theft in the grid (including the smart meter) and in the processes. The abilitity to cooperatie with investigative agencies, like police and fire brigade. The ability to track down and reduce customer connection related incompany energy theft."/>
 </archimate:BusinessFunction>

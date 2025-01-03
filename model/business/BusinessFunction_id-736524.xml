@@ -14,5 +14,5 @@
       value="Assure data quality"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to ensure data quality. This also includes drawing up and monitoring data governance guidelines."/>
 </archimate:BusinessFunction>

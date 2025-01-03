@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Provide and monitor maintenance and inspection orders"/>
+      value="Provide and monitor assignments for maintenance and inspection orders"/>
   <properties
       key="Documentation (en)"
-      value="The ability to issue the contract for maintenance and/or inspection to the contractor. Monitoring/measuring maintenance and/or inspections, including providing input to (multi-year) planning in case of deviation outside the bandwidth."/>
+      value="The ability to issue the assignment for maintenance and/or inspection to the contractor. Monitoring/measuring maintenance and/or inspections, including providing input to (multi-year) planning in case of deviation outside the bandwidth. "/>
 </archimate:BusinessFunction>

@@ -14,5 +14,5 @@
       value="Operationally plan work"/>
   <properties
       key="Documentation (en)"
-      value="The ability to execute operational planning of work, like scheduling technicians."/>
+      value="The ability to execute operational planning of work, like scheduling technicians. The ability to plan work in available time of employees of a capacity group, including managing availability in the coming period for these employees. This takes into account, among other things, requested and available directions, experience and travel times. Operational planning includes scheduling standby services. The availability of employees is influenced, among other things, by the availability agreed with the employee (contract hours adjusted for leave), training, department events. The availability agreed with the employees is achieved via internal value stream: 'Making and keeping available employees'. The capacity groups and plannable employees within them are achieved by 'C.5.4.2 Manage Execution Capacity'."/>
 </archimate:BusinessFunction>

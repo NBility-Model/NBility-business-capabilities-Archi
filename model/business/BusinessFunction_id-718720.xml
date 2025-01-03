@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Manage upward or downward regulation bids"/>
+      value="Manage upward or downward regulation supply"/>
   <properties
       key="Documentation (en)"
-      value="The ability to manage Upward or downward regulation bids."/>
+      value="The ability to manage supply to a grid operator that allows the grid operator to change the production and/or load pattern on one or more connections. This concerns, for example, balancing capacity, redispatch capacity, capacity limitation, bidding and calling of balancing services or redispatch services, Demand response made available."/>
 </archimate:BusinessFunction>

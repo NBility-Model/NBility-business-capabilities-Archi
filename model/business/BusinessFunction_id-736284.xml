@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Manage employee (re)assigment"/>
+      value="Redeploy employees"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to (voluntarily or forcibly) redeploy employees. This also includes managing succession."/>
 </archimate:BusinessFunction>

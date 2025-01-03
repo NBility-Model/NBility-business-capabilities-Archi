@@ -14,5 +14,5 @@
       value="Assign disturbances"/>
   <properties
       key="Documentation (en)"
-      value="The ability to associate a technician with the fault for local analysis and remediation, whether or not provided with an urgency or priority of the fault."/>
+      value="The ability to assign a technician to the fault for local analysis and remediation, whether or not provided with an urgency or priority of the fault."/>
 </archimate:BusinessFunction>

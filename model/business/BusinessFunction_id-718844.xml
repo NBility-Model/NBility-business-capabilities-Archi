@@ -14,5 +14,5 @@
       value="Manage legal affairs"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to manage and monitor legal aspects of the organization. This includes assessing legal risks, providing legal advice, preparing legal files and legal documents and conducting legal proceedings (including regulation)."/>
 </archimate:BusinessFunction>

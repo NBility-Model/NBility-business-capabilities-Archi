@@ -14,5 +14,5 @@
       value="Collect measurements"/>
   <properties
       key="Documentation (en)"
-      value="The ability of collecting measurements for processing purposes."/>
+      value="The ability to collect measurements for processing purposes. This includes manual readouts of measuring devices."/>
 </archimate:BusinessFunction>

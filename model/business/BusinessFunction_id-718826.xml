@@ -14,5 +14,5 @@
       value="Manage crises"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to predict, assess, analyze and prevent crisis situations. Also the ability to actually provide a response when a crisis occurs."/>
 </archimate:BusinessFunction>

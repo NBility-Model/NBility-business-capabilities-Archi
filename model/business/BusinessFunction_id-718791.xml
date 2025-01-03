@@ -14,5 +14,5 @@
       value="Communicate upward or downward regulation demand"/>
   <properties
       key="Documentation (en)"
-      value="The ability to communicate upward or downward regulation demand."/>
+      value="The ability to communicate upward or downward regulation demand in order to maintain the energy transport or balance."/>
 </archimate:BusinessFunction>

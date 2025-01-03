@@ -14,5 +14,5 @@
       value="Distribute goods physically"/>
   <properties
       key="Documentation (en)"
-      value="The ability to distribute goods physically. Think about: from central warehouse to decentralised warehoud, to workplace, to car."/>
+      value="The ability to distribute goods physically. Think about: from central warehouse to decentralised warehouse, to workplace, to car."/>
 </archimate:BusinessFunction>

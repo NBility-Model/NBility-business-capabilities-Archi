@@ -1,8 +1,8 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Marktdata beschikbaar maken voor derden"
+    name="Netbeheerdata beschikbaar maken voor derden"
     id="id-718746"
-    documentation="Het vermogen om marktdata beschikbaar te maken voor derden. De wet kent  vier soorten data delen. Deze capability betreft data delen op verzoek (toestemming) en  dataverzoeken van derden. Dit betreft bijvoorbeeld de informatievoorziening ten behoeve van het CertiQ-proces.">
+    documentation="Het vermogen om netbeheerdata beschikbaar te maken voor derden. De wet kent  vier soorten data delen. Deze capability betreft data delen op verzoek (toestemming),  dataverzoeken van derden (dit betreft bijvoorbeeld de informatievoorziening ten behoeve van het CertiQ-proces) en open data. Data beschikbaar maken ten behoeve van de markt(systeem)processen valt er dus buiten.">
   <properties
       key="Code"
       value="C.6.4.1"/>
@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Make market data available for third parties"/>
+      value="Make grid operator data available for third parties"/>
   <properties
       key="Documentation (en)"
-      value="The ability to exchange data by market messages, based on a legal basis or in response to issued permission, for the purpose of market facilitation."/>
+      value="The ability to make grid operator data available to third parties. The law recognizes four types of data sharing. This capability concerns data sharing on request (consent), data requests from third parties (this concerns, for example, the provision of information for the CertiQ process) and open data. Making data available for the market (system) processes is therefore not included."/>
 </archimate:BusinessFunction>

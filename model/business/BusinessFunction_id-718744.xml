@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Close goods and services contracts"/>
+      value="Establish contracts for goods and services"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to agree and/or order goods and services. This also includes concluding framework agreements and calling for goods/services within them."/>
 </archimate:BusinessFunction>

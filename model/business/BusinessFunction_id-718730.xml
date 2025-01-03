@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Analyse alternatives for mitigation risk on capacity and/or functionality and determine mitigation measures"/>
+      value="Analyse alternatives for mitigation of risk on capacity and/or functionality and determine mitigating measures"/>
   <properties
       key="Documentation (en)"
-      value="The ability to prepare and analyse alternatives for mitigating capacity and/or functionality grid risks/fixing bottlenecks. For example: scenarios, costs and benefits, value case."/>
+      value="The ability to prepare and analyse alternatives for mitigation of capacity and/or functionality grid risks / fixing bottlenecks. For example: scenarios, costs and benefits, value case."/>
 </archimate:BusinessFunction>

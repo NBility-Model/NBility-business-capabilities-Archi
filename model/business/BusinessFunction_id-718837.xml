@@ -14,5 +14,5 @@
       value="Manage processes"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to control processes. This also includes defining, continuously improving and orchestrating the processes. Processes include the value stream/chain processes, main processes, business processes and work processes."/>
 </archimate:BusinessFunction>

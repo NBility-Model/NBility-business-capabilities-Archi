@@ -11,8 +11,8 @@
       value="2"/>
   <properties
       key="Name (en)"
-      value="Close and monitor contracts with suppliers"/>
+      value="Establish and monitor contracts with suppliers"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to establish and monitor agreements with suppliers. This also includes orders placed within agreements."/>
 </archimate:BusinessFunction>

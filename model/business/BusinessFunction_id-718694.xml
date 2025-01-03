@@ -14,5 +14,5 @@
       value="Develop grid components"/>
   <properties
       key="Documentation (en)"
-      value="The ability to develop grid components, whether or not in collaboration with manufacturers/partners. Net components can be automic net components such as a device or composite net components such as a station, but also digital components or functions."/>
+      value="The ability to develop grid components, whether or not in collaboration with manufacturers/partners. Grid components can be atomic grid components such as a device or composite grid components such as a station, but also digital components or functions."/>
 </archimate:BusinessFunction>

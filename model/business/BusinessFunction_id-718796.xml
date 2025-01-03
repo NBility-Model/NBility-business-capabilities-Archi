@@ -14,5 +14,5 @@
       value="Exchange energy predictions"/>
   <properties
       key="Documentation (en)"
-      value="The ability to exchange energy predictions (forecast, nomination). Think about energy predictions with Balance Responsible Party."/>
+      value="The ability to exchange energy predictions (forecast, nomination). Think of energy predictions with Balance Responsible Party."/>
 </archimate:BusinessFunction>

@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Commission/decommission energy grids on distance"/>
+      value="Remotely commission / decommission energy grids"/>
   <properties
       key="Documentation (en)"
-      value="The ability to effect control actions on net components and take a grid part into or out of operation (remote switching), including sequence dependence of such actions. This can be in the context of maintenance as well as for new construction. Circuit plans are input for this."/>
+      value="The ability to effect control actions on grid components and take a grid part into or out of operation (remote switching), including controlling the sequence of these actions. This can be in the context of maintenance as well as for new construction. Circuit plans are input for this."/>
 </archimate:BusinessFunction>

@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Manage supplier relations"/>
+      value="Manage purchasing supplier relations"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to maintain a relationship with purchasing suppliers. This includes strategic, tactical and operational levels."/>
 </archimate:BusinessFunction>

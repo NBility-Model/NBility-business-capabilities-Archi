@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Claim damage caused by third parties"/>
+      value="Claim damages caused by third parties"/>
   <properties
       key="Documentation (en)"
-      value="The ability to recover damage caused by third parties. Think of holding those responsible for vandalism to the grid or damage by a contractor."/>
+      value="The ability to recover damages caused by third parties. For instance holding accountable those responsible for vandalism to the grid or damage by a contractor."/>
 </archimate:BusinessFunction>

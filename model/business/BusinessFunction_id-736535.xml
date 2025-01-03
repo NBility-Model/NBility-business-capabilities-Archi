@@ -14,5 +14,5 @@
       value="Manage employee performance"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to determine, assess and improve employee performance."/>
 </archimate:BusinessFunction>

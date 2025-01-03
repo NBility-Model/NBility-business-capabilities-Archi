@@ -14,5 +14,5 @@
       value="Monitor the operation of grid components"/>
   <properties
       key="Documentation (en)"
-      value="The ability to monitor, control, and remotely configure the performance of individual assets that make up the energy grid. This includes primary, secondary, tertiary and telecom net components. This includes updating firmware and digital configuration."/>
+      value="The ability to monitor, control, and remotely configure the performance of individual assets that make up the energy grid. This includes primary, secondary, tertiary and telecom grid components. This includes updating firmware and digital configuration."/>
 </archimate:BusinessFunction>

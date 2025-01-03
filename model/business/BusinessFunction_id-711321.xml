@@ -14,5 +14,5 @@
       value="Expand, replace and renew energy grids"/>
   <properties
       key="Documentation (en)"
-      value="The ability to define work for adjustments to the energy grids."/>
+      value="The ability to define work for adjustments to the energy grids in order to keep the grids future proof. Amongst others the development of primary, secondary, tertiary, and telecoms grid components."/>
 </archimate:BusinessFunction>

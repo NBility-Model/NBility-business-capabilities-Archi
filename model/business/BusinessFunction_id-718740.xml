@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Issue work to execution"/>
+      value="Issue assignments to work execution"/>
   <properties
       key="Documentation (en)"
-      value="The ability to instruct on work in progress inside or outside the grid operator."/>
+      value="The ability to issue assignments of work by or outside of the grid operator."/>
 </archimate:BusinessFunction>

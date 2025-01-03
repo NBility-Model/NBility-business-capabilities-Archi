@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Stakeholderrelatie onderhouden"
     id="id-718827"
-    documentation="Het vermogen om stakeholders te herkennen, te informeren en de relatie met deze stakeholders te onderhouden. Dit omvat ook communicatiestrategie en beleid en het opstellen en uitvoeren van bedrijfscommunicatie en campagnes naar stakeholders, inclusief klantcampagnes.&#xA;.">
+    documentation="Het vermogen om stakeholders te herkennen, te informeren en de relatie met deze stakeholders te onderhouden. Dit omvat ook communicatiestrategie en beleid en het opstellen en uitvoeren van bedrijfscommunicatie en campagnes naar stakeholders, inclusief generieke klantcampagnes.&#xA;.">
   <properties
       key="Code"
       value="E.1.2.1"/>
@@ -14,5 +14,5 @@
       value="Inform and manage stakeholders"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to recognize, inform and maintain relationships with stakeholders. This also includes communications strategy and policy and drafting and executing corporate communications and campaigns to stakeholders, including generic customer campaigns."/>
 </archimate:BusinessFunction>

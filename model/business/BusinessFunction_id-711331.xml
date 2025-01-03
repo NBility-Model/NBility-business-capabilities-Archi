@@ -14,5 +14,5 @@
       value="Invoice and collect"/>
   <properties
       key="Documentation (en)"
-      value="The ability to create, send and collect invoices."/>
+      value="The ability to create and send invoices and collect payments."/>
 </archimate:BusinessFunction>

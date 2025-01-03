@@ -11,7 +11,7 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Coordinate work execution"/>
+      value="Coordinate work"/>
   <properties
       key="Documentation (en)"
       value="The ability to coordinate work, like projectmanagement and managing failure of orders."/>

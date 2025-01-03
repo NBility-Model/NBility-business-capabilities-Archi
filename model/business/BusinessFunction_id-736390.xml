@@ -14,5 +14,5 @@
       value="Manage facilities"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to make facilities available."/>
 </archimate:BusinessFunction>

@@ -14,5 +14,5 @@
       value="Control energy transport"/>
   <properties
       key="Documentation (en)"
-      value="The ability to determine and send control actions to specific net components, supported by signal and/or measurement data and formalised logic to keep energy flowing and maintain balance."/>
+      value="The ability to determine and send control actions to specific grid components, supported by signal and/or measurement data and formalised logic to keep energy flowing and maintain balance. Including responding to requests from other grid operators, e.g. activation balancing from TenneT; Implement immediate action in the event of grid failure or technical congestion (including reporting to relevant grid operator, e.g. TenneT)."/>
 </archimate:BusinessFunction>

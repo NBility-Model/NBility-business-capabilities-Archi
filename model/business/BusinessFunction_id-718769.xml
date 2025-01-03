@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Relatie met klanten onderhouden"
     id="id-718769"
-    documentation="Het vermogen om positieve en constructieve relaties te onderhouden met klanten en deze te registreren.">
+    documentation="Het vermogen om positieve en constructieve relaties te onderhouden met klanten.">
   <properties
       key="Code"
       value="C.1.1.4"/>
@@ -14,5 +14,5 @@
       value="Maintain relationship with customers"/>
   <properties
       key="Documentation (en)"
-      value="The ability to maintain and record positive and constructive relationships with customers."/>
+      value="The ability to maintain positive and constructive relationships with customers."/>
 </archimate:BusinessFunction>

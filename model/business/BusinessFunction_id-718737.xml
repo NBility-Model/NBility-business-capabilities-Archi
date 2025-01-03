@@ -14,5 +14,5 @@
       value="Include energy grids in the control of energy transport"/>
   <properties
       key="Documentation (en)"
-      value="The ability to include net components in the operations of the energy grid, such as visibility in the monitoring and control of SCADA."/>
+      value="The ability to include grid components in the operations of the energy grid, such as visibility in the monitoring and control of SCADA."/>
 </archimate:BusinessFunction>

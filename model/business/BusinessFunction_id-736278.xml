@@ -14,5 +14,5 @@
       value="Assure operation of digital products"/>
   <properties
       key="Documentation (en)"
-      value="(IT4IT - Assure)"/>
+      value="The ability to ensure the operation of digital products. This includes defining and applying diagnostics and recovery activities (runbooks), controlling events and monitoring performance. The actual adjustment of the production environment (e.g. patching) takes place in E.4.2 and E.4.3).  (IT4IT - Assure)"/>
 </archimate:BusinessFunction>

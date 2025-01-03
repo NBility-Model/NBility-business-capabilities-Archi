@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Fulfil digital products"/>
+      value="Fulfill digital products"/>
   <properties
       key="Documentation (en)"
-      value="(IT4IT Fulfill)"/>
+      value="The ability to make digital products available to users. This includes realizing authorizations, making licenses available and the digital product instance configuration. (IT4IT Fulfillment)"/>
 </archimate:BusinessFunction>

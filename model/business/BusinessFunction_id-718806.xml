@@ -14,5 +14,5 @@
       value="Make measurements available"/>
   <properties
       key="Documentation (en)"
-      value="The ability to make measurements of energy flows and energy grids available to other capabilities. For example for dashboard, reports, or analytics."/>
+      value="The ability to make measurements available to other capabilities. For example for dashboards, reports, or analytics."/>
 </archimate:BusinessFunction>

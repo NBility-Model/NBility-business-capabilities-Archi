@@ -11,8 +11,8 @@
       value="1"/>
   <properties
       key="Name (en)"
-      value="Measure energy flows and energy grids"/>
+      value="Measure energy transport and energy grids"/>
   <properties
       key="Documentation (en)"
-      value="The ability to measure energy flows and energy grids and to make these measurements available so other capabilities can use these measurements."/>
+      value="The ability to measure energy transport and energy grids and to make these measurements available so other capabilities can use these measurements."/>
 </archimate:BusinessFunction>

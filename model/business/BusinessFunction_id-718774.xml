@@ -14,5 +14,5 @@
       value="Execute energy market procedures"/>
   <properties
       key="Documentation (en)"
-      value="The ability to accept and handle requests for changes of connections and allocation points  initiated by market parties (like switching, move in, move out and banckruptcy of supplier)"/>
+      value="The ability to accept and handle requests for changes of connections and allocation points initiated by market parties by following established market processes like switching, move in, move out and bankruptcy of supplier."/>
 </archimate:BusinessFunction>

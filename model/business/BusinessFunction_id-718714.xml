@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aansluitingen/allocatiepunten beheren"
     id="id-718714"
-    documentation="Het vermogen om de marktgegevens over een aansluiting/allocatiepunt te beheren, inclusief de meetinrichting en de relatie naar de marktpartij. Let op dit betreffen niet de fysieke aansluiting gegevens ten behoeve van asset management (rode domein).">
+    documentation="Het vermogen om een aansluiting/allocatiepunt te beheren. Let op dit betreffen niet de fysieke aansluiting gegevens ten behoeve van asset management (rode domein).">
   <properties
       key="Code"
       value="C.6.2.1"/>
@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Manage energy grid connections"/>
+      value="Manage energy grid connections / allocation points"/>
   <properties
       key="Documentation (en)"
-      value="The ability to manage market data on connections and allocation points"/>
+      value="The ability to manage connections and allocation points. This does not concern the physical connection data of asset management (the red domain)."/>
 </archimate:BusinessFunction>

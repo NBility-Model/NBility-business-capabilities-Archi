@@ -14,5 +14,5 @@
       value="Orchestrate processes"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to orchestrate the processes and thus control the realization of the result. This includes determining the activities to be carried out, managing the activities (managing actors), monitoring progress and providing insight into/reporting on progress at agreed times and/or upon request. This includes a task flow method of orchestration and a file flow (= case-oriented work) method of orchestration. This capability can be used to control the various underlying capabilities required to realize the E2E result (e.g. future-proof energy grid, connection, reliable energy grid, transport capacity, delivered energy, allocated energy exchange, grid management data). This capability can also be used within a capability context to orchestrate a capability process and thereby control the realization of the capability outcome. We refer to the object of orchestration as 'Case'."/>
 </archimate:BusinessFunction>

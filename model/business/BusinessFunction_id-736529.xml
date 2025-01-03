@@ -14,5 +14,5 @@
       value="Manage information security"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to identify, analyze, prioritize and safeguard information security risks (including cyber attacks). This includes the NIST-CSF functions identify, protect, detect, respond, recover."/>
 </archimate:BusinessFunction>

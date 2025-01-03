@@ -14,5 +14,5 @@
       value="Create and maintain data analytic models"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to create and maintain data analysis models using algorithms. This concerns predictive and prescriptive data analyzes (data science). Descriptive data analyzes fall under 'Make data reusable'."/>
 </archimate:BusinessFunction>

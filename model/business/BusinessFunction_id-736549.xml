@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Unlock data"/>
+      value="Make data reusable"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to make data reusable in accordance with a logical model (FAIR). This also includes making master and/or reference data available (e.g. weather data, land registry data, etc.)."/>
 </archimate:BusinessFunction>

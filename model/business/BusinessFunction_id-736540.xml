@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Account for leave"/>
+      value="Register leave"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to request and register (emergency) leave."/>
 </archimate:BusinessFunction>

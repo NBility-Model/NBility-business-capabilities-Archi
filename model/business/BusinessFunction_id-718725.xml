@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Commission and decommision grid components on premises"/>
+      value="Commission and decommision grid components on location"/>
   <properties
       key="Documentation (en)"
-      value="The ability to commission and decommission grid components on the premises."/>
+      value="The ability to commission and decommission grid components on the location."/>
 </archimate:BusinessFunction>

@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Develop industry collaboration"/>
+      value="Develop sector cooperation"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to develop and maintain cooperation with energy sector parties (e.g. grid operators, energy suppliers) or adjacent sector parties (e.g. contractors, municipalities)."/>
 </archimate:BusinessFunction>

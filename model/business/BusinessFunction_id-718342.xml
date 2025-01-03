@@ -14,5 +14,5 @@
       value="Limit revenue loss"/>
   <properties
       key="Documentation (en)"
-      value="The ability to detect revenue loss, identify causes and remove or repair them."/>
+      value="The ability to detect revenue loss, identify causes and remove or repair them. This applies to both customer and grid operator and results in a fair distribution of costs and revenue."/>
 </archimate:BusinessFunction>

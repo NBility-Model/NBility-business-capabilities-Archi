@@ -1,8 +1,8 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Open data beschikbaar maken"
+    name="Gegevensuitwisselingen monitoren"
     id="id-736329"
-    documentation="Het vermogen om open data beschikbaar te maken ten behoeve van energietransitie of anderszins omgevingsvraagstukken uit te wisselen met klanten en/of andere stakeholders als gemeenten, energiecorporaties, warmtebedrijven, woningcorporaties, provincies, rijksoverheid, consultancybureau's. De wet kent  vier soorten data delen. Deze capability betreft  open data.">
+    documentation="&lt;aanvullen> Dit betreft een GUE verantwoordelijkheid.">
   <properties
       key="Code"
       value="C.6.4.2"/>
@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Make open data available"/>
+      value="Monitor data exchanges"/>
   <properties
       key="Documentation (en)"
-      value="The ability to exchange data with customers and/or stakeholders like municipalities, energy corporations, warmtebedrijfen, housing corporation, provinces, central government and consultancy agencies, for the purpose of the energy transition or other environmental issues."/>
+      value="&lt;complement> This is a GUE responsibility."/>
 </archimate:BusinessFunction>

@@ -14,5 +14,5 @@
       value="Perform environmental analysis"/>
   <properties
       key="Documentation (en)"
-      value="The ability to perform environmental analysis. Think about: soil conditions, asbestos, flora, fauna, legal ownership."/>
+      value="The ability to perform environmental analysis. Think about: soil conditions, asbestos, flora, fauna, legal ownership amongst others."/>
 </archimate:BusinessFunction>

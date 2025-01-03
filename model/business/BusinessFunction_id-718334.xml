@@ -1,6 +1,6 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Overeenkomsten verwerven en beheren"
+    name="Klantovereenkomsten verwerven en beheren"
     id="id-718334"
     documentation="Het vermogen om overeenkomsten met klanten aan te gaan en te beheren.">
   <properties
@@ -11,7 +11,7 @@
       value="2"/>
   <properties
       key="Name (en)"
-      value="Acquire and manage contracts"/>
+      value="Acquire and manage customer agreements"/>
   <properties
       key="Documentation (en)"
       value="The ability to enter into and manage agreements with customers."/>

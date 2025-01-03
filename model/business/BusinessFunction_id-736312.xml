@@ -14,5 +14,5 @@
       value="Define and maintain data"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to define and manage data. This capability includes recording the data model/metadata and investing ownership. Part of this also involves drawing up data and knowledge guidelines and continuously improving the data definitions."/>
 </archimate:BusinessFunction>

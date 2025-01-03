@@ -14,5 +14,5 @@
       value="Validate measurements"/>
   <properties
       key="Documentation (en)"
-      value="The ability to check measurements against validity rules and correct them if necessary."/>
+      value="The ability to check measurements against validition rules and correct them if necessary. This also includes complementing missing time series."/>
 </archimate:BusinessFunction>

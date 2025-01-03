@@ -14,5 +14,5 @@
       value="Prepare and maintain work portfolio"/>
   <properties
       key="Documentation (en)"
-      value="The ability to prepare and maintain a portfolio for work on energy grids, taking into account the capacity. The portofolio concern the service provider, like Sales&amp;OperationsPlanning (S&amp;OP) - Supply."/>
+      value="The ability to prepare and maintain a portfolio for work on energy grids, taking into account the capacity. This concerns the service provider portfolio, like Sales&amp;OperationsPlanning (S&amp;OP) - Supply."/>
 </archimate:BusinessFunction>

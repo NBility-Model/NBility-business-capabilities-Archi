@@ -14,5 +14,5 @@
       value="Create switching plans"/>
   <properties
       key="Documentation (en)"
-      value="The ability to create sequential overviews of actions to be performed (operation) on grid components."/>
+      value="The ability to create sequential overviews of the order of actions to be performed (operation) on grid components."/>
 </archimate:BusinessFunction>

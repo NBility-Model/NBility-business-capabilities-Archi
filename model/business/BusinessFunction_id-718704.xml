@@ -14,5 +14,5 @@
       value="Monitor energy transport"/>
   <properties
       key="Documentation (en)"
-      value="The ability to monitor the energy supply/demand balance of the grid and bottlenecks."/>
+      value="The ability to monitor the energy injection and offtake for the grid and bottlenecks."/>
 </archimate:BusinessFunction>

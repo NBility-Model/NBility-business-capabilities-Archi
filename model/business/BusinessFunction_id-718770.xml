@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Manage and collect outstanding debts"/>
+      value="Manage and collect outstanding claims"/>
   <properties
       key="Documentation (en)"
-      value="The ability to get outstanding debts paid on time, taking into account legal deadlines. This also includes engaging a debt collector or making a payment arrangement."/>
+      value="The ability to get outstanding claims paid on time, taking into account legal deadlines. This also includes engaging a claims collector or making a payment arrangement."/>
 </archimate:BusinessFunction>

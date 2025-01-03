@@ -14,5 +14,5 @@
       value="Analyse disturbances"/>
   <properties
       key="Documentation (en)"
-      value="The ability to (instantly) determine the cause/causes and/or consequences of the malfunction. For the purpose of solving the malfunction, usually by the technician and/or operator."/>
+      value="The ability to (instantly) determine the cause/causes and/or consequences of the malfunction, for the purpose of solving the malfunction, usually by the technician and/or operator."/>
 </archimate:BusinessFunction>

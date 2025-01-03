@@ -14,5 +14,5 @@
       value="Manage the relation with employees"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to maintain a relationship with employees. This includes registering employee data, conducting motivation research and keeping employees involved and providing employment legal advice."/>
 </archimate:BusinessFunction>

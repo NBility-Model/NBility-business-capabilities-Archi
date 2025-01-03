@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Manage application of contracts"/>
+      value="Manage compliance to purchasing contracts"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to guard compliance to purchasing agreements with third parties."/>
 </archimate:BusinessFunction>

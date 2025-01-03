@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Exit empoyees"/>
+      value="Allow employees to resign"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to guide employees from work to work, both on employee and employer initiative. This also includes managing the retirement of employees. This includes keeping in touch with former employees."/>
 </archimate:BusinessFunction>

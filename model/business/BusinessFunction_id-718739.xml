@@ -14,5 +14,5 @@
       value="Manage execution capacity"/>
   <properties
       key="Documentation (en)"
-      value="The ability to manage the execution capacity needed for executing expected and/or agreed activities. Think about: assign/reserve capacity groups, call off assinging flexible capacity, monitoring capacity for needed call off/qualification, directing the development of execution capacity. Key managament for station access."/>
+      value="The ability to manage the execution capacity needed for executing expected and/or agreed activities. Think about: assign/reserve capacity groups, call off assinging flexible capacity, monitoring capacity for needed call off/qualification, directing the development of execution capacity. Keys managament for station access."/>
 </archimate:BusinessFunction>

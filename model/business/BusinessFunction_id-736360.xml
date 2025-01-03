@@ -14,5 +14,5 @@
       value="Determine strategy"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to determine strategy (what we need to do) based on strategic objectives derived from the mission and vision."/>
 </archimate:BusinessFunction>

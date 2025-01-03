@@ -1,6 +1,6 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Beschikbaar maken metingen van energietransport en -netten"
+    name="Metingen van energietransport en -netten ter beschikking stellen"
     id="id-718341"
     documentation="Het vermogen om de metingen te verwerken en te verspreiden.">
   <properties
@@ -11,8 +11,8 @@
       value="2"/>
   <properties
       key="Name (en)"
-      value="Distribute measurements"/>
+      value="Distribute measurements of energy transport and energy grids"/>
   <properties
       key="Documentation (en)"
-      value="The ability to process measurements of energy flows and energy grids and make them availabe to other capabilities."/>
+      value="The ability to process measurements of energy transport and energy grids and make them availabe to other capabilities."/>
 </archimate:BusinessFunction>

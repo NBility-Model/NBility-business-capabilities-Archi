@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Obtain, renovate and dispose real estate"/>
+      value="Obtain, renovate and dispose of real estate"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to acquire, renovate and dispose of commercial buildings."/>
 </archimate:BusinessFunction>

@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Manage change portfolio items"/>
+      value="Manage change initiatives"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to monitor and adjust the progress of projects, programs, epics and features."/>
 </archimate:BusinessFunction>

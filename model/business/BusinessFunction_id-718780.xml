@@ -14,5 +14,5 @@
       value="Determine energy exchange"/>
   <properties
       key="Documentation (en)"
-      value="The ability to calculate consumption and generation estimations like energy consumption according to the standard annual consumption method."/>
+      value="The ability to determine energy exchange, including calculating energy exchange (standard annual consumption), determining unmetered, calculations at serial allocation points, calculation of allocated energy loss, volume of market services purchased (such as balancing, upward adjustment and downward adjustment supply). Including delivery of the energy exchange from the Measurement Responsible party, the delivery from third parties (CPO (charge point operator)), statements from municipalities for public lighting (calculation of energy exchange via tax profile)."/>
 </archimate:BusinessFunction>

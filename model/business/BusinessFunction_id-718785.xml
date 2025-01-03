@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Relatie met marktpartijen onderhouden"
     id="id-718785"
-    documentation="Het vermogen om relaties met marktpartijen te onderhouden inclusief het registreren van marktpartijen zoals energieleveranciers, Programma verantwoordelijken (PV)/Balance responsible party (BRP), Meetverantwoordelijken, BSP’s, CSP’s, aggregators">
+    documentation="Het vermogen om relaties met marktpartijen te onderhouden inclusief het erkennen en registreren van marktpartijen zoals energieleveranciers, Programma verantwoordelijken (PV)/Balance responsible party (BRP), Meetverantwoordelijken, BSP’s, CSP’s, aggregators.">
   <properties
       key="Code"
       value="C.6.1.1"/>
@@ -14,5 +14,5 @@
       value="Maintain relations with market parties"/>
   <properties
       key="Documentation (en)"
-      value="The ability to maintain relations with market parties, including the registration of these market parties, e.g. energy supplier, balance responsible party (BRP), Aggregators, ..."/>
+      value="The ability to maintain relations with market parties, including the admision and registration of these market parties, e.g. energy supplier, balance responsible party (BRP), Measurement responsible parties, Balance Service Parties, Congestion Service Parties, Aggregators."/>
 </archimate:BusinessFunction>

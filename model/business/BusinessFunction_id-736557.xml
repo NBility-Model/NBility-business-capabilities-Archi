@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Interact on digital products"/>
+      value="Interact across digital products"/>
   <properties
       key="Documentation (en)"
-      value="(IT4IT Consume)"/>
+      value="The ability to interact across digital products. This includes interacting with (potential) users (help desk) and offering and ordering services. (IT4IT - Consume) This includes defining identities and access rights."/>
 </archimate:BusinessFunction>

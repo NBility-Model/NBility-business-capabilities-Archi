@@ -11,8 +11,8 @@
       value="2"/>
   <properties
       key="Name (en)"
-      value="Support work"/>
+      value="Facilitate work"/>
   <properties
       key="Documentation (en)"
-      value="The ability to facilitate activities on energy grids, so that they can be executed."/>
+      value="The ability to facilitate work on energy grids, so that this can be executed."/>
 </archimate:BusinessFunction>

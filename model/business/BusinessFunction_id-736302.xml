@@ -14,5 +14,5 @@
       value="Manage business continuity"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to determine business continuity risks and translate them into measures and guidelines and to monitor them."/>
 </archimate:BusinessFunction>

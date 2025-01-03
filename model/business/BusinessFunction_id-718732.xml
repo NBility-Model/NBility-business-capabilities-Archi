@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Perceive energy flows and energy grids and transform into measurements"/>
+      value="Perceive energy transport and energy grids and transform into measurements"/>
   <properties
       key="Documentation (en)"
-      value="The ability to perceive energy flows and energy grids (net throughput, function performance, net component property) and transform into measurements (measurement data)."/>
+      value="The ability to perceive energy transport and energy grids (net throughput, function performance, net component property) and transform into measurements (measurement data)."/>
 </archimate:BusinessFunction>

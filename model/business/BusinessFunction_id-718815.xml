@@ -11,8 +11,8 @@
       value="2"/>
   <properties
       key="Name (en)"
-      value="Formulate strategy"/>
+      value="Formulate and guard strategy"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to determine a strategy that realizes mission and vision through strategic goals."/>
 </archimate:BusinessFunction>

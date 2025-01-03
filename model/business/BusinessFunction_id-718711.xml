@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Determine and value grid risks on quality"/>
+      value="Determine and value grid risks based on quality"/>
   <properties
       key="Documentation (en)"
-      value="The ability to determine and value grid risks and bottlenecks on quality, given the condition of the grid components and the grid."/>
+      value="The ability to determine and value grid risks and bottlenecks based on quality, given the condition of the grid components and the grid."/>
 </archimate:BusinessFunction>

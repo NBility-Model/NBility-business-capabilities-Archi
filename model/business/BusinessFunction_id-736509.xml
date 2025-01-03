@@ -14,5 +14,5 @@
       value="Manage sick leave"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to manage employee absenteeism due to illness. This includes the activities of the Gatekeeper Act, including registering absenteeism, assessing it, promoting recovery and returning to work by employers and employees together with the occupational health and safety service and the company doctor."/>
 </archimate:BusinessFunction>
