@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Report financial information and consultancy"/>
+      value="Report and advise on financial information"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to provide financial information and advise on finance/financial information. This also includes financial + business control (analysis, control, advice) and financial audit. This also includes non-financial formal information."/>
 </archimate:BusinessFunction>

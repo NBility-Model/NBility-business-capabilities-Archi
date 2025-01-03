@@ -14,5 +14,5 @@
       value="Manage financial ledger"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to manage financial accounts (general ledger). This includes the debtors and creditors positions."/>
 </archimate:BusinessFunction>

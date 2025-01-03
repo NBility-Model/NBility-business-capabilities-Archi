@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Manage creditors"/>
+      value="Make payments"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to make payments. This includes payments to creditors."/>
 </archimate:BusinessFunction>

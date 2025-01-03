@@ -14,5 +14,5 @@
       value="Manage financial transactions"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to process events financially."/>
 </archimate:BusinessFunction>

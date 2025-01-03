@@ -11,8 +11,8 @@
       value="2"/>
   <properties
       key="Name (en)"
-      value="Acquire and manage financing"/>
+      value="Acquire and manage financial assets and liquidity"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to acquire and manage financial assets and liquidity. This includes treasury."/>
 </archimate:BusinessFunction>

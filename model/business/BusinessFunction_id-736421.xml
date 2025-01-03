@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Perform financial controls"/>
+      value="Implement financial control measures"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to implement financial management measures (controls). This also includes ensuring the completeness of revenues, among other things by comparing measured performance with booked revenues (revenue assurance)."/>
 </archimate:BusinessFunction>

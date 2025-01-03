@@ -11,8 +11,8 @@
       value="2"/>
   <properties
       key="Name (en)"
-      value="Create and monitor finance strategy and plans and financial justification"/>
+      value="Create and monitor finance strategy and plans"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to establish, monitor and report on financial strategy and plans."/>
 </archimate:BusinessFunction>

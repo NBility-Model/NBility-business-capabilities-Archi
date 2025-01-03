@@ -14,5 +14,5 @@
       value="Manage asset values"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to determine the value of assets (including grid components)."/>
 </archimate:BusinessFunction>

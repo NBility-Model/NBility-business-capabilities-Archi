@@ -14,5 +14,5 @@
       value="Manage financial transactions and ledger"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to process events financially (journal entry) and manage balances (general ledger)."/>
 </archimate:BusinessFunction>

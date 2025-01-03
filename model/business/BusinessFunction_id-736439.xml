@@ -11,8 +11,8 @@
       value="3"/>
   <properties
       key="Name (en)"
-      value="Acquire financing"/>
+      value="Acquire financial assets"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to obtain equity and debt capital, for example by taking out a loan or issuing shares."/>
 </archimate:BusinessFunction>

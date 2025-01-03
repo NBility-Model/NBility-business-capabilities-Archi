@@ -14,5 +14,5 @@
       value="Manage liquid assets"/>
   <properties
       key="Documentation (en)"
-      value="0"/>
+      value="The ability to manage liquid assets. This also includes managing bank accounts."/>
 </archimate:BusinessFunction>
