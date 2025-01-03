@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bewaken energietransport"
+    id="id-075345afd9f54abbbd58bf65d839bf5a">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Code"
+      value="P.F.4.2.2"/>
+</archimate:BusinessProcess>

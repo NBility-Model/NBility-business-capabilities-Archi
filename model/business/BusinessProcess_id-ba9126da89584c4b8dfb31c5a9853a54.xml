@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Offreren energietransport"
+    id="id-ba9126da89584c4b8dfb31c5a9853a54">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Code"
+      value="P.F.1.2.1"/>
+</archimate:BusinessProcess>

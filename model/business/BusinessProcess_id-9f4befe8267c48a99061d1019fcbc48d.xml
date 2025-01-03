@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plannen en analyseren energietransport"
+    id="id-9f4befe8267c48a99061d1019fcbc48d">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Code"
+      value="P.F.4.1.1"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Direct besturen energietransport"
+    id="id-276cfbb870dc45eea10cbb129dc8fe10">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Code"
+      value="P.F.4.2.3"/>
+</archimate:BusinessProcess>

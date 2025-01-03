@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overeenkomen energietransport"
+    id="id-a0ea5d7981124cf181d1fa24a94da727">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Code"
+      value="P.F.1.2.2"/>
+</archimate:BusinessProcess>
