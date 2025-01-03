@@ -8,4 +8,7 @@
   <properties
       key="Code"
       value="P.G.1.2.2"/>
+  <properties
+      key="Name (en)"
+      value="Facilitate the settlement of energy allocation"/>
 </archimate:BusinessProcess>

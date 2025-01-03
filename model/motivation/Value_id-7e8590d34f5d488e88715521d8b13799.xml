@@ -1,4 +1,8 @@
 <archimate:Value
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitvoerbare netaanpassings werkzaamheden"
-    id="id-7e8590d34f5d488e88715521d8b13799"/>
+    id="id-7e8590d34f5d488e88715521d8b13799">
+  <properties
+      key="Name (en)"
+      value="Executable grid adjustment work"/>
+</archimate:Value>

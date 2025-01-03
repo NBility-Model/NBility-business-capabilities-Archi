@@ -8,4 +8,7 @@
   <properties
       key="Code"
       value="P.G.3.1.1"/>
+  <properties
+      key="Name (en)"
+      value="Compensate for grid losses"/>
 </archimate:BusinessProcess>

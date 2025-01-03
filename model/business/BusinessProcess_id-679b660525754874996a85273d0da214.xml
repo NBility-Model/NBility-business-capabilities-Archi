@@ -8,4 +8,7 @@
   <properties
       key="Code"
       value="P.H.1.2.2"/>
+  <properties
+      key="Name (en)"
+      value="Agree dataproduct"/>
 </archimate:BusinessProcess>

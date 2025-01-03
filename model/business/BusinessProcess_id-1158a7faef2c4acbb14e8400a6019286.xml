@@ -8,4 +8,7 @@
   <properties
       key="Code"
       value="P.D2.5.1.2"/>
+  <properties
+      key="Name (en)"
+      value="Prepare disturbance recovery work"/>
 </archimate:BusinessProcess>

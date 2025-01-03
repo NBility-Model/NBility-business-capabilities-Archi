@@ -8,4 +8,7 @@
   <properties
       key="Code"
       value="P.D2.2.1.1"/>
+  <properties
+      key="Name (en)"
+      value="Make alarms available"/>
 </archimate:BusinessProcess>

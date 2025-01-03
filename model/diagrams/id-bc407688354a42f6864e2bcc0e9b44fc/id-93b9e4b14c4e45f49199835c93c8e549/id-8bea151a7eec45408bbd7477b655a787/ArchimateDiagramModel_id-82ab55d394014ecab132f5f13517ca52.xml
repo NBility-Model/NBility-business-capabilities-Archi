@@ -1392,6 +1392,12 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-d4fb4e011beb4894941df4f9d73cd153"
             targetConnections="id-3b852c98c50d41f38cc11c89b76ba799">
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+          <features
+              name="iconVisible"
+              value="2"/>
           <bounds
               x="288"
               y="36"
@@ -1405,6 +1411,12 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-8c26c6a89cee403f9067eeee08a6bd75"
             targetConnections="id-78a95373e25a41ffbb7dde6c4a1df70a">
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+          <features
+              name="iconVisible"
+              value="2"/>
           <bounds
               x="12"
               y="36"
@@ -1502,6 +1514,12 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-f42c4127212d4a7483a4baaef1b51642"
             targetConnections="id-24c2b94972b24a14a74668801c10b55e">
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+          <features
+              name="iconVisible"
+              value="2"/>
           <bounds
               x="12"
               y="36"
@@ -1710,6 +1728,12 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-4bcfb1ea507d4d6db5103c7d45ed2ce5"
             targetConnections="id-2addfb2b5e0b4d05a8e19d87db998054">
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+          <features
+              name="iconVisible"
+              value="2"/>
           <bounds
               x="840"
               y="36"
@@ -1723,6 +1747,12 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-184d7798c02844feb62c6497973a3bee"
             targetConnections="id-55fd7414a48e4b7c859ab0d6d7789e0f">
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+          <features
+              name="iconVisible"
+              value="2"/>
           <bounds
               x="564"
               y="36"
@@ -1736,6 +1766,12 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-ad0dec5b6824499abd9c9d91607f7f44"
             targetConnections="id-bf70865bf78e4f589f1efd9f9900d20e">
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+          <features
+              name="iconVisible"
+              value="2"/>
           <bounds
               x="288"
               y="36"
@@ -1749,6 +1785,12 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-0597c255bc3c4ae6be083dea9aff2021"
             targetConnections="id-8e0f3874f863473f99bf8f3edafb00cc">
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+          <features
+              name="iconVisible"
+              value="2"/>
           <bounds
               x="12"
               y="36"
@@ -1855,6 +1897,12 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-2a215db075694cebb565557e280e8ea9"
             targetConnections="id-ac0478e82684486290a8b3329929c79e">
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+          <features
+              name="iconVisible"
+              value="2"/>
           <bounds
               x="12"
               y="36"
@@ -1924,6 +1972,12 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-61e7ab3c3af24e578f37f6d89ac1f799"
             targetConnections="id-47ee7e8dfd724f9a8d6fddf3e48dbc0b">
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+          <features
+              name="iconVisible"
+              value="2"/>
           <bounds
               x="12"
               y="36"
@@ -2132,6 +2186,12 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-748c9a0c764947158c352c7db3342e6d"
             targetConnections="id-cf91870bb58946d4bba2cc0f762d0dab">
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+          <features
+              name="iconVisible"
+              value="2"/>
           <bounds
               x="840"
               y="36"
@@ -2145,6 +2205,12 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-6f4fe3741d644233a7e633840a22109a"
             targetConnections="id-7b79fc56a1744a929036391c6ccc7824">
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+          <features
+              name="iconVisible"
+              value="2"/>
           <bounds
               x="564"
               y="36"
@@ -2158,6 +2224,12 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-193ae674bf1f4496891742802d37ad50"
             targetConnections="id-052f01a9e78d4d1ba76f5a1e963fb180">
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+          <features
+              name="iconVisible"
+              value="2"/>
           <bounds
               x="288"
               y="36"
@@ -2171,6 +2243,12 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-5015b5d2f2f044ee8a328c47705449df"
             targetConnections="id-63f5e724c6f4463aa0c811856d042919">
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+          <features
+              name="iconVisible"
+              value="2"/>
           <bounds
               x="12"
               y="36"
@@ -2277,6 +2355,12 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-9f69d55abb094db391321b90d40c0f93"
             targetConnections="id-b39421ed548346488611028d03ffedff">
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+          <features
+              name="iconVisible"
+              value="2"/>
           <bounds
               x="12"
               y="36"
@@ -2346,6 +2430,12 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-40a581b6790440af98b5a0ec90ef1883"
             targetConnections="id-6159d164acce410a9e35ba655bc78527">
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+          <features
+              name="iconVisible"
+              value="2"/>
           <bounds
               x="12"
               y="36"
@@ -2461,6 +2551,12 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-c3419d0e9f96429493ffa52e46d0ccaa"
             targetConnections="id-5b7b7a6fafee428b863cbe2e83a15779">
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+          <features
+              name="iconVisible"
+              value="2"/>
           <bounds
               x="12"
               y="36"
@@ -2530,6 +2626,12 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-993345e67cfb4dabbad1a9fa0bc6e6a6"
             targetConnections="id-b1c39cea9b2d476faed35efc36efac96">
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+          <features
+              name="iconVisible"
+              value="2"/>
           <bounds
               x="12"
               y="36"
@@ -2599,6 +2701,12 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-661c71b835d64140adc2ee7d14cdd32d"
             targetConnections="id-96c79d62bb414c8984387ffc79dd2786">
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+          <features
+              name="iconVisible"
+              value="2"/>
           <bounds
               x="12"
               y="36"
@@ -3163,5 +3271,17 @@
     <archimateElement
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-718171.xml#id-718171"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-86b0091655614c6aa7ffea12eed2662f"
+      textAlignment="1"
+      fillColor="#ff8080"
+      content="Openstaand (vraag of dit nodig is):&#xD;&#xA;Invoegen 'Oplossen onderbreking door bedienen energienet' => capability C.2.1.4">
+    <bounds
+        x="1980"
+        y="636"
+        width="253"
+        height="61"/>
   </children>
 </archimate:ArchimateDiagramModel>

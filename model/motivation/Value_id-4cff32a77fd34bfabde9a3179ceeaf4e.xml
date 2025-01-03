@@ -1,4 +1,8 @@
 <archimate:Value
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Overeengekomen energietransport"
-    id="id-4cff32a77fd34bfabde9a3179ceeaf4e"/>
+    id="id-4cff32a77fd34bfabde9a3179ceeaf4e">
+  <properties
+      key="Name (en)"
+      value="Agreed energy transport"/>
+</archimate:Value>

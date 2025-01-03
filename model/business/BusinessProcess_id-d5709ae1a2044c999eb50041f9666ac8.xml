@@ -8,4 +8,7 @@
   <properties
       key="Code"
       value="P.D2.5.1.1"/>
+  <properties
+      key="Name (en)"
+      value="Create preliminary and final design of disturbance recovery"/>
 </archimate:BusinessProcess>

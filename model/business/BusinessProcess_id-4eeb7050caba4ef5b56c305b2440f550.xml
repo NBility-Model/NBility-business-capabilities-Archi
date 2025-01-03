@@ -8,4 +8,7 @@
   <properties
       key="Code"
       value="P.E.1.2.2"/>
+  <properties
+      key="Name (en)"
+      value="Agree use of adjustable power"/>
 </archimate:BusinessProcess>

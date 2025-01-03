@@ -8,4 +8,7 @@
   <properties
       key="Code"
       value="P.E.4.1.1"/>
+  <properties
+      key="Name (en)"
+      value="Making transport capacity measurements available"/>
 </archimate:BusinessProcess>

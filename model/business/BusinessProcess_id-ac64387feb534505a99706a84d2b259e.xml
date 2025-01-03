@@ -8,4 +8,7 @@
   <properties
       key="Code"
       value="P.D1.1.1.1"/>
+  <properties
+      key="Name (en)"
+      value="Inform about maintenance"/>
 </archimate:BusinessProcess>

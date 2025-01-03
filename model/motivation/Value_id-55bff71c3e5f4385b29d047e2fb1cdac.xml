@@ -1,4 +1,8 @@
 <archimate:Value
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Passend technisch ontwerp reconstructie"
-    id="id-55bff71c3e5f4385b29d047e2fb1cdac"/>
+    id="id-55bff71c3e5f4385b29d047e2fb1cdac">
+  <properties
+      key="Name (en)"
+      value="Appropriate technical design reconstruction"/>
+</archimate:Value>

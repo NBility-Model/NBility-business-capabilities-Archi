@@ -8,4 +8,7 @@
   <properties
       key="Code"
       value="P.D2.1.1.2"/>
+  <properties
+      key="Name (en)"
+      value="Inform about disturbance"/>
 </archimate:BusinessProcess>

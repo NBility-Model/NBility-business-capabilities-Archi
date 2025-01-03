@@ -8,4 +8,7 @@
   <properties
       key="Code"
       value="P.D1.2.1.1"/>
+  <properties
+      key="Name (en)"
+      value="Make measurements of grid components available"/>
 </archimate:BusinessProcess>

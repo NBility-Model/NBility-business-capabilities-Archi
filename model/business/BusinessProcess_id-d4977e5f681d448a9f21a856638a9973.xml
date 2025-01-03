@@ -8,4 +8,7 @@
   <properties
       key="Code"
       value="P.D2.3.1.4"/>
+  <properties
+      key="Name (en)"
+      value="Solve outage"/>
 </archimate:BusinessProcess>

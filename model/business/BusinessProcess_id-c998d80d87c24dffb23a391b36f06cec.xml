@@ -8,4 +8,7 @@
   <properties
       key="Code"
       value="P.D1.3.2.1"/>
+  <properties
+      key="Name (en)"
+      value="Include grid components for grid replacement in life cycle management"/>
 </archimate:BusinessProcess>

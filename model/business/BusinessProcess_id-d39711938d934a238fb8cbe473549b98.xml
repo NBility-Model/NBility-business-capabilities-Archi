@@ -8,4 +8,7 @@
   <properties
       key="Code"
       value="P.D2.3.2.1"/>
+  <properties
+      key="Name (en)"
+      value="Include disturbance recovery in energy grid control"/>
 </archimate:BusinessProcess>

@@ -1,4 +1,8 @@
 <archimate:Value
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Technisch uitgevoerde onderhouds werkzaamheden"
-    id="id-50260294685c46d188ee6037f7194bef"/>
+    id="id-50260294685c46d188ee6037f7194bef">
+  <properties
+      key="Name (en)"
+      value="Technically executed maintenance work"/>
+</archimate:Value>

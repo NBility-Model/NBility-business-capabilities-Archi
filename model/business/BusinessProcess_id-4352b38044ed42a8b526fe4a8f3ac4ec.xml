@@ -8,4 +8,7 @@
   <properties
       key="Code"
       value="P.E.2.1.1"/>
+  <properties
+      key="Name (en)"
+      value="Determine the use of adjustable power as a mitigating measure"/>
 </archimate:BusinessProcess>

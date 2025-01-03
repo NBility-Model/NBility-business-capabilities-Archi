@@ -1298,6 +1298,9 @@
           <features
               name="iconVisible"
               value="2"/>
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
           <bounds
               x="24"
               y="34"
@@ -1314,6 +1317,9 @@
           <features
               name="iconVisible"
               value="2"/>
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
           <bounds
               x="324"
               y="34"
@@ -1423,6 +1429,9 @@
           <features
               name="iconVisible"
               value="2"/>
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
           <bounds
               x="12"
               y="36"
@@ -1439,6 +1448,9 @@
           <features
               name="iconVisible"
               value="2"/>
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
           <bounds
               x="288"
               y="36"
@@ -1614,6 +1626,9 @@
           <features
               name="iconVisible"
               value="2"/>
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
           <bounds
               x="12"
               y="36"
@@ -1825,6 +1840,9 @@
           <features
               name="iconVisible"
               value="2"/>
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
           <bounds
               x="12"
               y="35"
@@ -1841,6 +1859,9 @@
           <features
               name="iconVisible"
               value="2"/>
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
           <bounds
               x="288"
               y="35"
@@ -1857,6 +1878,9 @@
           <features
               name="iconVisible"
               value="2"/>
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
           <bounds
               x="564"
               y="35"
@@ -1873,6 +1897,9 @@
           <features
               name="iconVisible"
               value="2"/>
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
           <bounds
               x="840"
               y="35"
@@ -1965,6 +1992,25 @@
           <archimateElement
               xsi:type="archimate:BusinessProcess"
               href="BusinessProcess_id-1bf0fdf33658458dbf2132f8481d11ec.xml#id-1bf0fdf33658458dbf2132f8481d11ec"/>
+        </children>
+        <children
+            xsi:type="archimate:DiagramModelArchimateObject"
+            id="id-85f40114b59b48e0b39f7741a6d5cc55"
+            targetConnections="id-f372d99e87ba4bc499a39f759f13bb48">
+          <features
+              name="iconVisible"
+              value="2"/>
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+          <bounds
+              x="12"
+              y="36"
+              width="265"
+              height="37"/>
+          <archimateElement
+              xsi:type="archimate:Value"
+              href="Value_id-4be2b4c549f740ccbd071d04ca99053c.xml#id-4be2b4c549f740ccbd071d04ca99053c"/>
         </children>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
@@ -2103,6 +2149,9 @@
           <features
               name="iconVisible"
               value="2"/>
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
           <bounds
               x="12"
               y="36"
@@ -2119,6 +2168,9 @@
           <features
               name="iconVisible"
               value="2"/>
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
           <bounds
               x="288"
               y="36"
@@ -2191,6 +2243,9 @@
           <features
               name="iconVisible"
               value="2"/>
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
           <bounds
               x="12"
               y="36"
@@ -2291,6 +2346,9 @@
           <features
               name="iconVisible"
               value="2"/>
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
           <bounds
               x="12"
               y="36"
@@ -2710,21 +2768,5 @@
     <archimateElement
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-718167.xml#id-718167"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-85f40114b59b48e0b39f7741a6d5cc55"
-      targetConnections="id-f372d99e87ba4bc499a39f759f13bb48">
-    <features
-        name="iconVisible"
-        value="2"/>
-    <bounds
-        x="3072"
-        y="144"
-        width="265"
-        height="37"/>
-    <archimateElement
-        xsi:type="archimate:Value"
-        href="Value_id-4be2b4c549f740ccbd071d04ca99053c.xml#id-4be2b4c549f740ccbd071d04ca99053c"/>
   </children>
 </archimate:ArchimateDiagramModel>

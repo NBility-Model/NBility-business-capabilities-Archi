@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitvoering van werkzaamheden voorbereiden"
     id="id-718695"
-    documentation="Het vermogen om werkzaamheden voor te bereiden. Denk ondermeer aan reserveren mensen, materieel en materiaal, uitvoeringsvergunningen, bodemonderzoek, melding van voorgenomen graafwerkzaamheden bij het kadaster (Wibon), werkplan/uitvoeringsplan (laten) opstellen en goedkeuren.">
+    documentation="Het vermogen om werkzaamheden voor te bereiden. Denk onder meer aan reserveren mensen, materieel en materiaal, aanvragen uitvoeringsvergunningen, opvragen en/of aanvragen bodemonderzoek, melding van voorgenomen graafwerkzaamheden bij het kadaster (Wibon), werkplan/uitvoeringsplan (laten) opstellen en goedkeuren.">
   <properties
       key="Code"
       value="C.5.3.2"/>
@@ -14,5 +14,5 @@
       value="Prepare execution of work"/>
   <properties
       key="Documentation (en)"
-      value="The ability to prepare execution of work, like resource planning, materials and equipment,  permits and soil investigation, digging notification at Kadaster (Wibon), setup and approve work plan."/>
+      value="The ability to prepare execution of work, like resource planning, materials and equipment, apply for permits, request soil investigation, digging notification at Kadaster (Wibon), setup and approve work plan."/>
 </archimate:BusinessFunction>

@@ -8,4 +8,7 @@
   <properties
       key="Code"
       value="P.H.1.3.2"/>
+  <properties
+      key="Name (en)"
+      value="Collect dataproduct invoice"/>
 </archimate:BusinessProcess>

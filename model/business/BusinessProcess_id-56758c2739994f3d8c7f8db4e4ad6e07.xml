@@ -8,4 +8,7 @@
   <properties
       key="Code"
       value="P.E.1.1.1"/>
+  <properties
+      key="Name (en)"
+      value="Make adjustable power options visible"/>
 </archimate:BusinessProcess>

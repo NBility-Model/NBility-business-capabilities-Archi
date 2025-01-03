@@ -1,4 +1,8 @@
 <archimate:Value
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitvoerbare storingsherstel werkzaamheden"
-    id="id-cbf88c0822c44f8baf0ab32735362070"/>
+    id="id-cbf88c0822c44f8baf0ab32735362070">
+  <properties
+      key="Name (en)"
+      value="Executable disturbance recovery work"/>
+</archimate:Value>

@@ -2740,4 +2740,40 @@
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-718171.xml#id-718171"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-f7dfc287bf7c46a98fc98b80b248a6e1"
+      textAlignment="1"
+      fillColor="#ff8080"
+      content="Openstaand punt (vraag of we dit hier willen): activeren van CSP op aansluiting (inclusief prekwalificatie van aansluiting)">
+    <bounds
+        x="1612"
+        y="600"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ada0c5a1829948c189493eae217eb4d5"
+      textAlignment="1"
+      fillColor="#ff8080"
+      content="Openstaand punt (vraag of we dit hier willen): Waardestroomstap met C.2.1.4 nog toevoegen?">
+    <bounds
+        x="2880"
+        y="600"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ab172ddc5ed94ed39c1d9c7d214f72fa"
+      textAlignment="1"
+      fillColor="#ff8080"
+      content="Openstaand punt (vraag of we dit hier willen): Afroepen regelbaar vermogen nog toevoegen?">
+    <bounds
+        x="3096"
+        y="600"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>

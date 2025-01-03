@@ -8,4 +8,7 @@
   <properties
       key="Code"
       value="P.G.1.1.1"/>
+  <properties
+      key="Name (en)"
+      value="Handle market change"/>
 </archimate:BusinessProcess>
