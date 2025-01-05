@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="N2 waardestroom P.C"
+    name="N2 waardestroom(-stappen) P.C"
     id="id-4b1ff4d55ce04a7c9dbaa16d39f8a013">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
