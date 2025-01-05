@@ -8,4 +8,7 @@
   <properties
       key="Code"
       value="P.F.4.2.3"/>
+  <properties
+      key="Name (en)"
+      value="Directly control energy transport"/>
 </archimate:BusinessProcess>

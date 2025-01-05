@@ -8,4 +8,7 @@
   <properties
       key="Code"
       value="P.F.1.3.2"/>
+  <properties
+      key="Name (en)"
+      value="Collect energy transport invoice"/>
 </archimate:BusinessProcess>

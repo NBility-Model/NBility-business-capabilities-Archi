@@ -3228,4 +3228,16 @@
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-718170.xml#id-718170"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-63333344db7544498650eaad49154b56"
+      textAlignment="1"
+      fillColor="#ff8080"
+      content="Openstaand punt (vraag of we dit hier willen): Waardestroomstap tbv informeren klant over onderbreking (lijkt me eerder uitzondering)?">
+    <bounds
+        x="4176"
+        y="612"
+        width="185"
+        height="97"/>
+  </children>
 </archimate:ArchimateDiagramModel>

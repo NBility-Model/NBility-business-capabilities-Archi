@@ -8,4 +8,7 @@
   <properties
       key="Code"
       value="P.F.4.2.1"/>
+  <properties
+      key="Name (en)"
+      value="Monitor the operation of grid components"/>
 </archimate:BusinessProcess>

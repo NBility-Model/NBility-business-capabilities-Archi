@@ -2776,4 +2776,16 @@
         width="185"
         height="80"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-5eb099a872b7416d8c8a3ff404872f64"
+      textAlignment="1"
+      fillColor="#ff8080"
+      content="Openstaand punt: Hier nog meetdata toevoegen ivm verificatie van levering?">
+    <bounds
+        x="3372"
+        y="600"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>

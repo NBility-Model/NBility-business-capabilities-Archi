@@ -1,0 +1,9 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset owner"
+    id="id-9f688456b97a4ee690af0426ad01447f"
+    documentation="Asset owner namens alle (toekomstige) gebruikers.">
+  <properties
+      key="Name (en)"
+      value="Asset owner"/>
+</archimate:Stakeholder>

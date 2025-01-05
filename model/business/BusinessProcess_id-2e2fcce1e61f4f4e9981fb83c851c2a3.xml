@@ -8,4 +8,7 @@
   <properties
       key="Code"
       value="P.F.1.1.3"/>
+  <properties
+      key="Name (en)"
+      value="Answer question about energy transport"/>
 </archimate:BusinessProcess>
