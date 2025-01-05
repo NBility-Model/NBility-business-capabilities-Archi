@@ -2351,15 +2351,6 @@
           value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-aafe1781b1a4471c86810ebb3636b459"
-          source="id-724959"
-          target="id-724965">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_id-878934.xml#id-878934"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-c82eb3f6f89c4b5e86a5ef03a48005f1"
           source="id-724959"
           target="id-724961">
@@ -2389,7 +2380,7 @@
           x="12"
           y="60"
           width="289"
-          height="337"/>
+          height="265"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-724961"
@@ -2438,29 +2429,6 @@
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-724965"
-          targetConnections="id-aafe1781b1a4471c86810ebb3636b459"
-          fontColor="#000000"
-          lineColor="#000000"
-          fillColor="#ffcc99"
-          textPosition="1">
-        <features
-            name="iconVisible"
-            value="2"/>
-        <features
-            name="labelExpression"
-            value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
-        <bounds
-            x="12"
-            y="192"
-            width="265"
-            height="61"/>
-        <archimateElement
-            xsi:type="archimate:BusinessFunction"
-            href="BusinessFunction_id-718778.xml#id-718778"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
           id="id-724967"
           targetConnections="id-b15a7b755bf947a6a652827db8adc33b"
           fontColor="#000000"
@@ -2475,7 +2443,7 @@
             value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
         <bounds
             x="12"
-            y="264"
+            y="192"
             width="265"
             height="61"/>
         <archimateElement
@@ -2528,7 +2496,7 @@
       </sourceConnections>
       <bounds
           x="12"
-          y="408"
+          y="336"
           width="289"
           height="253"/>
       <children
@@ -2673,7 +2641,7 @@
       </sourceConnections>
       <bounds
           x="12"
-          y="672"
+          y="600"
           width="289"
           height="469"/>
       <children
@@ -2860,7 +2828,7 @@
       </sourceConnections>
       <bounds
           x="12"
-          y="1152"
+          y="1080"
           width="289"
           height="253"/>
       <children
