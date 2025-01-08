@@ -10,5 +10,5 @@
       value="P.D2.1.2.1"/>
   <properties
       key="Name (en)"
-      value="Determine outage compensation"/>
+      value="Determine disturbance compensation"/>
 </archimate:BusinessProcess>

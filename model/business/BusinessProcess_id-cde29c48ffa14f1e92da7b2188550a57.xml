@@ -1,6 +1,6 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Opnemen storingherstel in besturing energietransport"
+    name="Opnemen vervanging door storingherstel in besturing energietransport"
     id="id-cde29c48ffa14f1e92da7b2188550a57">
   <properties
       key="Level"
@@ -10,5 +10,5 @@
       value="P.D2.3.2"/>
   <properties
       key="Name (en)"
-      value="Include fault recovery in energy transport control"/>
+      value="Include replacement through disturbance recovery in energy transport control"/>
 </archimate:BusinessProcess>

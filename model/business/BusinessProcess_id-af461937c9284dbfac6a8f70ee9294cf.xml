@@ -1,6 +1,6 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Meten storing netcomponenten"
+    name="Meten storing energietransport en -netten"
     id="id-af461937c9284dbfac6a8f70ee9294cf">
   <properties
       key="Level"
@@ -10,5 +10,5 @@
       value="P.D2.2.1"/>
   <properties
       key="Name (en)"
-      value="Measure faulty network components"/>
+      value="Measure disturbances energy transport and grids"/>
 </archimate:BusinessProcess>

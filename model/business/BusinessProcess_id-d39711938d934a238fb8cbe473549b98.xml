@@ -10,5 +10,5 @@
       value="P.D2.3.2.1"/>
   <properties
       key="Name (en)"
-      value="Include disturbance recovery in energy grid control"/>
+      value="Include replacement through disturbance recovery in energy grid control"/>
 </archimate:BusinessProcess>

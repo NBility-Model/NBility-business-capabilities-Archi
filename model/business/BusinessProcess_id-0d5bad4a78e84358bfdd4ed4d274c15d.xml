@@ -10,5 +10,5 @@
       value="P.D2.5.1"/>
   <properties
       key="Name (en)"
-      value="Perform fault recovery work"/>
+      value="Perform disturbance recovery work"/>
 </archimate:BusinessProcess>
