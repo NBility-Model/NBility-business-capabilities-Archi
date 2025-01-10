@@ -9,4 +9,7 @@
   <properties
       key="Name (en)"
       value="Purchasing plan"/>
+  <properties
+      key="Search term"
+      value="aanbestedingsstrategie"/>
 </archimate:BusinessObject>

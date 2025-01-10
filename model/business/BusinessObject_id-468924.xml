@@ -15,4 +15,7 @@
   <properties
       key="Search term"
       value="formatieplaats"/>
+  <properties
+      key="Search term"
+      value="positie"/>
 </archimate:BusinessObject>

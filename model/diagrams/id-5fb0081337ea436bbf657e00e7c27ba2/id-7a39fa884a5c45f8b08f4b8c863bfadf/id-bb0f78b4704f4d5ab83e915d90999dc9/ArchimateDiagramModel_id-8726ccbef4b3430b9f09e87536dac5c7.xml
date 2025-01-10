@@ -823,15 +823,6 @@
             value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-4ded0cb7a774402887d11d538bbc8215"
-            source="id-09690856325e4c3381eae5c05f74af5d"
-            target="id-69ca7e936e344fc9886c455bf569bec0">
-          <archimateRelationship
-              xsi:type="archimate:AccessRelationship"
-              href="AccessRelationship_id-5ab47226658b4fd598f70d17127745ce.xml#id-5ab47226658b4fd598f70d17127745ce"/>
-        </sourceConnections>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-53ddd8e0bb6647a591931644fb944a8f"
             source="id-09690856325e4c3381eae5c05f74af5d"
             target="id-7cf683adbbfe4323916b85869a48d592">
@@ -866,29 +857,6 @@
           <archimateElement
               xsi:type="archimate:BusinessObject"
               href="BusinessObject_id-722927.xml#id-722927"/>
-        </children>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="id-69ca7e936e344fc9886c455bf569bec0"
-            targetConnections="id-4ded0cb7a774402887d11d538bbc8215"
-            fontColor="#000000"
-            lineColor="#000000"
-            fillColor="#bfeeff"
-            textPosition="1">
-          <features
-              name="iconVisible"
-              value="2"/>
-          <features
-              name="labelExpression"
-              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
-          <bounds
-              x="12"
-              y="84"
-              width="240"
-              height="24"/>
-          <archimateElement
-              xsi:type="archimate:BusinessObject"
-              href="BusinessObject_id-729576.xml#id-729576"/>
         </children>
         <archimateElement
             xsi:type="archimate:BusinessFunction"
@@ -1508,15 +1476,6 @@
             value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-dfb149016a2e4fdb9f7890ed12e70b36"
-            source="id-5116f96d78d441d6849a6c9881d2c585"
-            target="id-0e8523837e614b26a5b80074afe7b000">
-          <archimateRelationship
-              xsi:type="archimate:AccessRelationship"
-              href="AccessRelationship_id-75b4352ff14c4471b82ddddc7ab26cd6.xml#id-75b4352ff14c4471b82ddddc7ab26cd6"/>
-        </sourceConnections>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-f97eee7da47945e59b64cea2dc24ec8b"
             source="id-5116f96d78d441d6849a6c9881d2c585"
             target="id-e211f8e592a44e96bd89b7637658cd44">
@@ -1529,29 +1488,6 @@
             y="180"
             width="264"
             height="121"/>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="id-0e8523837e614b26a5b80074afe7b000"
-            targetConnections="id-dfb149016a2e4fdb9f7890ed12e70b36"
-            fontColor="#000000"
-            lineColor="#000000"
-            fillColor="#e5f1d7"
-            textPosition="1">
-          <features
-              name="iconVisible"
-              value="2"/>
-          <features
-              name="labelExpression"
-              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
-          <bounds
-              x="12"
-              y="48"
-              width="240"
-              height="24"/>
-          <archimateElement
-              xsi:type="archimate:BusinessObject"
-              href="BusinessObject_id-472880.xml#id-472880"/>
-        </children>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-e211f8e592a44e96bd89b7637658cd44"
@@ -1986,15 +1922,6 @@
               xsi:type="archimate:AccessRelationship"
               href="AccessRelationship_id-23220ef7e09748bd8da1e3a5019fba22.xml#id-23220ef7e09748bd8da1e3a5019fba22"/>
         </sourceConnections>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-d2b2e151e4264d1587c1ff858732f382"
-            source="id-a7b4f6e7a1be435b97e2237da8cbdf5b"
-            target="id-6ef5182355ee4bcaa79cbec46af535ba">
-          <archimateRelationship
-              xsi:type="archimate:AccessRelationship"
-              href="AccessRelationship_id-7cdbe2ba931844c396c59668a4d8450d.xml#id-7cdbe2ba931844c396c59668a4d8450d"/>
-        </sourceConnections>
         <bounds
             x="12"
             y="48"
@@ -2022,29 +1949,6 @@
           <archimateElement
               xsi:type="archimate:BusinessObject"
               href="BusinessObject_id-468886.xml#id-468886"/>
-        </children>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="id-6ef5182355ee4bcaa79cbec46af535ba"
-            targetConnections="id-d2b2e151e4264d1587c1ff858732f382"
-            fontColor="#000000"
-            lineColor="#000000"
-            fillColor="#ffcc99"
-            textPosition="1">
-          <features
-              name="iconVisible"
-              value="2"/>
-          <features
-              name="labelExpression"
-              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
-          <bounds
-              x="12"
-              y="84"
-              width="240"
-              height="25"/>
-          <archimateElement
-              xsi:type="archimate:BusinessObject"
-              href="BusinessObject_id-469494.xml#id-469494"/>
         </children>
         <archimateElement
             xsi:type="archimate:BusinessFunction"

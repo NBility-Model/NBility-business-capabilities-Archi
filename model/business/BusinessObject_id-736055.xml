@@ -15,4 +15,10 @@
   <properties
       key="Search term"
       value="aanbestedingsbeleid"/>
+  <properties
+      key="Search term"
+      value="aanbestedingsstrategie"/>
+  <properties
+      key="Search term"
+      value="categoriestrategie"/>
 </archimate:BusinessObject>

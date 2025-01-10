@@ -1,15 +1,15 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="toegewezen aan"
+    name="aan"
     id="id-735514"
     directed="true">
   <properties
       key="Name (en)"
-      value="assigned to"/>
+      value="to"/>
   <source
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-723109.xml#id-723109"/>
+      href="BusinessObject_id-bfed979dfc074c77bd5b801b3f7e4045.xml#id-bfed979dfc074c77bd5b801b3f7e4045"/>
   <target
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-478409.xml#id-478409"/>

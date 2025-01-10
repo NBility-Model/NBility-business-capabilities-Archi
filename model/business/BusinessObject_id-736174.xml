@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Digitaalproductinstantie"
     id="id-736174"
-    documentation="De verzameling bedrijfsobjecten nodig om digitale producten te leveren.">
+    documentation="Een levering van een digitaal product.">
   <properties
       key="Level"
       value="2"/>

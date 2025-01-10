@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Netaanpassingsopdracht"
     id="id-476066"
-    documentation="Een autorisatie voor de uitbreiding of vervanging van een energienet.">
+    documentation="Een autorisatie voor de functionele wijziging van een energienet.">
   <properties
       key="Level"
       value="3"/>
@@ -14,8 +14,17 @@
       value="vervangingsinvestering of uitbreidingsinvestering (Regeling investeringsplan en kwaliteit elektriciteit en gas)"/>
   <properties
       key="Search term"
-      value="uitbreiding"/>
+      value="netuitbreiding"/>
   <properties
       key="Search term"
-      value="vervanging"/>
+      value="netvervanging"/>
+  <properties
+      key="Search term"
+      value="netverplaatsing"/>
+  <properties
+      key="Search term"
+      value="reconstructie"/>
+  <properties
+      key="Search term"
+      value="netverwijdering"/>
 </archimate:BusinessObject>

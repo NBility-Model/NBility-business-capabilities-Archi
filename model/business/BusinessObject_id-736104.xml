@@ -21,4 +21,7 @@
   <properties
       key="Search term"
       value="business rule"/>
+  <properties
+      key="Search term"
+      value="bewaartermijn"/>
 </archimate:BusinessObject>

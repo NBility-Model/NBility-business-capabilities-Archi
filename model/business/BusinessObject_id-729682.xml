@@ -1,18 +1,21 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Marktprocesverzoek"
+    name="Marktactiviteit"
     id="id-729682"
-    documentation="Een vraag om een vooraf vastgesteld marktproces (bijvoorbeeld een inhuizing) uit te voeren.">
+    documentation="Het verrichten van een dienst door een marktpartij op een aansluiting.">
   <properties
       key="Level"
       value="3"/>
   <properties
       key="Name (en)"
-      value="Market process request"/>
+      value="Market activity"/>
   <properties
       key="Source"
       value="verzoek, marktproces (Informatiecode elektriciteit en gas)"/>
   <properties
       key="Search term"
       value="marktbericht"/>
+  <properties
+      key="Search term"
+      value="marktverzoek"/>
 </archimate:BusinessObject>

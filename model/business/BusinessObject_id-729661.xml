@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Meting"
     id="id-729661"
-    documentation="De verzameling bedrijfsobjecten nodig om metingen van energietransport en -netten beschikbaar te krijgen.">
+    documentation="Een aan het energienet gerelateerde waardebepaling met behulp van een meetinstrument.">
   <properties
       key="Level"
       value="2"/>

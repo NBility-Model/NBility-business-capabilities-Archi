@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inkoopovereenkomst"
     id="id-736059"
-    documentation="De verzameling bedrijfsobjecten nodig om overeenkomsten met inkoopleveranciers af te sluiten en te bewaken.">
+    documentation="Een afspraak over het leveren van goederen of diensten aan de netbeheerder.">
   <properties
       key="Level"
       value="2"/>

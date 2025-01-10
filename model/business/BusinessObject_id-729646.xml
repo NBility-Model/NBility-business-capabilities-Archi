@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Klantovereenkomst"
     id="id-729646"
-    documentation="De verzameling bedrijfsobjecten nodig om overeenkomsten te verwerven en beheren.">
+    documentation="Een afspraak tussen een klant en de netbeheerder over wat ze met elkaar of voor elkaar zullen gaan doen of laten.">
   <properties
       key="Level"
       value="2"/>

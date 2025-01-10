@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Richting"
     id="id-736114"
-    documentation="De verzameling bedrijfsobjecten nodig om de bedrijfsrichting op te stellen en te besturen.">
+    documentation="Een strategische koers van een organisatie.">
   <properties
       key="Level"
       value="1"/>

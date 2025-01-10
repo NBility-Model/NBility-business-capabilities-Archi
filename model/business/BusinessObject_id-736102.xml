@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data"
     id="id-736102"
-    documentation="De verzameling bedrijfsobjecten nodig om data te besturen.">
+    documentation="Een vastgelegde uitdrukking van feiten.">
   <properties
       key="Level"
       value="2"/>

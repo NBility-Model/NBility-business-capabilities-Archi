@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Werkopdracht"
     id="id-729629"
-    documentation="De verzameling bedrijfsobjecten nodig om regie te voeren over werkzaamheden.">
+    documentation="Een autorisatie voor het uitvoeren van werk aan een energienet.">
   <properties
       key="Level"
       value="2"/>

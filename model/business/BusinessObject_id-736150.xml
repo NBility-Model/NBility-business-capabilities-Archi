@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Transformatie"
     id="id-736150"
-    documentation="De verzameling bedrijfsobjecten nodig om de transformatie van de bedrijfsinrichting te besturen.">
+    documentation="Een doelbewuste verandering in de bedrijfsinrichting.">
   <properties
       key="Level"
       value="2"/>

@@ -2,11 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Energiemarkt"
     id="id-723105"
-    documentation="Een (virtuele) handelsplaats voor energie. Hieronder vallen onder meer over-the-counter-markten en energiebeurzen, markten voor de verhandeling van energie, capaciteit, balancerings- en ondersteunende diensten in alle tijdsbestekken, waaronder termijn-, day-ahead- en intraday-markten.">
+    documentation="Een (virtuele) handelsplaats voor energie.">
   <properties
       key="Level"
       value="3"/>
   <properties
       key="Name (en)"
       value="Energy market"/>
+  <properties
+      key="Note"
+      value="Hieronder vallen onder meer over-the-counter-markten en energiebeurzen, markten voor de verhandeling van energie, capaciteit, balancerings- en ondersteunende diensten in alle tijdsbestekken, waaronder termijn-, day-ahead- en intraday-markten."/>
+  <properties
+      key="Search term"
+      value="energieprogramma (E-programma)"/>
+  <properties
+      key="Search term"
+      value="balanceringsportfolio"/>
 </archimate:BusinessObject>

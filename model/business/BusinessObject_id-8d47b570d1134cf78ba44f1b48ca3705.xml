@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vitaliteitsprogramma"
+    id="id-8d47b570d1134cf78ba44f1b48ca3705"
+    documentation="Een gestructureerd en georganiseerd initiatief gericht op het bevorderen van de algehele gezondheid, welzijn en veerkracht van medewerkers.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Vitality programme"/>
+  <properties
+      key="Search term"
+      value="vitaliteitsplan"/>
+  <properties
+      key="Search term"
+      value="gezondheid"/>
+  <properties
+      key="Search term"
+      value="welzijn"/>
+  <properties
+      key="Search term"
+      value="duurzame inzetbaarheid"/>
+</archimate:BusinessObject>

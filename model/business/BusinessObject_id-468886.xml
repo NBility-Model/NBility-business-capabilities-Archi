@@ -21,4 +21,7 @@
   <properties
       key="Search term"
       value="allocatiepunt"/>
+  <properties
+      key="Search term"
+      value="aansluitlocatie"/>
 </archimate:BusinessObject>

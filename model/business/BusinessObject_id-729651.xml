@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inkomstenverlies"
     id="id-729651"
-    documentation="De verzameling bedrijfsobjecten nodig om inkomstenverlies te beperken.">
+    documentation="Een verlies van potentiële inkomsten.">
   <properties
       key="Level"
       value="2"/>

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Digitaalproductwijziging"
     id="id-736170"
-    documentation="De verzameling bedrijfsobjecten nodig om digitale producten te realiseren.">
+    documentation="Een verandering van een digitaal product.">
   <properties
       key="Level"
       value="2"/>

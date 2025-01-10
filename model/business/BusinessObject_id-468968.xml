@@ -15,4 +15,7 @@
   <properties
       key="Search term"
       value="toestemming"/>
+  <properties
+      key="Search term"
+      value="grondpositie"/>
 </archimate:BusinessObject>

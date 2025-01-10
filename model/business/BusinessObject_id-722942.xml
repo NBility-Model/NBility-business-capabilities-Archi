@@ -9,4 +9,7 @@
   <properties
       key="Name (en)"
       value="Customer experience"/>
+  <properties
+      key="Search term"
+      value="klanttevredenheid"/>
 </archimate:BusinessObject>

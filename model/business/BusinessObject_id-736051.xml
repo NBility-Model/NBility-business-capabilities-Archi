@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inkoopproduct"
     id="id-736051"
-    documentation="De verzameling bedrijfsobjecten nodig om goederen en diensten te verkrijgen.">
+    documentation="Een tegen betaling verkregen product of dienst.">
   <properties
       key="Level"
       value="1"/>

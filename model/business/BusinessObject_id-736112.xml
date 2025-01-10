@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Archiefstuk"
     id="id-736112"
-    documentation="Een te bewaren document dat is gemaakt of ontvangen door de netbeheerder bij de uitvoering van zijn activiteiten.">
+    documentation="Een document dat bestemd is om te bewaren door de organisatie die het heeft gemaakt of ontvangen bij de uitvoering van haar activiteiten.">
   <properties
       key="Level"
       value="3"/>

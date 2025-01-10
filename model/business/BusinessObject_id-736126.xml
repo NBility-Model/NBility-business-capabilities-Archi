@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Risico"
     id="id-736126"
-    documentation="De verzameling bedrijfsobjecten nodig om de bedrijfscontinuïteit en compliance te borgen.">
+    documentation="Een effect van onzekerheid ten aanzien van doelstellingen of resultaten.">
   <properties
       key="Level"
       value="2"/>

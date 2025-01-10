@@ -48,4 +48,7 @@
   <properties
       key="Search term"
       value="kostendrager"/>
+  <properties
+      key="Search term"
+      value="belasting"/>
 </archimate:BusinessObject>

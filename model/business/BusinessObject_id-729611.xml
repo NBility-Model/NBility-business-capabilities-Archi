@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Werkmiddel"
     id="id-729611"
-    documentation="De verzameling bedrijfsobjecten nodig om werkzaamheden te faciliteren.">
+    documentation="Een niet-menselijk object dat wordt gebruikt bij het uitvoeren van werk aan een energienet.">
   <properties
       key="Level"
       value="2"/>

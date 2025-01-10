@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Netverliescompensatie"
+    id="id-27b9ed3707564206939d0aba30e7fb44"
+    documentation="Het verkrijgen van energie om het technische dan wel administratieve verschil tussen de invoeding en afname te compenseren.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Grid loss procurement"/>
+</archimate:BusinessObject>

@@ -39,4 +39,10 @@
   <properties
       key="Search term"
       value="systeemelement"/>
+  <properties
+      key="Search term"
+      value="SDE++"/>
+  <properties
+      key="Search term"
+      value="subsidieregeling"/>
 </archimate:BusinessObject>

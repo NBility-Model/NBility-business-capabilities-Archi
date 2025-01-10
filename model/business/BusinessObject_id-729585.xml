@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Netkwaliteit"
     id="id-729585"
-    documentation="De verzameling bedrijfsobjecten nodig om energienetten in stand te houden.">
+    documentation="De mate waarin het energienet voldoet aan bepaalde normen.">
   <properties
       key="Level"
       value="2"/>

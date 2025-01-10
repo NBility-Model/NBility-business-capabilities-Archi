@@ -12,4 +12,7 @@
   <properties
       key="Source"
       value="verzuim (Wikipedia)"/>
+  <properties
+      key="Search term"
+      value="poortwachter"/>
 </archimate:BusinessObject>

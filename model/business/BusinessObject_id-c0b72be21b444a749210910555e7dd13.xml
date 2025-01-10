@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Storingsgrondoorzaak"
+    id="id-c0b72be21b444a749210910555e7dd13"
+    documentation="Een fundamentele reden voor het optreden van een of meer storingen.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Disturbance root cause"/>
+</archimate:BusinessObject>

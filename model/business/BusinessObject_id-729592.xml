@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Energienet"
     id="id-729592"
-    documentation="De verzameling bedrijfsobjecten nodig om energienetten uit te breiden, te vervangen en te vernieuwen.">
+    documentation="Een stelsel van leidingen en daarmee verbonden hulpmiddelen ten behoeve van transport van energie.">
   <properties
       key="Level"
       value="2"/>

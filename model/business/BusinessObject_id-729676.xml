@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Marktproces"
     id="id-729676"
-    documentation="De verzameling bedrijfsobjecten nodig om marktprocessen uit te voeren en faciliteren.">
+    documentation="Een ordening van terugkerende activiteiten op de energiemarkt.">
   <properties
       key="Level"
       value="2"/>

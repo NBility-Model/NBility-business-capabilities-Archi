@@ -1,14 +1,17 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vacature"
+    name="Wervingsactie"
     id="id-736077"
-    documentation="Een onvervulde arbeidsplaats die open staat voor werving.">
+    documentation="Een activiteit gericht op het aantrekken van nieuwe medewerkers.">
   <properties
       key="Level"
       value="3"/>
   <properties
       key="Name (en)"
-      value="Vacancy"/>
+      value="Recruitment"/>
+  <properties
+      key="Search term"
+      value="vacature"/>
   <properties
       key="Source"
       value="vacature (Wikipedia)"/>

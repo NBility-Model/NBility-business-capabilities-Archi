@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Storing"
     id="id-729560"
-    documentation="De verzameling bedrijfsobjecten nodig om energiestransport te herstellen.">
+    documentation="Een niet gewenste verandering in de werking van een netcomponent, netdeel of bijbehorende bedrijfsomstandigheden.">
   <properties
       key="Level"
       value="2"/>

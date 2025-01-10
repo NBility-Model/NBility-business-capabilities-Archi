@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financieel advies"
+    id="id-18ef892ce1694a7ca242dc2847a3e939"
+    documentation="Een raadgeving die primair verband houdt met de financiën.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Financial advice"/>
+</archimate:BusinessObject>

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Financiën"
     id="id-736011"
-    documentation="De verzameling bedrijfsobjecten nodig om financiën te verkrijgen en beheren.">
+    documentation="Een geheel aan geldmiddelen en de zaken die daarop betrekking hebben.">
   <properties
       key="Level"
       value="1"/>

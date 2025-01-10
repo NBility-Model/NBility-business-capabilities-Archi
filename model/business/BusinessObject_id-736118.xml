@@ -12,4 +12,7 @@
   <properties
       key="Source"
       value="rechtsregel (Wikipedia)"/>
+  <properties
+      key="Search term"
+      value="wet- en regelgeving"/>
 </archimate:BusinessObject>

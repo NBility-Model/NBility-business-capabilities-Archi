@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Medewerker"
     id="id-736069"
-    documentation="De verzameling bedrijfsobjecten nodig om medewerkers te behouden.">
+    documentation="Een natuurlijk persoon die activiteiten uitvoert in opdracht van een organisatie.">
   <properties
       key="Level"
       value="2"/>

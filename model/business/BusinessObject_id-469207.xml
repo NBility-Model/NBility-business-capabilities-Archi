@@ -24,4 +24,16 @@
   <properties
       key="Search term"
       value="voedingsgebied"/>
+  <properties
+      key="Search term"
+      value="primaire netfunctie"/>
+  <properties
+      key="Search term"
+      value="secundaire netfunctie"/>
+  <properties
+      key="Search term"
+      value="tertiaire netfunctie"/>
+  <properties
+      key="Search term"
+      value="telecomnetfunctie"/>
 </archimate:BusinessObject>

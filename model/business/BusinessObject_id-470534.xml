@@ -15,4 +15,7 @@
   <properties
       key="Search term"
       value="energiefraude"/>
+  <properties
+      key="Search term"
+      value="administratief netverlies"/>
 </archimate:BusinessObject>

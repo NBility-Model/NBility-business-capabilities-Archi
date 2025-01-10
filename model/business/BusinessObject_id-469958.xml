@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Klantverzoek"
     id="id-469958"
-    documentation="Een vraag, claim of klacht van een klant, niet zijnde een klantaanvraag.">
+    documentation="Een vraag van een klant om iets te doen of te laten.">
   <properties
       key="Level"
       value="3"/>
@@ -27,4 +27,19 @@
   <properties
       key="Search term"
       value="klantticket"/>
+  <properties
+      key="Search term"
+      value="case"/>
+  <properties
+      key="Search term"
+      value="lead"/>
+  <properties
+      key="Search term"
+      value="opportunity"/>
+  <properties
+      key="Note"
+      value="Hoewel een klacht slechts een uiting is van ontevredenheid, beschouwen we deze als een klantverzoek omdat de netbeheerder hier binnen een bepaalde termijn opvolging aan moet geven."/>
+  <properties
+      key="Source"
+      value="verzoek (Van Dale)"/>
 </archimate:BusinessObject>

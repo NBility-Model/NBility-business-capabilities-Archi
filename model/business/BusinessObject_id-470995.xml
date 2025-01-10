@@ -26,5 +26,8 @@
       value="reiskosten"/>
   <properties
       key="Search term"
-      value="declaratie"/>
+      value="onkostendeclaratie"/>
+  <properties
+      key="Search term"
+      value="onkostenvergoeding"/>
 </archimate:BusinessObject>

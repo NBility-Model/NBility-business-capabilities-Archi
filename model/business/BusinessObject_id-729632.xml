@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Klant"
     id="id-729632"
-    documentation="De verzameling bedrijfsobjecten nodig om klanten te bedienen.">
+    documentation="Een (potentiële) afnemer van een product of dienst van de netbeheerder.">
   <properties
       key="Level"
       value="1"/>

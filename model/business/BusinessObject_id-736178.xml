@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Digitaalproductprestatie"
     id="id-736178"
-    documentation="De verzameling bedrijfsobjecten nodig om digitale producten te exploiteren.">
+    documentation="De mate waarin de instantie van een digitaal product afgesproken prestatiedoelen behaalt.">
   <properties
       key="Level"
       value="2"/>

@@ -1,12 +1,12 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Marktdataverstrekking"
+    name="Netbeheerdataverstrekking"
     id="id-729673"
-    documentation="De verzameling bedrijfsobjecten nodig om het delen van marktdata te faciliteren.">
+    documentation="Een handeling waarbij de netbeheerder gegevens toegankelijk maakt, buiten de reguliere bedrijfsactiviteiten om.">
   <properties
       key="Level"
       value="2"/>
   <properties
       key="Name (en)"
-      value="Market data provision"/>
+      value="Grid operator data provision"/>
 </archimate:BusinessObject>

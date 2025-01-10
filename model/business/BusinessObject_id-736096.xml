@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Proces"
     id="id-736096"
-    documentation="De verzameling bedrijfsobjecten nodig om processen te besturen.">
+    documentation="Een ordening van activiteiten.">
   <properties
       key="Level"
       value="2"/>

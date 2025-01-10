@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Medewerkersprestatie"
     id="id-736081"
-    documentation="De verzameling bedrijfsobjecten nodig om medewerkers te ontwikkelen.">
+    documentation="De mate waarin een medewerker gestelde doelen of verplichtingen volbrengt.">
   <properties
       key="Level"
       value="2"/>

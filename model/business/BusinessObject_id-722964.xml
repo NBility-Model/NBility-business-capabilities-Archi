@@ -12,4 +12,19 @@
   <properties
       key="Search term"
       value="energieafname zonder contract"/>
+  <properties
+      key="Search term"
+      value="leegstand"/>
+  <properties
+      key="Search term"
+      value="verbruik zonder contract (VZC)"/>
+  <properties
+      key="Search term"
+      value="afname zonder contract (AZC)"/>
+  <properties
+      key="Search term"
+      value="contractloos perceel"/>
+  <properties
+      key="Search term"
+      value="administratief netverlies"/>
 </archimate:BusinessObject>

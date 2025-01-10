@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dataverstrekkingsprestatie"
+    id="id-077b3d93616b4024b47f5c2bc2d45c3d"
+    documentation="De mate waarin een partij in het energiesysteem gestelde doelen of verplichtingen volbrengt met betrekking tot het toegankelijk maken van gegevens.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Data provision performance"/>
+</archimate:BusinessObject>

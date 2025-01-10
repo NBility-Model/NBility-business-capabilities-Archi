@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bedrijfsgebouw"
     id="id-736039"
-    documentation="De verzameling bedrijfsobjecten nodig om bedrijfsgebouwen te beheren en faciliteiten beschikbaar te stellen.">
+    documentation="Een gebouw waar duurzame uitoefening van de activiteiten van de netbeheerder plaatsvindt, niet zijnde een gebouw dat onderdeel uitmaakt van het energienet.">
   <properties
       key="Level"
       value="1"/>

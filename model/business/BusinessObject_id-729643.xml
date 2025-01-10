@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Klantfactuur"
     id="id-729643"
-    documentation="De verzameling bedrijfsobjecten nodig om te factureren en innen.">
+    documentation="Een document dat een betalingsverplichting van of aan een klant weergeeft.">
   <properties
       key="Level"
       value="2"/>

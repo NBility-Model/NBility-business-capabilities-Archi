@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energietoerekening"
+    id="id-bfed979dfc074c77bd5b801b3f7e4045"
+    documentation="Een verklaring dat uitgewisselde energie een marktpartij toekomt.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Energy attribution"/>
+  <properties
+      key="Source"
+      value="toegewezen verbruik (Informatiecode elektriciteit en gas)"/>
+  <properties
+      key="Search term"
+      value="allocatievolume"/>
+  <properties
+      key="Search term"
+      value="reconciliatievolume"/>
+  <properties
+      key="Search term"
+      value="gealloceerd verbruik"/>
+</archimate:BusinessObject>
