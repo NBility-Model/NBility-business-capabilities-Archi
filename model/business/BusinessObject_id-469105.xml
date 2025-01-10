@@ -21,4 +21,7 @@
   <properties
       key="Search term"
       value="meetpunt"/>
+  <properties
+      key="Note"
+      value="Wanneer in de regulering over meting, meetgegevens, etc. gesproken wordt, betreft dat vaak het bedrijfsobject energie-uitwisseling."/>
 </archimate:BusinessObject>

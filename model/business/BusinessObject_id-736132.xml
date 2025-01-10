@@ -15,4 +15,7 @@
   <properties
       key="Search term"
       value="VCA-checklist"/>
+  <properties
+      key="Note"
+      value="Het toekennen van aanwijzingen is deel van de operatie in de gele wereld (zie Uitvoeringscapaciteit)."/>
 </archimate:BusinessObject>

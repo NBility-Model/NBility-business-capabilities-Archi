@@ -30,4 +30,7 @@
   <properties
       key="Search term"
       value="milieu-incident"/>
+  <properties
+      key="Note"
+      value="Dit betreft zowel voorvallen die daadwerkelijk schade of letsel tot gevolg hadden als voorvallen die dat onder andere omstandigheden hadden kunnen hebben. VGMK staat voor veiligheid, gezondheid, milieu en kwaliteit."/>
 </archimate:BusinessObject>

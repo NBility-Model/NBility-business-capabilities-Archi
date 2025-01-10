@@ -36,4 +36,7 @@
   <properties
       key="Search term"
       value="sollicitant"/>
+  <properties
+      key="Note"
+      value="Voorbeelden zijn werknemers met een arbeidsrelatie, zelfstandigen, ingeleende arbeidskrachten en stagiaires. Medewerkers van aannemers en dienstverleners kunnen ook worden beschouwd als medewerker van de netbeheerder."/>
 </archimate:BusinessObject>

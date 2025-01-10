@@ -54,4 +54,7 @@
   <properties
       key="Search term"
       value="schadeveroorzaker"/>
+  <properties
+      key="Note"
+      value="Iemand die impact ondervindt van bedrijfsactiviteiten van de netbeheerder, beschouwen we ook als klant. In dat geval neemt deze klant bijvoorbeeld informatiediensten af."/>
 </archimate:BusinessObject>

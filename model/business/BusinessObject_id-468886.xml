@@ -24,4 +24,7 @@
   <properties
       key="Search term"
       value="aansluitlocatie"/>
+  <properties
+      key="Note"
+      value="Aansluitingen worden onderscheiden naar kleinverbruikaansluitingen en grootverbruikaansluitingen."/>
 </archimate:BusinessObject>

@@ -21,4 +21,7 @@
   <properties
       key="Search term"
       value="dataproduct"/>
+  <properties
+      key="Note"
+      value="Voorbeelden van klantproducten zijn de aansluitdienst, transportdienst, schadevergoedingsdienst, informatiedienst en congestiemanagement- en balanceringsproductaanboddienst."/>
 </archimate:BusinessObject>
