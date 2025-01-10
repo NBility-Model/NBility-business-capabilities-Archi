@@ -16,10 +16,10 @@
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
     <bounds
-        x="324"
-        y="156"
-        width="457"
-        height="61"/>
+        x="372"
+        y="132"
+        width="529"
+        height="49"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-729684.xml#id-729684"/>
@@ -73,10 +73,10 @@
           href="AssociationRelationship_id-b7dfecb8eefe4086be86c285e6aa3675.xml#id-b7dfecb8eefe4086be86c285e6aa3675"/>
     </sourceConnections>
     <bounds
-        x="324"
-        y="300"
-        width="697"
-        height="61"/>
+        x="372"
+        y="252"
+        width="889"
+        height="49"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-729592.xml#id-729592"/>
@@ -106,10 +106,10 @@
           href="AssociationRelationship_id-669dcde9062940d3ac5af0333d05d694.xml#id-669dcde9062940d3ac5af0333d05d694"/>
     </sourceConnections>
     <bounds
-        x="948"
-        y="444"
-        width="301"
-        height="61"/>
+        x="1092"
+        y="372"
+        width="349"
+        height="49"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-729563.xml#id-729563"/>
@@ -139,9 +139,9 @@
     </sourceConnections>
     <bounds
         x="12"
-        y="444"
-        width="145"
-        height="61"/>
+        y="384"
+        width="169"
+        height="49"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-729651.xml#id-729651"/>
@@ -160,9 +160,9 @@
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
     <bounds
         x="12"
-        y="300"
-        width="145"
-        height="61"/>
+        y="252"
+        width="169"
+        height="49"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-729634.xml#id-729634"/>
@@ -193,8 +193,8 @@
     <bounds
         x="12"
         y="12"
-        width="145"
-        height="61"/>
+        width="169"
+        height="49"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-729643.xml#id-729643"/>
@@ -223,10 +223,10 @@
           href="AssociationRelationship_id-5b731e99007a46f9910d6a8689399b08.xml#id-5b731e99007a46f9910d6a8689399b08"/>
     </sourceConnections>
     <bounds
-        x="636"
+        x="732"
         y="12"
-        width="145"
-        height="61"/>
+        width="169"
+        height="49"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-729673.xml#id-729673"/>
@@ -255,10 +255,10 @@
           href="AssociationRelationship_id-598a34e30d604cd6804b2e4ae9f59a0e.xml#id-598a34e30d604cd6804b2e4ae9f59a0e"/>
     </sourceConnections>
     <bounds
-        x="324"
+        x="372"
         y="12"
-        width="145"
-        height="61"/>
+        width="169"
+        height="49"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-729667.xml#id-729667"/>
@@ -287,10 +287,10 @@
           href="AssociationRelationship_id-31077e76cd804957991dcb0393f4471e.xml#id-31077e76cd804957991dcb0393f4471e"/>
     </sourceConnections>
     <bounds
-        x="480"
+        x="552"
         y="12"
-        width="145"
-        height="61"/>
+        width="169"
+        height="49"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-729676.xml#id-729676"/>
@@ -314,6 +314,11 @@
       <features
           name="labelExpression"
           value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+      <bendpoints
+          startX="96"
+          startY="120"
+          endX="91"
+          endY="-120"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-1557cdd204c44d889c3020d444d252ab.xml#id-1557cdd204c44d889c3020d444d252ab"/>
@@ -331,10 +336,10 @@
           href="AssociationRelationship_id-137c3eed3825478595486903dba52de2.xml#id-137c3eed3825478595486903dba52de2"/>
     </sourceConnections>
     <bounds
-        x="1104"
-        y="300"
-        width="145"
-        height="61"/>
+        x="1080"
+        y="132"
+        width="361"
+        height="49"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-729661.xml#id-729661"/>
@@ -364,10 +369,10 @@
           href="AssociationRelationship_id-b309637fba224caaa49907dc9564926a.xml#id-b309637fba224caaa49907dc9564926a"/>
     </sourceConnections>
     <bounds
-        x="480"
-        y="444"
-        width="145"
-        height="61"/>
+        x="552"
+        y="372"
+        width="169"
+        height="49"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-729585.xml#id-729585"/>
@@ -385,10 +390,10 @@
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
     <bounds
-        x="636"
-        y="444"
-        width="145"
-        height="61"/>
+        x="732"
+        y="372"
+        width="169"
+        height="49"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-729580.xml#id-729580"/>
@@ -418,10 +423,10 @@
           href="AssociationRelationship_id-eb9feb33b821433a86843afce04df9f3.xml#id-eb9feb33b821433a86843afce04df9f3"/>
     </sourceConnections>
     <bounds
-        x="1104"
-        y="588"
-        width="145"
-        height="61"/>
+        x="1272"
+        y="492"
+        width="169"
+        height="49"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-729560.xml#id-729560"/>
@@ -451,10 +456,10 @@
           href="AssociationRelationship_id-c2233bebcdb84a989a7bb3a42ee64bcf.xml#id-c2233bebcdb84a989a7bb3a42ee64bcf"/>
     </sourceConnections>
     <bounds
-        x="948"
-        y="588"
-        width="145"
-        height="61"/>
+        x="1092"
+        y="492"
+        width="169"
+        height="49"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-729570.xml#id-729570"/>
@@ -484,10 +489,10 @@
           href="AssociationRelationship_id-228241b4690848839f301653400ad6e6.xml#id-228241b4690848839f301653400ad6e6"/>
     </sourceConnections>
     <bounds
-        x="792"
-        y="588"
-        width="145"
-        height="61"/>
+        x="912"
+        y="492"
+        width="169"
+        height="49"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-729622.xml#id-729622"/>
@@ -517,10 +522,10 @@
           href="AssociationRelationship_id-cf19774c451c4b78b4f7fb7feb8fc71a.xml#id-cf19774c451c4b78b4f7fb7feb8fc71a"/>
     </sourceConnections>
     <bounds
-        x="792"
-        y="444"
-        width="145"
-        height="61"/>
+        x="912"
+        y="372"
+        width="169"
+        height="49"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-729611.xml#id-729611"/>
@@ -582,10 +587,10 @@
           name="labelExpression"
           value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
       <bendpoints
-          startX="-390"
-          startY="-210"
-          endX="-276"
-          endY="222"/>
+          startX="-449"
+          startY="-180"
+          endX="-360"
+          endY="180"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-6d4904a8275546b6a528e6a5a297a843.xml#id-6d4904a8275546b6a528e6a5a297a843"/>
@@ -603,10 +608,10 @@
           href="AssociationRelationship_id-af143a9d93eb4cda8a748e1a53ef5e0f.xml#id-af143a9d93eb4cda8a748e1a53ef5e0f"/>
     </sourceConnections>
     <bounds
-        x="324"
-        y="732"
-        width="925"
-        height="61"/>
+        x="372"
+        y="612"
+        width="1069"
+        height="49"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-729629.xml#id-729629"/>
@@ -624,10 +629,10 @@
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
     <bounds
-        x="636"
-        y="588"
-        width="145"
-        height="61"/>
+        x="732"
+        y="492"
+        width="169"
+        height="49"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-729618.xml#id-729618"/>
@@ -670,9 +675,9 @@
     </sourceConnections>
     <bounds
         x="12"
-        y="156"
-        width="145"
-        height="61"/>
+        y="132"
+        width="169"
+        height="49"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-729646.xml#id-729646"/>

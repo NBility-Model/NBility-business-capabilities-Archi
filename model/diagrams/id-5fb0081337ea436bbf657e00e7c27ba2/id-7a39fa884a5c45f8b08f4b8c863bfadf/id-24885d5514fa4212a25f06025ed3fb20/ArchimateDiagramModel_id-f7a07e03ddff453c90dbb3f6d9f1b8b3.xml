@@ -812,10 +812,6 @@
       <features
           name="labelExpression"
           value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
-      <bendpoints
-          startX="-900"
-          startY="-180"
-          endY="180"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-735486.xml#id-735486"/>

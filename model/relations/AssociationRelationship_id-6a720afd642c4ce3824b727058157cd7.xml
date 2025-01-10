@@ -1,16 +1,16 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="verwerkt in"
-    id="id-cc6dfaaacfc24e53898f3181a3864d10"
+    name="ondersteunend bij"
+    id="id-6a720afd642c4ce3824b727058157cd7"
     directed="true">
   <properties
       key="Name (en)"
-      value="processed by"/>
+      value="support for"/>
   <source
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-736108.xml#id-736108"/>
+      href="BusinessObject_id-736162.xml#id-736162"/>
   <target
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-736098.xml#id-736098"/>
+      href="BusinessObject_id-736094.xml#id-736094"/>
 </archimate:AssociationRelationship>

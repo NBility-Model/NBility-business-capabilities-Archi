@@ -16,10 +16,10 @@
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
     <bounds
-        x="276"
+        x="372"
         y="12"
-        width="385"
-        height="55"/>
+        width="529"
+        height="49"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-729665.xml#id-729665"/>
@@ -49,10 +49,10 @@
           href="AssociationRelationship_id-738850.xml#id-738850"/>
     </sourceConnections>
     <bounds
-        x="276"
+        x="372"
         y="132"
-        width="120"
-        height="55"/>
+        width="169"
+        height="49"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-729578.xml#id-729578"/>
@@ -94,10 +94,10 @@
           href="AssociationRelationship_id-738852.xml#id-738852"/>
     </sourceConnections>
     <bounds
-        x="540"
+        x="732"
         y="132"
-        width="120"
-        height="55"/>
+        width="169"
+        height="49"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-729558.xml#id-729558"/>
@@ -128,8 +128,8 @@
     <bounds
         x="12"
         y="12"
-        width="120"
-        height="55"/>
+        width="169"
+        height="49"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-729632.xml#id-729632"/>
@@ -170,10 +170,10 @@
           href="AssociationRelationship_id-738853.xml#id-738853"/>
     </sourceConnections>
     <bounds
-        x="276"
+        x="372"
         y="252"
-        width="385"
-        height="55"/>
+        width="529"
+        height="49"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-729659.xml#id-729659"/>
@@ -204,8 +204,8 @@
     <bounds
         x="12"
         y="132"
-        width="120"
-        height="55"/>
+        width="169"
+        height="49"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-729609.xml#id-729609"/>
