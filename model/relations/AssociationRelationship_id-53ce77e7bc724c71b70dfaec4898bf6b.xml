@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="orkestratie van"
+    id="id-53ce77e7bc724c71b70dfaec4898bf6b"
+    directed="true">
+  <properties
+      key="Name (en)"
+      value="orchestration of"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-736100.xml#id-736100"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-736098.xml#id-736098"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bewaking van"
+    id="id-5073e2032b2f42e68bce566635520e19"
+    directed="true">
+  <properties
+      key="Name (en)"
+      value="monitoring of"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-736019.xml#id-736019"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-736015.xml#id-736015"/>
+</archimate:AssociationRelationship>

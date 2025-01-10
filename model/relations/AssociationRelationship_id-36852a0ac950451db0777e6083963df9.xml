@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bewaard als"
+    id="id-36852a0ac950451db0777e6083963df9"
+    directed="true">
+  <properties
+      key="Name (en)"
+      value="preserved as"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-736108.xml#id-736108"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-736112.xml#id-736112"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="mitigatie van"
+    id="id-df45e900d24b46ebb7a4106a6f872cbf"
+    directed="true">
+  <properties
+      key="Name (en)"
+      value="mitigation of"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-736148.xml#id-736148"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-736130.xml#id-736130"/>
+</archimate:AssociationRelationship>

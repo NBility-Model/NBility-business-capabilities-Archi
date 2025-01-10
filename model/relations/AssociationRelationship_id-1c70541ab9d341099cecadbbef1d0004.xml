@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="verfijning van"
+    id="id-1c70541ab9d341099cecadbbef1d0004"
+    directed="true">
+  <properties
+      key="Name (en)"
+      value="refinement of"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-736037.xml#id-736037"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-736035.xml#id-736035"/>
+</archimate:AssociationRelationship>

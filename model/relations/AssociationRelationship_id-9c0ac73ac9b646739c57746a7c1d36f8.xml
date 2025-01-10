@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="onder voorwaarden van"
+    id="id-9c0ac73ac9b646739c57746a7c1d36f8"
+    directed="true">
+  <properties
+      key="Name (en)"
+      value="under conditions of"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-469299.xml#id-469299"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-475596.xml#id-475596"/>
+</archimate:AssociationRelationship>

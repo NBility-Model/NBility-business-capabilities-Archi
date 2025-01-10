@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="van invloed op"
+    id="id-81aec575f1dd40e088df3657789c0075"
+    directed="true">
+  <properties
+      key="Name (en)"
+      value="influencer of"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-736154.xml#id-736154"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-736146.xml#id-736146"/>
+</archimate:AssociationRelationship>

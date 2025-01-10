@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bewijs van"
+    id="id-c806a48ebd5b4e6d87e8f4105b5b60e3"
+    directed="true">
+  <properties
+      key="Name (en)"
+      value="proof of"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-470684.xml#id-470684"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-468977.xml#id-468977"/>
+</archimate:AssociationRelationship>

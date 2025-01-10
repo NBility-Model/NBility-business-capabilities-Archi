@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="beperking van"
+    id="id-c43c1157bcf34de6af24d129999aef83"
+    directed="true">
+  <properties
+      key="Name (en)"
+      value="constraint of"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-736104.xml#id-736104"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-736108.xml#id-736108"/>
+</archimate:AssociationRelationship>

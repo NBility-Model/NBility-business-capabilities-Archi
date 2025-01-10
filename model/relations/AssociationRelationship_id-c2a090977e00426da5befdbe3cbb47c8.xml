@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="beoogd in"
+    id="id-c2a090977e00426da5befdbe3cbb47c8"
+    directed="true">
+  <properties
+      key="Name (en)"
+      value="intended in"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-736146.xml#id-736146"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-736148.xml#id-736148"/>
+</archimate:AssociationRelationship>

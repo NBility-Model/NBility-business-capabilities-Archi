@@ -202,6 +202,9 @@
         id="id-f132e95d8e0c48e2b62554a5bc76f19a"
         source="id-735503"
         target="id-735650">
+      <features
+          name="labelExpression"
+          value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-2b4edec4b0be4f81a3eaf53279784676.xml#id-2b4edec4b0be4f81a3eaf53279784676"/>
@@ -256,6 +259,9 @@
         id="id-924a9ee026f541e8998c9e8795d61c62"
         source="id-735534"
         target="id-ba3a553917d345e4b5c9fd4a7e4c7978">
+      <features
+          name="labelExpression"
+          value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-2fab728a1acb4f58bca8d290670901d2.xml#id-2fab728a1acb4f58bca8d290670901d2"/>
@@ -265,6 +271,9 @@
         id="id-afcdf1769f2e45f6a4e5790f97fd9735"
         source="id-735534"
         target="id-8a904dbffc2a4592a1cbdddfc48f5e98">
+      <features
+          name="labelExpression"
+          value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-8923012b39304942b770771f61709437.xml#id-8923012b39304942b770771f61709437"/>
@@ -520,6 +529,9 @@
         id="id-d5d0219c3f224a5e9112410e685f5cb1"
         source="id-735511"
         target="id-735569">
+      <features
+          name="labelExpression"
+          value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-f5642066d716406781ee5dad4f9666ee.xml#id-f5642066d716406781ee5dad4f9666ee"/>
@@ -700,6 +712,9 @@
         id="id-0f16dd656e5647aea3818806e8d408e8"
         source="id-735557"
         target="id-735569">
+      <features
+          name="labelExpression"
+          value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-1b96b6adcd3a478e8bc3f979c1f4fe49.xml#id-1b96b6adcd3a478e8bc3f979c1f4fe49"/>
@@ -2359,6 +2374,9 @@
         id="id-da5131dcbb1a488889c5059e26d528f7"
         source="id-275d4e9e86394127b29e0eeb77d114e8"
         target="id-735585">
+      <features
+          name="labelExpression"
+          value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-1ecfcb271bb3446a95309218f0bf6194.xml#id-1ecfcb271bb3446a95309218f0bf6194"/>
@@ -2447,6 +2465,9 @@
         id="id-508ecdbdf3ca4bcfb9987fda9c11bff6"
         source="id-2eb0ace9870b4fd2b244a1ddde995d8b"
         target="id-735497">
+      <features
+          name="labelExpression"
+          value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-fe02ebc13c7c4c6a8aab2a0236dc72bc.xml#id-fe02ebc13c7c4c6a8aab2a0236dc72bc"/>

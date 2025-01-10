@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="afwijking van"
+    id="id-15562593d58b466a953dbb8a1964cfaf"
+    directed="true">
+  <properties
+      key="Name (en)"
+      value="deviation from"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-736142.xml#id-736142"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-736132.xml#id-736132"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="naleving van"
+    id="id-502f6b7a536b472a913d1d43345adf49"
+    directed="true">
+  <properties
+      key="Name (en)"
+      value="compliance with"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-736061.xml#id-736061"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-475596.xml#id-475596"/>
+</archimate:AssociationRelationship>
