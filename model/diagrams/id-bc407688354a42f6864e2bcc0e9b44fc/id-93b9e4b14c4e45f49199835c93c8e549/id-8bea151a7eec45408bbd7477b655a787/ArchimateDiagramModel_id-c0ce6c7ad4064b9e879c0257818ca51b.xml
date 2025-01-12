@@ -26,7 +26,7 @@
     </sourceConnections>
     <bounds
         x="1224"
-        y="372"
+        y="408"
         width="313"
         height="217"/>
     <children
@@ -159,7 +159,7 @@
     </sourceConnections>
     <bounds
         x="1872"
-        y="372"
+        y="408"
         width="1441"
         height="217"/>
     <children
@@ -614,7 +614,7 @@
     </sourceConnections>
     <bounds
         x="24"
-        y="372"
+        y="408"
         width="1189"
         height="217"/>
     <children
@@ -988,7 +988,7 @@
     </sourceConnections>
     <bounds
         x="1548"
-        y="372"
+        y="408"
         width="313"
         height="217"/>
     <children
@@ -1174,9 +1174,9 @@
     </sourceConnections>
     <bounds
         x="12"
-        y="12"
+        y="96"
         width="5149"
-        height="289"/>
+        height="241"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-87160ec55e4644c6bf99b3aaa7e67746"
@@ -1209,7 +1209,7 @@
           x="12"
           y="48"
           width="1189"
-          height="229"/>
+          height="181"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-ff45a793ef5d43848d06d69f747b4474"
@@ -1242,7 +1242,7 @@
             x="12"
             y="48"
             width="589"
-            height="169"/>
+            height="121"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-e4be0a11916241239c1c4a3062f9b24b"
@@ -1264,7 +1264,7 @@
           </sourceConnections>
           <bounds
               x="12"
-              y="96"
+              y="48"
               width="265"
               height="55"/>
           <archimateElement
@@ -1292,50 +1292,12 @@
           </sourceConnections>
           <bounds
               x="312"
-              y="96"
+              y="48"
               width="265"
               height="55"/>
           <archimateElement
               xsi:type="archimate:BusinessProcess"
               href="BusinessProcess_id-36a7c625cbd04c85962caac6a7803fce.xml#id-36a7c625cbd04c85962caac6a7803fce"/>
-        </children>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="id-72fe33b6b98b4c47b964b54748638027"
-            targetConnections="id-b4207aef24d54ea99f8dac7275d7af89">
-          <features
-              name="labelExpression"
-              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
-          <features
-              name="iconVisible"
-              value="2"/>
-          <bounds
-              x="12"
-              y="36"
-              width="265"
-              height="37"/>
-          <archimateElement
-              xsi:type="archimate:Value"
-              href="Value_id-171a56c09b364d1aa3dc2ad8803aa6a6.xml#id-171a56c09b364d1aa3dc2ad8803aa6a6"/>
-        </children>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="id-66270100e2004d02bf6754b36997cd2c"
-            targetConnections="id-c2fba52bab764e72a73a64d609db63c0">
-          <features
-              name="labelExpression"
-              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
-          <features
-              name="iconVisible"
-              value="2"/>
-          <bounds
-              x="312"
-              y="36"
-              width="265"
-              height="37"/>
-          <archimateElement
-              xsi:type="archimate:Value"
-              href="Value_id-2fad909093b34158a46a1cae34db34e2.xml#id-2fad909093b34158a46a1cae34db34e2"/>
         </children>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
@@ -1373,7 +1335,7 @@
             x="612"
             y="48"
             width="565"
-            height="169"/>
+            height="121"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-3fabe7b94fa646ffafaea807d739034c"
@@ -1395,7 +1357,7 @@
           </sourceConnections>
           <bounds
               x="12"
-              y="96"
+              y="48"
               width="265"
               height="55"/>
           <archimateElement
@@ -1423,50 +1385,12 @@
           </sourceConnections>
           <bounds
               x="288"
-              y="96"
+              y="48"
               width="265"
               height="55"/>
           <archimateElement
               xsi:type="archimate:BusinessProcess"
               href="BusinessProcess_id-a0ea5d7981124cf181d1fa24a94da727.xml#id-a0ea5d7981124cf181d1fa24a94da727"/>
-        </children>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="id-0b1a618b9bc24afd832c2aca412df915"
-            targetConnections="id-f8352ac719534c28a38f9eb73747cf73">
-          <features
-              name="labelExpression"
-              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
-          <features
-              name="iconVisible"
-              value="2"/>
-          <bounds
-              x="12"
-              y="36"
-              width="265"
-              height="37"/>
-          <archimateElement
-              xsi:type="archimate:Value"
-              href="Value_id-004f214f86bf485ead0009097998dda7.xml#id-004f214f86bf485ead0009097998dda7"/>
-        </children>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="id-7dfaaa4a66e342f395a9d09c8bc99126"
-            targetConnections="id-b6818186714c4852ac9b619d19472651">
-          <features
-              name="labelExpression"
-              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
-          <features
-              name="iconVisible"
-              value="2"/>
-          <bounds
-              x="288"
-              y="36"
-              width="265"
-              height="37"/>
-          <archimateElement
-              xsi:type="archimate:Value"
-              href="Value_id-4cff32a77fd34bfabde9a3179ceeaf4e.xml#id-4cff32a77fd34bfabde9a3179ceeaf4e"/>
         </children>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
@@ -1499,7 +1423,7 @@
           x="1212"
           y="48"
           width="313"
-          height="229"/>
+          height="181"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-ca0745fcdb364682a050b57c1b2ff8fe"
@@ -1523,7 +1447,7 @@
             x="12"
             y="48"
             width="289"
-            height="169"/>
+            height="121"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-c5d3457b3bfd409d81a3e9d1758ba4cf"
@@ -1545,31 +1469,12 @@
           </sourceConnections>
           <bounds
               x="12"
-              y="96"
+              y="48"
               width="265"
               height="55"/>
           <archimateElement
               xsi:type="archimate:BusinessProcess"
               href="BusinessProcess_id-f5b8617d085e49e88baddebc82ccaaf0.xml#id-f5b8617d085e49e88baddebc82ccaaf0"/>
-        </children>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="id-7c558666384e44a8949f503a4eafe1b9"
-            targetConnections="id-ecee3acc5abf4d38aceb12361266847c">
-          <features
-              name="labelExpression"
-              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
-          <features
-              name="iconVisible"
-              value="2"/>
-          <bounds
-              x="12"
-              y="36"
-              width="265"
-              height="37"/>
-          <archimateElement
-              xsi:type="archimate:Value"
-              href="Value_id-d924747fbd424629b5a84d2a3f0052c7.xml#id-d924747fbd424629b5a84d2a3f0052c7"/>
         </children>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
@@ -1602,7 +1507,7 @@
           x="1536"
           y="48"
           width="313"
-          height="229"/>
+          height="181"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-93bd4eb700ab4af180f28ec8e6959ff4"
@@ -1626,7 +1531,7 @@
             x="12"
             y="48"
             width="289"
-            height="169"/>
+            height="121"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-5548febd5d79469d8a671da7d6c4d880"
@@ -1648,31 +1553,12 @@
           </sourceConnections>
           <bounds
               x="12"
-              y="96"
+              y="48"
               width="265"
               height="55"/>
           <archimateElement
               xsi:type="archimate:BusinessProcess"
               href="BusinessProcess_id-fdd948153007408d9212c26850168ffe.xml#id-fdd948153007408d9212c26850168ffe"/>
-        </children>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="id-efccdd75f58846238fecfb216f9860f1"
-            targetConnections="id-24038468a5af4cb191db9f2dd1a50935">
-          <features
-              name="labelExpression"
-              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
-          <features
-              name="iconVisible"
-              value="2"/>
-          <bounds
-              x="12"
-              y="36"
-              width="265"
-              height="37"/>
-          <archimateElement
-              xsi:type="archimate:Value"
-              href="Value_id-ed6deb7aae38412ca271ae412b230de8.xml#id-ed6deb7aae38412ca271ae412b230de8"/>
         </children>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
@@ -1714,7 +1600,7 @@
           x="1860"
           y="48"
           width="1441"
-          height="229"/>
+          height="181"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-b5be15007bfb44e19a9f9acf6ee44ade"
@@ -1738,7 +1624,7 @@
             x="12"
             y="48"
             width="289"
-            height="169"/>
+            height="121"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-b5bd700cd30d43c986c12dd31cb568b4"
@@ -1760,31 +1646,12 @@
           </sourceConnections>
           <bounds
               x="12"
-              y="96"
+              y="48"
               width="265"
               height="55"/>
           <archimateElement
               xsi:type="archimate:BusinessProcess"
               href="BusinessProcess_id-9f4befe8267c48a99061d1019fcbc48d.xml#id-9f4befe8267c48a99061d1019fcbc48d"/>
-        </children>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="id-276be7ada53e444e9f424b308fbe57a5"
-            targetConnections="id-56c0803ca9e5435aac376f3733108c6a">
-          <features
-              name="labelExpression"
-              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
-          <features
-              name="iconVisible"
-              value="2"/>
-          <bounds
-              x="12"
-              y="36"
-              width="265"
-              height="37"/>
-          <archimateElement
-              xsi:type="archimate:Value"
-              href="Value_id-c124c21c7d204ea0b057d2566e88dd68.xml#id-c124c21c7d204ea0b057d2566e88dd68"/>
         </children>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
@@ -1840,7 +1707,7 @@
             x="312"
             y="48"
             width="1117"
-            height="169"/>
+            height="121"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-6960848474244d9cbd0eb3790f50dba6"
@@ -1862,7 +1729,7 @@
           </sourceConnections>
           <bounds
               x="12"
-              y="96"
+              y="48"
               width="265"
               height="55"/>
           <archimateElement
@@ -1890,7 +1757,7 @@
           </sourceConnections>
           <bounds
               x="288"
-              y="96"
+              y="48"
               width="265"
               height="55"/>
           <archimateElement
@@ -1918,7 +1785,7 @@
           </sourceConnections>
           <bounds
               x="564"
-              y="96"
+              y="48"
               width="265"
               height="55"/>
           <archimateElement
@@ -1946,88 +1813,12 @@
           </sourceConnections>
           <bounds
               x="840"
-              y="96"
+              y="48"
               width="265"
               height="55"/>
           <archimateElement
               xsi:type="archimate:BusinessProcess"
               href="BusinessProcess_id-7b879d24cb174d818312214938a85e57.xml#id-7b879d24cb174d818312214938a85e57"/>
-        </children>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="id-e6a35e77e7354449904b10d3d46e7115"
-            targetConnections="id-67acdf16825a4361bb76e138abf02f09">
-          <features
-              name="labelExpression"
-              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
-          <features
-              name="iconVisible"
-              value="2"/>
-          <bounds
-              x="12"
-              y="36"
-              width="265"
-              height="37"/>
-          <archimateElement
-              xsi:type="archimate:Value"
-              href="Value_id-6ba6fe7ee366498383a9e3d1c1c9d7e7.xml#id-6ba6fe7ee366498383a9e3d1c1c9d7e7"/>
-        </children>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="id-bb4f0be6931f43cda8f30b258a7e0639"
-            targetConnections="id-0752c9047a4a487bb2f76aad1ddb83a0">
-          <features
-              name="labelExpression"
-              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
-          <features
-              name="iconVisible"
-              value="2"/>
-          <bounds
-              x="288"
-              y="36"
-              width="265"
-              height="37"/>
-          <archimateElement
-              xsi:type="archimate:Value"
-              href="Value_id-368fae867bfe4bba86adbf171f0a833d.xml#id-368fae867bfe4bba86adbf171f0a833d"/>
-        </children>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="id-d2d25a57759c46568057942f2701c4e4"
-            targetConnections="id-3609e82ef2924e4095cf325d0554ea72">
-          <features
-              name="labelExpression"
-              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
-          <features
-              name="iconVisible"
-              value="2"/>
-          <bounds
-              x="564"
-              y="36"
-              width="265"
-              height="37"/>
-          <archimateElement
-              xsi:type="archimate:Value"
-              href="Value_id-d1394ff85b1b450b8680e3fe4f4391d5.xml#id-d1394ff85b1b450b8680e3fe4f4391d5"/>
-        </children>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="id-0fff3aa7263e4aa1891b4b18e901188d"
-            targetConnections="id-bae36d51ac0c4936841b5e8a4331e635">
-          <features
-              name="labelExpression"
-              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
-          <features
-              name="iconVisible"
-              value="2"/>
-          <bounds
-              x="840"
-              y="36"
-              width="265"
-              height="37"/>
-          <archimateElement
-              xsi:type="archimate:Value"
-              href="Value_id-95f4d1118782447eafba81932922239d.xml#id-95f4d1118782447eafba81932922239d"/>
         </children>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
@@ -2057,7 +1848,7 @@
           x="3312"
           y="48"
           width="301"
-          height="229"/>
+          height="181"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-258382e9cd3c4ef392ad5cd7eeabfaa4"
@@ -2081,7 +1872,7 @@
             x="12"
             y="48"
             width="277"
-            height="169"/>
+            height="121"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-a4cf6d0daa734d0bb9086ac85c61f87b"
@@ -2103,31 +1894,12 @@
           </sourceConnections>
           <bounds
               x="12"
-              y="96"
+              y="48"
               width="253"
               height="55"/>
           <archimateElement
               xsi:type="archimate:BusinessProcess"
               href="BusinessProcess_id-9d5e5d3c5f0a49d6b9c2bfc6c8713d5c.xml#id-9d5e5d3c5f0a49d6b9c2bfc6c8713d5c"/>
-        </children>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="id-ad6b8beba17147ff9640254a69cf09ce"
-            targetConnections="id-f49b7a43421b425c94e7a216ab07be24">
-          <features
-              name="labelExpression"
-              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
-          <features
-              name="iconVisible"
-              value="2"/>
-          <bounds
-              x="12"
-              y="36"
-              width="253"
-              height="37"/>
-          <archimateElement
-              xsi:type="archimate:Value"
-              href="Value_id-c990ec752103489ebcb91d5992815326.xml#id-c990ec752103489ebcb91d5992815326"/>
         </children>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
@@ -2160,7 +1932,7 @@
           x="3624"
           y="48"
           width="301"
-          height="229"/>
+          height="181"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-fb2264d5c17c4567a80ea25d589f2cff"
@@ -2184,7 +1956,7 @@
             x="12"
             y="48"
             width="277"
-            height="169"/>
+            height="121"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-672193c5d8294ec59b511effcd7a18ac"
@@ -2206,31 +1978,12 @@
           </sourceConnections>
           <bounds
               x="12"
-              y="96"
+              y="48"
               width="253"
               height="55"/>
           <archimateElement
               xsi:type="archimate:BusinessProcess"
               href="BusinessProcess_id-980ea0abfed74565a3cc33fe9bbaca91.xml#id-980ea0abfed74565a3cc33fe9bbaca91"/>
-        </children>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="id-1a41826893024b88a6e6d26595ee65ce"
-            targetConnections="id-a1cd405be7b5487796377d363ec81d62">
-          <features
-              name="labelExpression"
-              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
-          <features
-              name="iconVisible"
-              value="2"/>
-          <bounds
-              x="12"
-              y="36"
-              width="253"
-              height="37"/>
-          <archimateElement
-              xsi:type="archimate:Value"
-              href="Value_id-04176294d44149948f9ad69ea0dba9c6.xml#id-04176294d44149948f9ad69ea0dba9c6"/>
         </children>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
@@ -2263,7 +2016,7 @@
           x="3936"
           y="48"
           width="301"
-          height="229"/>
+          height="181"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-918a51310eb4464baf74cf59cc525321"
@@ -2287,7 +2040,7 @@
             x="12"
             y="48"
             width="277"
-            height="169"/>
+            height="121"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-28b84ddf423c4d4dba1d8211b0af8779"
@@ -2309,31 +2062,12 @@
           </sourceConnections>
           <bounds
               x="12"
-              y="96"
+              y="48"
               width="253"
               height="55"/>
           <archimateElement
               xsi:type="archimate:BusinessProcess"
               href="BusinessProcess_id-06e817b3380649d49850537eb6ca1e4b.xml#id-06e817b3380649d49850537eb6ca1e4b"/>
-        </children>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="id-3342a8027d454f78817d00d8d49533b5"
-            targetConnections="id-8bbccbb0abfe494bbd98f85b9fb1a109">
-          <features
-              name="labelExpression"
-              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
-          <features
-              name="iconVisible"
-              value="2"/>
-          <bounds
-              x="12"
-              y="36"
-              width="253"
-              height="37"/>
-          <archimateElement
-              xsi:type="archimate:Value"
-              href="Value_id-f1957b36885642149d71c57126269609.xml#id-f1957b36885642149d71c57126269609"/>
         </children>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
@@ -2375,7 +2109,7 @@
           x="4248"
           y="48"
           width="889"
-          height="229"/>
+          height="181"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-8a5862a47f4d4ce69b81973f2e5a97c8"
@@ -2408,7 +2142,7 @@
             x="12"
             y="48"
             width="565"
-            height="169"/>
+            height="121"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-10c375d5ab404ffc80639215cbedef9c"
@@ -2430,7 +2164,7 @@
           </sourceConnections>
           <bounds
               x="12"
-              y="96"
+              y="48"
               width="265"
               height="55"/>
           <archimateElement
@@ -2458,50 +2192,12 @@
           </sourceConnections>
           <bounds
               x="288"
-              y="96"
+              y="48"
               width="265"
               height="55"/>
           <archimateElement
               xsi:type="archimate:BusinessProcess"
               href="BusinessProcess_id-3d4e87dfad0941669c9555868306d63b.xml#id-3d4e87dfad0941669c9555868306d63b"/>
-        </children>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="id-e41845a511d34789a0cc706c75b9394b"
-            targetConnections="id-1dcf9d540c4447dda42d1affb79083ef">
-          <features
-              name="labelExpression"
-              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
-          <features
-              name="iconVisible"
-              value="2"/>
-          <bounds
-              x="12"
-              y="36"
-              width="265"
-              height="37"/>
-          <archimateElement
-              xsi:type="archimate:Value"
-              href="Value_id-8ece99b5dff146afb3f9bfc4c154016d.xml#id-8ece99b5dff146afb3f9bfc4c154016d"/>
-        </children>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="id-ff40799c81b74aaf8ce52d51baa900b9"
-            targetConnections="id-dbedc1585b5d4e44a4acb5cfd49625c5">
-          <features
-              name="labelExpression"
-              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
-          <features
-              name="iconVisible"
-              value="2"/>
-          <bounds
-              x="288"
-              y="36"
-              width="265"
-              height="37"/>
-          <archimateElement
-              xsi:type="archimate:Value"
-              href="Value_id-884d7a2377b8459d8a2bb0531110e5f7.xml#id-884d7a2377b8459d8a2bb0531110e5f7"/>
         </children>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
@@ -2530,7 +2226,7 @@
             x="588"
             y="48"
             width="289"
-            height="169"/>
+            height="121"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-381f132d7b6c4bc093762f313c4c92f3"
@@ -2552,31 +2248,12 @@
           </sourceConnections>
           <bounds
               x="12"
-              y="96"
+              y="48"
               width="265"
               height="55"/>
           <archimateElement
               xsi:type="archimate:BusinessProcess"
               href="BusinessProcess_id-2e2fcce1e61f4f4e9981fb83c851c2a3.xml#id-2e2fcce1e61f4f4e9981fb83c851c2a3"/>
-        </children>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="id-b2b67731adb144938a07fb83dcdec420"
-            targetConnections="id-e5a47d4f3f98472c8facda70aec69f91">
-          <features
-              name="labelExpression"
-              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
-          <features
-              name="iconVisible"
-              value="2"/>
-          <bounds
-              x="12"
-              y="36"
-              width="265"
-              height="37"/>
-          <archimateElement
-              xsi:type="archimate:Value"
-              href="Value_id-7b4f02a18a7343b0a0d4cb5a144dfd1d.xml#id-7b4f02a18a7343b0a0d4cb5a144dfd1d"/>
         </children>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
@@ -2611,7 +2288,7 @@
     </sourceConnections>
     <bounds
         x="3324"
-        y="372"
+        y="408"
         width="301"
         height="217"/>
     <children
@@ -2726,7 +2403,7 @@
     </sourceConnections>
     <bounds
         x="3948"
-        y="372"
+        y="408"
         width="301"
         height="217"/>
     <children
@@ -2850,7 +2527,7 @@
     </sourceConnections>
     <bounds
         x="4260"
-        y="372"
+        y="408"
         width="889"
         height="217"/>
     <children
@@ -3131,7 +2808,7 @@
     </sourceConnections>
     <bounds
         x="3636"
-        y="372"
+        y="408"
         width="301"
         height="217"/>
     <children
@@ -3233,8 +2910,331 @@
       content="Openstaand punt (vraag of we dit hier willen): Waardestroomstap tbv informeren klant over onderbreking (lijkt me eerder uitzondering)?&#xD;&#xA;Voorstel: opnemen bij ondersteunende capabilities.">
     <bounds
         x="4104"
-        y="600"
+        y="636"
         width="313"
         height="73"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-72fe33b6b98b4c47b964b54748638027"
+      targetConnections="id-b4207aef24d54ea99f8dac7275d7af89">
+    <features
+        name="labelExpression"
+        value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
+    <bounds
+        x="48"
+        y="12"
+        width="265"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:Value"
+        href="Value_id-171a56c09b364d1aa3dc2ad8803aa6a6.xml#id-171a56c09b364d1aa3dc2ad8803aa6a6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-66270100e2004d02bf6754b36997cd2c"
+      targetConnections="id-c2fba52bab764e72a73a64d609db63c0">
+    <features
+        name="labelExpression"
+        value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
+    <bounds
+        x="348"
+        y="12"
+        width="265"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:Value"
+        href="Value_id-2fad909093b34158a46a1cae34db34e2.xml#id-2fad909093b34158a46a1cae34db34e2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0b1a618b9bc24afd832c2aca412df915"
+      targetConnections="id-f8352ac719534c28a38f9eb73747cf73">
+    <features
+        name="labelExpression"
+        value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
+    <bounds
+        x="648"
+        y="12"
+        width="265"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:Value"
+        href="Value_id-004f214f86bf485ead0009097998dda7.xml#id-004f214f86bf485ead0009097998dda7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7dfaaa4a66e342f395a9d09c8bc99126"
+      targetConnections="id-b6818186714c4852ac9b619d19472651">
+    <features
+        name="labelExpression"
+        value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
+    <bounds
+        x="924"
+        y="12"
+        width="265"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:Value"
+        href="Value_id-4cff32a77fd34bfabde9a3179ceeaf4e.xml#id-4cff32a77fd34bfabde9a3179ceeaf4e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7c558666384e44a8949f503a4eafe1b9"
+      targetConnections="id-ecee3acc5abf4d38aceb12361266847c">
+    <features
+        name="labelExpression"
+        value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
+    <bounds
+        x="1248"
+        y="12"
+        width="265"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:Value"
+        href="Value_id-d924747fbd424629b5a84d2a3f0052c7.xml#id-d924747fbd424629b5a84d2a3f0052c7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-efccdd75f58846238fecfb216f9860f1"
+      targetConnections="id-24038468a5af4cb191db9f2dd1a50935">
+    <features
+        name="labelExpression"
+        value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
+    <bounds
+        x="1572"
+        y="12"
+        width="265"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:Value"
+        href="Value_id-ed6deb7aae38412ca271ae412b230de8.xml#id-ed6deb7aae38412ca271ae412b230de8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-276be7ada53e444e9f424b308fbe57a5"
+      targetConnections="id-56c0803ca9e5435aac376f3733108c6a">
+    <features
+        name="labelExpression"
+        value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
+    <bounds
+        x="1896"
+        y="12"
+        width="265"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:Value"
+        href="Value_id-c124c21c7d204ea0b057d2566e88dd68.xml#id-c124c21c7d204ea0b057d2566e88dd68"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e6a35e77e7354449904b10d3d46e7115"
+      targetConnections="id-67acdf16825a4361bb76e138abf02f09">
+    <features
+        name="labelExpression"
+        value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
+    <bounds
+        x="2196"
+        y="12"
+        width="265"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:Value"
+        href="Value_id-6ba6fe7ee366498383a9e3d1c1c9d7e7.xml#id-6ba6fe7ee366498383a9e3d1c1c9d7e7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-bb4f0be6931f43cda8f30b258a7e0639"
+      targetConnections="id-0752c9047a4a487bb2f76aad1ddb83a0">
+    <features
+        name="labelExpression"
+        value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
+    <bounds
+        x="2472"
+        y="12"
+        width="265"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:Value"
+        href="Value_id-368fae867bfe4bba86adbf171f0a833d.xml#id-368fae867bfe4bba86adbf171f0a833d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d2d25a57759c46568057942f2701c4e4"
+      targetConnections="id-3609e82ef2924e4095cf325d0554ea72">
+    <features
+        name="labelExpression"
+        value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
+    <bounds
+        x="2748"
+        y="12"
+        width="265"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:Value"
+        href="Value_id-d1394ff85b1b450b8680e3fe4f4391d5.xml#id-d1394ff85b1b450b8680e3fe4f4391d5"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0fff3aa7263e4aa1891b4b18e901188d"
+      targetConnections="id-bae36d51ac0c4936841b5e8a4331e635">
+    <features
+        name="labelExpression"
+        value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
+    <bounds
+        x="3024"
+        y="12"
+        width="265"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:Value"
+        href="Value_id-95f4d1118782447eafba81932922239d.xml#id-95f4d1118782447eafba81932922239d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ad6b8beba17147ff9640254a69cf09ce"
+      targetConnections="id-f49b7a43421b425c94e7a216ab07be24">
+    <features
+        name="labelExpression"
+        value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
+    <bounds
+        x="3348"
+        y="12"
+        width="253"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:Value"
+        href="Value_id-c990ec752103489ebcb91d5992815326.xml#id-c990ec752103489ebcb91d5992815326"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1a41826893024b88a6e6d26595ee65ce"
+      targetConnections="id-a1cd405be7b5487796377d363ec81d62">
+    <features
+        name="labelExpression"
+        value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
+    <bounds
+        x="3660"
+        y="12"
+        width="253"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:Value"
+        href="Value_id-04176294d44149948f9ad69ea0dba9c6.xml#id-04176294d44149948f9ad69ea0dba9c6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3342a8027d454f78817d00d8d49533b5"
+      targetConnections="id-8bbccbb0abfe494bbd98f85b9fb1a109">
+    <features
+        name="labelExpression"
+        value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
+    <bounds
+        x="3972"
+        y="12"
+        width="253"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:Value"
+        href="Value_id-f1957b36885642149d71c57126269609.xml#id-f1957b36885642149d71c57126269609"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e41845a511d34789a0cc706c75b9394b"
+      targetConnections="id-1dcf9d540c4447dda42d1affb79083ef">
+    <features
+        name="labelExpression"
+        value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
+    <bounds
+        x="4284"
+        y="12"
+        width="265"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:Value"
+        href="Value_id-8ece99b5dff146afb3f9bfc4c154016d.xml#id-8ece99b5dff146afb3f9bfc4c154016d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ff40799c81b74aaf8ce52d51baa900b9"
+      targetConnections="id-dbedc1585b5d4e44a4acb5cfd49625c5">
+    <features
+        name="labelExpression"
+        value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
+    <bounds
+        x="4560"
+        y="12"
+        width="265"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:Value"
+        href="Value_id-884d7a2377b8459d8a2bb0531110e5f7.xml#id-884d7a2377b8459d8a2bb0531110e5f7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b2b67731adb144938a07fb83dcdec420"
+      targetConnections="id-e5a47d4f3f98472c8facda70aec69f91">
+    <features
+        name="labelExpression"
+        value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
+    <bounds
+        x="4860"
+        y="12"
+        width="265"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:Value"
+        href="Value_id-7b4f02a18a7343b0a0d4cb5a144dfd1d.xml#id-7b4f02a18a7343b0a0d4cb5a144dfd1d"/>
   </children>
 </archimate:ArchimateDiagramModel>
