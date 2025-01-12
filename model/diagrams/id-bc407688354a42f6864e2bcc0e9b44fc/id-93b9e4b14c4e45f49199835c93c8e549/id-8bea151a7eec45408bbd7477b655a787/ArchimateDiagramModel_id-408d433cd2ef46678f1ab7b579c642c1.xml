@@ -197,11 +197,40 @@
               xsi:type="archimate:ServingRelationship"
               href="ServingRelationship_id-97242dcafd3845e8afcf43bf77c9f2c1.xml#id-97242dcafd3845e8afcf43bf77c9f2c1"/>
         </sourceConnections>
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="id-c1e2a48bcfa74f9e9167eeb48784dcca"
+            source="id-8b10eeb6c1344258b6006d4bb5509d74"
+            target="id-6b2d03607e614e92bc0372d477b39944">
+          <archimateRelationship
+              xsi:type="archimate:AccessRelationship"
+              href="AccessRelationship_id-07e886cd22b44379a87cd80594e3fb3d.xml#id-07e886cd22b44379a87cd80594e3fb3d"/>
+        </sourceConnections>
         <bounds
             x="12"
             y="48"
             width="265"
             height="85"/>
+        <children
+            xsi:type="archimate:DiagramModelArchimateObject"
+            id="id-6b2d03607e614e92bc0372d477b39944"
+            targetConnections="id-c1e2a48bcfa74f9e9167eeb48784dcca"
+            fillColor="#e5f1d7">
+          <features
+              name="iconVisible"
+              value="2"/>
+          <features
+              name="labelExpression"
+              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+          <bounds
+              x="12"
+              y="48"
+              width="241"
+              height="25"/>
+          <archimateElement
+              xsi:type="archimate:BusinessObject"
+              href="BusinessObject_id-27b9ed3707564206939d0aba30e7fb44.xml#id-27b9ed3707564206939d0aba30e7fb44"/>
+        </children>
         <archimateElement
             xsi:type="archimate:BusinessFunction"
             href="BusinessFunction_id-59de618dd1ec4fb6b7a2bad6cac7c807.xml#id-59de618dd1ec4fb6b7a2bad6cac7c807"/>
@@ -1277,17 +1306,5 @@
     <archimateElement
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-718173.xml#id-718173"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-dc1ca42994ad4944b23825e0e195f433"
-      textAlignment="1"
-      fillColor="#ff8080"
-      content="Business object nog toevoegen">
-    <bounds
-        x="1356"
-        y="600"
-        width="185"
-        height="49"/>
   </children>
 </archimate:ArchimateDiagramModel>

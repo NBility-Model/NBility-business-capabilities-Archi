@@ -71,6 +71,9 @@
       <features
           name="labelExpression"
           value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+      <features
+          name="iconVisible"
+          value="2"/>
       <bounds
           x="12"
           y="48"
@@ -87,6 +90,9 @@
       <features
           name="labelExpression"
           value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+      <features
+          name="iconVisible"
+          value="2"/>
       <bounds
           x="168"
           y="48"
@@ -103,6 +109,9 @@
       <features
           name="labelExpression"
           value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+      <features
+          name="iconVisible"
+          value="2"/>
       <bounds
           x="324"
           y="48"
@@ -119,6 +128,9 @@
       <features
           name="labelExpression"
           value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+      <features
+          name="iconVisible"
+          value="2"/>
       <bounds
           x="480"
           y="48"
@@ -135,6 +147,9 @@
       <features
           name="labelExpression"
           value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+      <features
+          name="iconVisible"
+          value="2"/>
       <bounds
           x="636"
           y="48"
