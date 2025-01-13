@@ -1,14 +1,14 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Uitvoeren netaanpassingwerkzaamheden"
-    id="id-2cbe9677b80a4ff28e98beeddbaaaa1e">
+    name="Oplossen onderbreking door bedienen energienet"
+    id="id-282ace5b15cd4ec5a613fb1f0ecfc738">
   <properties
       key="Level"
-      value="1"/>
+      value="3"/>
   <properties
       key="Code"
-      value="P.C.3.1"/>
+      value="P.D2.3.1.5"/>
   <properties
       key="Name (en)"
-      value="Perform netwerk adjustment work"/>
+      value="Solve outage by grid operation"/>
 </archimate:BusinessProcess>
