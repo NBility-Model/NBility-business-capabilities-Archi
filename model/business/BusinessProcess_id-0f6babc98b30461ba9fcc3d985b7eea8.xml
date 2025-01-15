@@ -1,14 +1,14 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Afhandelen inzet regelbaar vermogen"
-    id="id-a5160a78a9cb47bf890e8553bd7f4d75">
+    name="Prekwalificeren aansluiting voor regelbaar vermogen"
+    id="id-0f6babc98b30461ba9fcc3d985b7eea8">
   <properties
       key="Level"
-      value="2"/>
+      value="3"/>
   <properties
       key="Code"
-      value="P.E.3.2"/>
+      value="P.E.3.1.2"/>
   <properties
       key="Name (en)"
-      value="Handle use of adjustable power"/>
+      value="Prequalify connection for adjustable power"/>
 </archimate:BusinessProcess>

@@ -1,6 +1,6 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bekend maken congestiegebied"
+    name="Voorbereiden inzet regelbaar vermogen"
     id="id-ecebf67d8ec04aefb71d2b2d02e20dfe">
   <properties
       key="Level"
@@ -10,5 +10,5 @@
       value="P.E.3.1"/>
   <properties
       key="Name (en)"
-      value="Publicize congestion area"/>
+      value="Prepare use of adjustable power"/>
 </archimate:BusinessProcess>
