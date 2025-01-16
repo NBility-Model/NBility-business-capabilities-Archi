@@ -1,8 +1,8 @@
 <archimate:Stakeholder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Marktpartijen"
+    name="Marktpartij"
     id="id-837f6335e63f46a9922dc73d6fc7a3e2">
   <properties
       key="Name (en)"
-      value="Marketparties"/>
+      value="Marketparty"/>
 </archimate:Stakeholder>

@@ -5,7 +5,7 @@
     documentation="Het vermogen om toestemming tot toegang tot (markt) data te beheren. De toestemming wordt gebruikt bij het delen van data waarvoor toegang is vereist. Dit zijn onder meer de toestemmingen van klanten. Dit betreft een GUE verantwoordelijkheid.">
   <properties
       key="Code"
-      value="C.6.4.3"/>
+      value="C.6.4.2"/>
   <properties
       key="Level"
       value="3"/>

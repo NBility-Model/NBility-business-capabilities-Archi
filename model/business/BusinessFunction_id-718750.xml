@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Melding/vraag/verzoek van klanten behandelen"
     id="id-718750"
-    documentation="Het vermogen om meldingen, vragen en verzoeken van klanten in behandeling te nemen en naar tevredenheid af te handelen.">
+    documentation="Het vermogen om meldingen, vragen en verzoeken van klanten in behandeling te nemen en naar tevredenheid af te handelen. Hieronder valt tevens het proces van interesse bij de klant tot aanvraag, aangezien dit hele traject klant specifiek is.">
   <properties
       key="Code"
       value="C.1.1.2"/>
@@ -14,5 +14,5 @@
       value="Handle customer report/question/request"/>
   <properties
       key="Documentation (en)"
-      value="The ability to handle and satisfactorily solve customer reports, questions and requests."/>
+      value="The ability to handle and satisfactorily solve customer reports, questions and requests. This also includes the process from customer interest to request, as this entire process is customer specific."/>
 </archimate:BusinessFunction>

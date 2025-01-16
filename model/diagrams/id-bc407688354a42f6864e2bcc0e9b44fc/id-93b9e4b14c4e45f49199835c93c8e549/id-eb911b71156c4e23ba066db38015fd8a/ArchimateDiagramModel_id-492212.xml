@@ -537,20 +537,11 @@
             xsi:type="archimate:CompositionRelationship"
             href="CompositionRelationship_id-c97ffa9287be4f85a94cdeb5d10b456d.xml#id-c97ffa9287be4f85a94cdeb5d10b456d"/>
       </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-2e8738a956df43e490ab6ebceb34afa6"
-          source="id-9411b255f2314e3db8db1c81af490793"
-          target="id-5da4426585674942830a47ec93d2557a">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_id-64932b7d6b7f4168b724320d0c5b4427.xml#id-64932b7d6b7f4168b724320d0c5b4427"/>
-      </sourceConnections>
       <bounds
           x="12"
           y="900"
           width="181"
-          height="217"/>
+          height="157"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-bf5f7eb0381d4a27a7c470b5966841c1"
@@ -567,7 +558,7 @@
             value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
         <bounds
             x="12"
-            y="156"
+            y="96"
             width="156"
             height="48"/>
         <archimateElement
@@ -596,29 +587,6 @@
         <archimateElement
             xsi:type="archimate:BusinessObject"
             href="BusinessObject_id-72c5c85ed0bf43cda502df207414640c.xml#id-72c5c85ed0bf43cda502df207414640c"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-5da4426585674942830a47ec93d2557a"
-          targetConnections="id-2e8738a956df43e490ab6ebceb34afa6"
-          fontColor="#000000"
-          lineColor="#000000"
-          fillColor="#ffcc99"
-          textPosition="1">
-        <features
-            name="iconVisible"
-            value="2"/>
-        <features
-            name="labelExpression"
-            value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
-        <bounds
-            x="12"
-            y="96"
-            width="156"
-            height="48"/>
-        <archimateElement
-            xsi:type="archimate:BusinessObject"
-            href="BusinessObject_id-077b3d93616b4024b47f5c2bc2d45c3d.xml#id-077b3d93616b4024b47f5c2bc2d45c3d"/>
       </children>
       <archimateElement
           xsi:type="archimate:BusinessObject"
