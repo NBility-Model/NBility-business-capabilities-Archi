@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="L2 value stream (-steps) P.H"
+    name="L2 value stream (stages) P.H"
     id="id-0ad7d9600cb3455181ff0d65a9373ef6">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -337,7 +337,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-0acbc4a85ab04df5af14c98da205d9a9"
-          targetConnections="id-c46030b8e3a54d348c9292883606e6dd id-8f90c64f90ce4b728dccd50263ef341d">
+          targetConnections="id-c46030b8e3a54d348c9292883606e6dd id-8f90c64f90ce4b728dccd50263ef341d"
+          textPosition="1">
         <features
             name="labelExpression"
             value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -356,7 +357,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-47e1cfa44374461198338eeb08204ecc"
-          targetConnections="id-5bf5e02dce474ef2b042703f3b40f428 id-2794cb9b25e24c708d11a388a2a5589b">
+          targetConnections="id-5bf5e02dce474ef2b042703f3b40f428 id-2794cb9b25e24c708d11a388a2a5589b"
+          textPosition="1">
         <features
             name="labelExpression"
             value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -403,7 +405,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-b3ce6c2f68eb42448feb088ec9caa470"
-          targetConnections="id-10fd789323a64fc585919b478908bfc0 id-27d0710901b04d3f9a55942c54232a33">
+          targetConnections="id-10fd789323a64fc585919b478908bfc0 id-27d0710901b04d3f9a55942c54232a33"
+          textPosition="1">
         <features
             name="labelExpression"
             value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -450,7 +453,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-796cdf6833fd4ae1b86a86ed39b0a715"
-          targetConnections="id-46e38815e216498e9eee1a741fb487ab id-1ffa26ae88dd43d3aaa4a198e6952d2e">
+          targetConnections="id-46e38815e216498e9eee1a741fb487ab id-1ffa26ae88dd43d3aaa4a198e6952d2e"
+          textPosition="1">
         <features
             name="labelExpression"
             value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="N1 waardestroom(-stappen) P.E"
+    name="N1 waardestroom(stappen) P.E"
     id="id-4482ab72040947c3bc4194f7194adbb9">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -67,7 +67,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-411f518f57de4474b8a0acc64800189b"
-        targetConnections="id-a03bec18feb14d7089f5c44712cbaceb id-81d23dc4c0f04496834c42be14ed89c5">
+        targetConnections="id-a03bec18feb14d7089f5c44712cbaceb id-81d23dc4c0f04496834c42be14ed89c5"
+        textPosition="1">
       <features
           name="labelExpression"
           value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -78,7 +79,7 @@
           x="12"
           y="48"
           width="145"
-          height="76"/>
+          height="72"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-0c5d7c53cbe845daa9df31d1a5a55eb2.xml#id-0c5d7c53cbe845daa9df31d1a5a55eb2"/>
@@ -86,7 +87,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-8e8c73366f5b4c92932dfc8578ccfc0e"
-        targetConnections="id-185f2f355ef94ea68ed188d33d901fab id-4a5995d07e684ee7a98bdaf5ee94bae4">
+        targetConnections="id-185f2f355ef94ea68ed188d33d901fab id-4a5995d07e684ee7a98bdaf5ee94bae4"
+        textPosition="1">
       <features
           name="labelExpression"
           value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -97,7 +99,7 @@
           x="168"
           y="48"
           width="145"
-          height="76"/>
+          height="72"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-2008f8e028124246a16468b79ab8d298.xml#id-2008f8e028124246a16468b79ab8d298"/>
@@ -105,7 +107,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-c116618f2d8e479fa7668cca2b414780"
-        targetConnections="id-11a48c01a7cb4f49a41f1b2fbdfc0dfe id-1d35beb0cc3441c599b96add658f5d53">
+        targetConnections="id-11a48c01a7cb4f49a41f1b2fbdfc0dfe id-1d35beb0cc3441c599b96add658f5d53"
+        textPosition="1">
       <features
           name="labelExpression"
           value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -116,7 +119,7 @@
           x="324"
           y="48"
           width="145"
-          height="76"/>
+          height="72"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-bd41e33fa9074c179c36bd1618686f8a.xml#id-bd41e33fa9074c179c36bd1618686f8a"/>
@@ -124,7 +127,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-1fb2f26193ab43b0a0d2ae3cf10415b2"
-        targetConnections="id-509fb4940afd4b60971a243af8169df9 id-58eb0dfc1e8b466f9d32f659bf8c3772">
+        targetConnections="id-509fb4940afd4b60971a243af8169df9 id-58eb0dfc1e8b466f9d32f659bf8c3772"
+        textPosition="1">
       <features
           name="labelExpression"
           value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -135,7 +139,7 @@
           x="480"
           y="48"
           width="145"
-          height="76"/>
+          height="72"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-00f8f623948b414482d76d260ad17e71.xml#id-00f8f623948b414482d76d260ad17e71"/>
@@ -143,7 +147,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-313542e8db2d4031b5cd9b9afbe23ae6"
-        targetConnections="id-1ea88950f4a645c8b78f4faa8d647f71 id-3a289d1124f146bd817985c6e20d3550">
+        targetConnections="id-1ea88950f4a645c8b78f4faa8d647f71 id-3a289d1124f146bd817985c6e20d3550"
+        textPosition="1">
       <features
           name="labelExpression"
           value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -154,7 +159,7 @@
           x="636"
           y="48"
           width="145"
-          height="73"/>
+          height="69"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-31f2b2db48fb4356b1769a746840f5c7.xml#id-31f2b2db48fb4356b1769a746840f5c7"/>

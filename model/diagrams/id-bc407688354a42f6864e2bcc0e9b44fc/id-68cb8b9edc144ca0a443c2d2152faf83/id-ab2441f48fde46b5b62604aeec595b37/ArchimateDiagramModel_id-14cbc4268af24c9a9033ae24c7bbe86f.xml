@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="N1 waardestroom(-stappen) P.H"
+    name="N1 waardestroom(stappen) P.H"
     id="id-14cbc4268af24c9a9033ae24c7bbe86f">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -40,7 +40,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-b2f56486e7504569aab0f561e5039666"
-        targetConnections="id-5e25ec020f1e47189ceaf5749d41fa51 id-fbe1a56f50894c6590cc5725f6e515cf">
+        targetConnections="id-5e25ec020f1e47189ceaf5749d41fa51 id-fbe1a56f50894c6590cc5725f6e515cf"
+        textPosition="1">
       <features
           name="labelExpression"
           value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -59,7 +60,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-2c7eceec24134a21b5adba2d088698fe"
-        targetConnections="id-27296a0b72784f74b8743a9433f12d3e id-bd7dea2bc24342ca8e729e51da945154">
+        targetConnections="id-27296a0b72784f74b8743a9433f12d3e id-bd7dea2bc24342ca8e729e51da945154"
+        textPosition="1">
       <features
           name="labelExpression"
           value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>

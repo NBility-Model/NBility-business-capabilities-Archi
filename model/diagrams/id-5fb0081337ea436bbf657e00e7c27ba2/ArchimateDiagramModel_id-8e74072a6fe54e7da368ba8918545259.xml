@@ -94,7 +94,7 @@
           href="AggregationRelationship_id-b46838dd9bdb423a921e09e3721f273a.xml#id-b46838dd9bdb423a921e09e3721f273a"/>
     </sourceConnections>
     <bounds
-        x="216"
+        x="228"
         y="12"
         width="445"
         height="469"/>
@@ -364,7 +364,7 @@
           href="AggregationRelationship_id-274b43a8b330426ea2b6ebbd5c17d3ad.xml#id-274b43a8b330426ea2b6ebbd5c17d3ad"/>
     </sourceConnections>
     <bounds
-        x="216"
+        x="228"
         y="492"
         width="445"
         height="373"/>
@@ -521,11 +521,16 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-eb2caa8d9e35436e9421e7b1ddeef103">
+      id="id-eb2caa8d9e35436e9421e7b1ddeef103"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
     <bounds
+        x="12"
         y="96"
         width="192"
         height="37"/>
@@ -535,11 +540,16 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-77014d944b444d09873707b754162bd4">
+      id="id-77014d944b444d09873707b754162bd4"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
     <bounds
+        x="12"
         y="144"
         width="192"
         height="37"/>
@@ -549,11 +559,16 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-da374dd88a6944afa4bd8c83d1ae4ee3">
+      id="id-da374dd88a6944afa4bd8c83d1ae4ee3"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
     <bounds
+        x="12"
         y="288"
         width="192"
         height="35"/>
@@ -563,11 +578,16 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-9c9cd6e7a7694f50b739f3b3aee6477b">
+      id="id-9c9cd6e7a7694f50b739f3b3aee6477b"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
     <bounds
+        x="12"
         y="384"
         width="192"
         height="35"/>
@@ -577,11 +597,16 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-1b35e629101e4656b3e5b11e55fd049f">
+      id="id-1b35e629101e4656b3e5b11e55fd049f"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
     <bounds
+        x="12"
         y="432"
         width="192"
         height="37"/>
@@ -591,11 +616,16 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-4809adc9a7cb46b383475bf078f8b6f0">
+      id="id-4809adc9a7cb46b383475bf078f8b6f0"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
     <bounds
+        x="12"
         y="48"
         width="192"
         height="37"/>
@@ -605,11 +635,16 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-ed6c5d0676744df6b43db89ce1967cc1">
+      id="id-ed6c5d0676744df6b43db89ce1967cc1"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
     <bounds
+        x="12"
         y="336"
         width="192"
         height="37"/>
@@ -619,11 +654,16 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-0c97c9a2c1f1433ba5ad3a1f5c187e5c">
+      id="id-0c97c9a2c1f1433ba5ad3a1f5c187e5c"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
     <bounds
+        x="12"
         y="240"
         width="192"
         height="37"/>
@@ -633,11 +673,16 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-5873c52fa5754db7b35d7c1d8d9b293e">
+      id="id-5873c52fa5754db7b35d7c1d8d9b293e"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
     <bounds
+        x="12"
         y="192"
         width="192"
         height="37"/>
@@ -647,7 +692,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-948a7fa09cbd491b96202820a3d8e6c9">
+      id="id-948a7fa09cbd491b96202820a3d8e6c9"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -655,7 +701,7 @@
         name="iconVisible"
         value="2"/>
     <bounds
-        x="684"
+        x="696"
         y="288"
         width="288"
         height="37"/>
@@ -665,7 +711,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-2c10eb22b1a64b5b91aeeb6dffc55d8c">
+      id="id-2c10eb22b1a64b5b91aeeb6dffc55d8c"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -673,7 +720,7 @@
         name="iconVisible"
         value="2"/>
     <bounds
-        x="684"
+        x="696"
         y="336"
         width="288"
         height="37"/>
@@ -683,7 +730,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-f4385377abf74e5c91720779341a99e7">
+      id="id-f4385377abf74e5c91720779341a99e7"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -691,7 +739,7 @@
         name="iconVisible"
         value="2"/>
     <bounds
-        x="684"
+        x="696"
         y="432"
         width="288"
         height="37"/>
@@ -701,7 +749,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-eafb6d91dc724338a91e4d0cbe2cf78a">
+      id="id-eafb6d91dc724338a91e4d0cbe2cf78a"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -709,7 +758,7 @@
         name="iconVisible"
         value="2"/>
     <bounds
-        x="684"
+        x="696"
         y="240"
         width="288"
         height="37"/>
@@ -719,7 +768,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-6fa8806da7004d02b893a8166a222c9d">
+      id="id-6fa8806da7004d02b893a8166a222c9d"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -727,7 +777,7 @@
         name="iconVisible"
         value="2"/>
     <bounds
-        x="684"
+        x="696"
         y="48"
         width="288"
         height="37"/>
@@ -737,7 +787,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-249263bea51445819e214b931bd3b50a">
+      id="id-249263bea51445819e214b931bd3b50a"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -745,7 +796,7 @@
         name="iconVisible"
         value="2"/>
     <bounds
-        x="684"
+        x="696"
         y="192"
         width="288"
         height="37"/>
@@ -755,7 +806,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-55f185859ba04b3daf2b0041de548c83">
+      id="id-55f185859ba04b3daf2b0041de548c83"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -763,7 +815,7 @@
         name="iconVisible"
         value="2"/>
     <bounds
-        x="684"
+        x="696"
         y="144"
         width="288"
         height="37"/>
@@ -773,7 +825,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-2ec278abc4224d36a2d89eafe64f4271">
+      id="id-2ec278abc4224d36a2d89eafe64f4271"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -781,7 +834,7 @@
         name="iconVisible"
         value="2"/>
     <bounds
-        x="684"
+        x="696"
         y="96"
         width="288"
         height="37"/>
@@ -791,7 +844,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-1d7ca1d3e6664312b1b5253216b71389">
+      id="id-1d7ca1d3e6664312b1b5253216b71389"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -799,7 +853,7 @@
         name="iconVisible"
         value="2"/>
     <bounds
-        x="684"
+        x="696"
         y="384"
         width="288"
         height="37"/>
@@ -809,12 +863,16 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-c40bac7912324381b267687a7830e41a">
+      id="id-c40bac7912324381b267687a7830e41a"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
     <bounds
-        x="996"
+        x="1008"
         y="48"
         width="192"
         height="37"/>
@@ -824,12 +882,16 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-aa87280ac8514c21bf5a757cdb08ccf7">
+      id="id-aa87280ac8514c21bf5a757cdb08ccf7"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
     <bounds
-        x="996"
+        x="1008"
         y="96"
         width="192"
         height="37"/>
@@ -839,12 +901,16 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-854477dafb5d4b49a7fd4d958a8d18a4">
+      id="id-854477dafb5d4b49a7fd4d958a8d18a4"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
     <bounds
-        x="996"
+        x="1008"
         y="144"
         width="192"
         height="37"/>
@@ -854,12 +920,16 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-d22ebff084dc4273ba11fd28e92815b0">
+      id="id-d22ebff084dc4273ba11fd28e92815b0"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
     <bounds
-        x="996"
+        x="1008"
         y="192"
         width="192"
         height="37"/>
@@ -869,12 +939,16 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-4932c9009f26499986274daf037486b5">
+      id="id-4932c9009f26499986274daf037486b5"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
     <bounds
-        x="996"
+        x="1008"
         y="240"
         width="192"
         height="37"/>
@@ -884,12 +958,16 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-87dd44a589bb436f8ec4762e69e7bec8">
+      id="id-87dd44a589bb436f8ec4762e69e7bec8"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
     <bounds
-        x="996"
+        x="1008"
         y="288"
         width="192"
         height="35"/>
@@ -899,12 +977,16 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-d8890ae3fc384d2b80f794fbf7729d30">
+      id="id-d8890ae3fc384d2b80f794fbf7729d30"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
     <bounds
-        x="996"
+        x="1008"
         y="336"
         width="192"
         height="37"/>
@@ -914,12 +996,16 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-3b9a16d4292245f48b02e77a3724150a">
+      id="id-3b9a16d4292245f48b02e77a3724150a"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
     <bounds
-        x="996"
+        x="1008"
         y="384"
         width="192"
         height="37"/>
@@ -929,12 +1015,16 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-1a7214de85874895b7d0e436eed91bf8">
+      id="id-1a7214de85874895b7d0e436eed91bf8"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <features
+        name="iconVisible"
+        value="2"/>
     <bounds
-        x="996"
+        x="1008"
         y="432"
         width="192"
         height="37"/>

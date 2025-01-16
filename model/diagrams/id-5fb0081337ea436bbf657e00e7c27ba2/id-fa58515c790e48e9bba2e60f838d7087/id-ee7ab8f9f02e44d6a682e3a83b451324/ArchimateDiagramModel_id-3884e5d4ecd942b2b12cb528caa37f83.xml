@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="L2 value stream (-steps) P.B"
+    name="L2 value stream (stages) P.B"
     id="id-3884e5d4ecd942b2b12cb528caa37f83">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -537,7 +537,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-a24468b8558c40d2acb0d1c1422ae613"
-          targetConnections="id-d7ade7d9ff5e49f6ad6147d8830d839c id-ec154ee4927b4442b98ce06163240c32">
+          targetConnections="id-d7ade7d9ff5e49f6ad6147d8830d839c id-ec154ee4927b4442b98ce06163240c32"
+          textPosition="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -556,7 +557,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-6c9f63bea3e8429c9200582098db4946"
-          targetConnections="id-440b549d42c0407d95254c15d09f170c id-40be5ffb6690448c9d6cecd36fac5e5d">
+          targetConnections="id-440b549d42c0407d95254c15d09f170c id-40be5ffb6690448c9d6cecd36fac5e5d"
+          textPosition="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -603,7 +605,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-b7eba96750f14d1f801aa1265d5821c4"
-          targetConnections="id-1e72addc00ba41bc8b9543f3956763c6 id-3e310f3f274043daa5143ba7b8a0f09f">
+          targetConnections="id-1e72addc00ba41bc8b9543f3956763c6 id-3e310f3f274043daa5143ba7b8a0f09f"
+          textPosition="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -650,7 +653,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-296a0eae521642ef9caeb34e70eeedd9"
-          targetConnections="id-56ecc8864fe640748779e0135a8cde52 id-a0a8b7c8cd174072b06368797c87098c">
+          targetConnections="id-56ecc8864fe640748779e0135a8cde52 id-a0a8b7c8cd174072b06368797c87098c"
+          textPosition="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -697,7 +701,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-7c998910dbe54169bf5eaf7fd1d69b44"
-          targetConnections="id-27bdafdc362848738f165a87dd7e0ed9 id-cda28c9ff4c145f7bcee547d526026f1">
+          targetConnections="id-27bdafdc362848738f165a87dd7e0ed9 id-cda28c9ff4c145f7bcee547d526026f1"
+          textPosition="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -744,7 +749,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-feb1530c84904b50b709661503c1a872"
-          targetConnections="id-d57f8ab3c4e8462fbe2ec5600e3657d4 id-e7f5a68dd4194bc88ca70dd63b0c12c0">
+          targetConnections="id-d57f8ab3c4e8462fbe2ec5600e3657d4 id-e7f5a68dd4194bc88ca70dd63b0c12c0"
+          textPosition="1">
         <features
             name="iconVisible"
             value="2"/>

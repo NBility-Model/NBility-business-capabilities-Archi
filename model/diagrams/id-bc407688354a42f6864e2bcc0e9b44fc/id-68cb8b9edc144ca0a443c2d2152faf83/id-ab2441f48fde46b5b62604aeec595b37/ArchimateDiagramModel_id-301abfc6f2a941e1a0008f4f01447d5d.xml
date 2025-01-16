@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="N1 waardestroom(-stappen) P.B"
+    name="N1 waardestroom(stappen) P.B"
     id="id-301abfc6f2a941e1a0008f4f01447d5d">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -58,7 +58,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-1826d1b7abef4aee965a362fe059500e"
-        targetConnections="id-dcce0615ca3144f8ae6812ed440dd712 id-7309aa72e84b4493826515662b76c462">
+        targetConnections="id-dcce0615ca3144f8ae6812ed440dd712 id-7309aa72e84b4493826515662b76c462"
+        textPosition="1">
       <features
           name="labelExpression"
           value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -77,7 +78,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-19130d3dbe384f1c9b05ddc3cddd1246"
-        targetConnections="id-53e626a668514e05aac9af1dfb89144c id-d0bd9c3afbc84412a624a8cd868d850f">
+        targetConnections="id-53e626a668514e05aac9af1dfb89144c id-d0bd9c3afbc84412a624a8cd868d850f"
+        textPosition="1">
       <features
           name="labelExpression"
           value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -96,7 +98,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-9c1f12cdc3af4beab5afefaa5832951a"
-        targetConnections="id-470da000b8a543c28dd4057283775dc3 id-93e8734b10e34136b4ca29410848d18d">
+        targetConnections="id-470da000b8a543c28dd4057283775dc3 id-93e8734b10e34136b4ca29410848d18d"
+        textPosition="1">
       <features
           name="labelExpression"
           value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -115,7 +118,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-f25c727e769f420b97374df5773b60e3"
-        targetConnections="id-eb02535d64194e4bba083b40cfb7984c id-6b9bd39412414b2baeb3cca006a02ea4">
+        targetConnections="id-eb02535d64194e4bba083b40cfb7984c id-6b9bd39412414b2baeb3cca006a02ea4"
+        textPosition="1">
       <features
           name="labelExpression"
           value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>

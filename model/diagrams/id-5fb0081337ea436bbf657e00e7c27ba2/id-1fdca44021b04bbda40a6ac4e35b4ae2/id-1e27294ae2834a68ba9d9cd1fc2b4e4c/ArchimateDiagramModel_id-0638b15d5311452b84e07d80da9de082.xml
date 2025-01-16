@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="L1 value stream (-steps) P.G"
+    name="L1 value stream (stages) P.G"
     id="id-0638b15d5311452b84e07d80da9de082">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -49,7 +49,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-d4581964e90e42aeb075b8b7a08d72c3"
-        targetConnections="id-109dc2a2616449adaa380cd3d3130fe3 id-a31f4b62ee074f02a28935f4214a96db">
+        targetConnections="id-109dc2a2616449adaa380cd3d3130fe3 id-a31f4b62ee074f02a28935f4214a96db"
+        textPosition="1">
       <features
           name="labelExpression"
           value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -68,7 +69,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-73bcecfb1ebe4904bdc1a8b1711a9ee9"
-        targetConnections="id-fb131efd0d214d468f48945720e78a64 id-4a7983e584204d318d646346c77f44f3">
+        targetConnections="id-fb131efd0d214d468f48945720e78a64 id-4a7983e584204d318d646346c77f44f3"
+        textPosition="1">
       <features
           name="labelExpression"
           value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -87,7 +89,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-ba570c881ee44d46855780b9fd5df9b7"
-        targetConnections="id-700ab6033bcd43c08dbcb0733bf41ab5 id-d3f562b32b424f25ae0f6122113510e1">
+        targetConnections="id-700ab6033bcd43c08dbcb0733bf41ab5 id-d3f562b32b424f25ae0f6122113510e1"
+        textPosition="1">
       <features
           name="labelExpression"
           value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -138,9 +141,9 @@
     </sourceConnections>
     <bounds
         x="180"
-        y="192"
+        y="191"
         width="145"
-        height="111"/>
+        height="110"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0da2d60f9d2b48988ce052eff65c0bd8"
@@ -198,9 +201,9 @@
     </sourceConnections>
     <bounds
         x="24"
-        y="193"
+        y="192"
         width="145"
-        height="110"/>
+        height="109"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-b7e9d9a21a4a49469b9cf022331b58d9"
@@ -258,9 +261,9 @@
     </sourceConnections>
     <bounds
         x="336"
-        y="193"
+        y="192"
         width="145"
-        height="109"/>
+        height="108"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-378a0da01e074dbaa8bb1e0d52cb3224"

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="N3 waardestroom(-stappen) P.H"
+    name="N3 waardestroom(stappen) P.H"
     id="id-bba4659f308f4dc5aa13716a3d6e975b">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -636,7 +636,8 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-f68715224da348a0b2fd43aa81da8960"
-            targetConnections="id-5ab001a983da42c6a75238f83c9ba6f5 id-9e1c73dc6f1642aa9cb63cfc7caa0f28">
+            targetConnections="id-5ab001a983da42c6a75238f83c9ba6f5 id-9e1c73dc6f1642aa9cb63cfc7caa0f28"
+            textPosition="1">
           <features
               name="labelExpression"
               value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -664,7 +665,8 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-0d30bc426670409288b3ce4da1a30e93"
-            targetConnections="id-222a310cc87f436e90478c78a41923e0 id-0e63514d987644fb9e12c30d105a8d46">
+            targetConnections="id-222a310cc87f436e90478c78a41923e0 id-0e63514d987644fb9e12c30d105a8d46"
+            textPosition="1">
           <features
               name="labelExpression"
               value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -729,7 +731,8 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-39ec97c0290c416eb25f2b8aeda0550c"
-            targetConnections="id-4ab34cf07ff1469d8b34d287e8826f14 id-e14160ccba284114bc4bfa4edb8a0861">
+            targetConnections="id-4ab34cf07ff1469d8b34d287e8826f14 id-e14160ccba284114bc4bfa4edb8a0861"
+            textPosition="1">
           <features
               name="labelExpression"
               value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -757,7 +760,8 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-196e95e5c551417a98140ac074495215"
-            targetConnections="id-b4071db511ce484b9994a1ab9967cc33 id-19cfaa63d4f946be83025ab6fc159bc8">
+            targetConnections="id-b4071db511ce484b9994a1ab9967cc33 id-19cfaa63d4f946be83025ab6fc159bc8"
+            textPosition="1">
           <features
               name="labelExpression"
               value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -841,7 +845,8 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-4a97480e28af45849537db615d26585e"
-            targetConnections="id-91b346daac7040eebbe8f38b5c74b34c id-6b1e8c7eeae044f294c470fe66527c63">
+            targetConnections="id-91b346daac7040eebbe8f38b5c74b34c id-6b1e8c7eeae044f294c470fe66527c63"
+            textPosition="1">
           <features
               name="labelExpression"
               value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -943,7 +948,8 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-74f2b7bad96346a6bf7962bc96c76d02"
-            targetConnections="id-0d43993088c44d14852108ae99697f8d id-5b0431ef54474e1bb1387cbd1cb897ed">
+            targetConnections="id-0d43993088c44d14852108ae99697f8d id-5b0431ef54474e1bb1387cbd1cb897ed"
+            textPosition="1">
           <features
               name="labelExpression"
               value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -971,7 +977,8 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-96a1eb5bd6874b68b9cde99e9fadca44"
-            targetConnections="id-1ff9caf42d814a618accbd3fa088168a id-724b500926a04925abe0b834f8616463">
+            targetConnections="id-1ff9caf42d814a618accbd3fa088168a id-724b500926a04925abe0b834f8616463"
+            textPosition="1">
           <features
               name="labelExpression"
               value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -1027,7 +1034,8 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-752974ecdd8a405980afc703a14d1c8b"
-            targetConnections="id-d83291ba077247fa82befb727ecaa50b id-adf926ff0d05466894514da58c103da9">
+            targetConnections="id-d83291ba077247fa82befb727ecaa50b id-adf926ff0d05466894514da58c103da9"
+            textPosition="1">
           <features
               name="labelExpression"
               value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -1357,7 +1365,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-739013188ae74dd5affeb29890953aba"
-      targetConnections="id-b19c020f60e9437cb657979a88cdf8a1">
+      targetConnections="id-b19c020f60e9437cb657979a88cdf8a1"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -1376,7 +1385,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-34f781a2521f4a75b41e4625e7ab2fce"
-      targetConnections="id-a69ecde43fb8484f95dfb5963e300bbd">
+      targetConnections="id-a69ecde43fb8484f95dfb5963e300bbd"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -1395,7 +1405,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-73046460b65c423d801bad5c50122ce3"
-      targetConnections="id-2b015bfc9e3c4542a272c06857298937">
+      targetConnections="id-2b015bfc9e3c4542a272c06857298937"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -1414,7 +1425,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7e7bef04bad244c48a534fe636c9d951"
-      targetConnections="id-765eb9c6dcdc47fab4b283db64336869">
+      targetConnections="id-765eb9c6dcdc47fab4b283db64336869"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -1433,7 +1445,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a4f7112040994faa9485a0665754481b"
-      targetConnections="id-f2788e80d0204866887269fb51df15e1">
+      targetConnections="id-f2788e80d0204866887269fb51df15e1"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -1452,7 +1465,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-73337c4f790745a78e1e6f58abf5d02f"
-      targetConnections="id-c2ca7761cbc441e58c9541d792380f74">
+      targetConnections="id-c2ca7761cbc441e58c9541d792380f74"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -1471,7 +1485,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-36c9ea9e71df44a59db61e481d05db34"
-      targetConnections="id-08838b0eeeee4e6c89e524b78204cc4e">
+      targetConnections="id-08838b0eeeee4e6c89e524b78204cc4e"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -1490,7 +1505,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8dec4b6aeb284466b8dff0927488e152"
-      targetConnections="id-55ea4ea7bb934d8bb1c0e592b5d00824">
+      targetConnections="id-55ea4ea7bb934d8bb1c0e592b5d00824"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="N2 waardestroom(-stappen) P.D2"
+    name="N2 waardestroom(stappen) P.D2"
     id="id-ab1bc1031da84f5c9effa6c0e098bbe3">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -637,7 +637,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-3377fadd2eca4566b71d76a2e2caf566"
-          targetConnections="id-93ab05701a1446afb9a07eeef6f2f295 id-33fe19547c2f45998235fc6e879c9e2a">
+          targetConnections="id-93ab05701a1446afb9a07eeef6f2f295 id-33fe19547c2f45998235fc6e879c9e2a"
+          textPosition="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -684,7 +685,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-a1c9b79ef7404b8bbaec67416e078609"
-          targetConnections="id-3cd152689c6d4b15a1043b8e7d759621 id-ebb09517ee3641868feb77b2823187b5">
+          targetConnections="id-3cd152689c6d4b15a1043b8e7d759621 id-ebb09517ee3641868feb77b2823187b5"
+          textPosition="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -731,7 +733,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-b1ec843f8a1045d794f6361778e1f3da"
-          targetConnections="id-7499d1bdddfd4aed83b425e137e32b0d id-7071e52000634623a70e2130ba835ad4">
+          targetConnections="id-7499d1bdddfd4aed83b425e137e32b0d id-7071e52000634623a70e2130ba835ad4"
+          textPosition="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -787,7 +790,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-6d01abb45e5b46dbb333aa8d7da873bd"
-          targetConnections="id-23e89e6649554e75a509068ef3e37b6f id-8b0882bf439d40489baa511d42341941">
+          targetConnections="id-23e89e6649554e75a509068ef3e37b6f id-8b0882bf439d40489baa511d42341941"
+          textPosition="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -806,7 +810,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-2d54f0e1e2a84adda59fb970cbbb50d2"
-          targetConnections="id-5a776caf3acc490a966fe6f8543a676d id-9ea6441679244e99a6ca66181d5ec62d">
+          targetConnections="id-5a776caf3acc490a966fe6f8543a676d id-9ea6441679244e99a6ca66181d5ec62d"
+          textPosition="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -853,7 +858,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-896533f118324b7f9eeae8b630564f40"
-          targetConnections="id-b5527a1c85174a89bb8ac8b63bfce9a4 id-f243b64c688a4b60bb41441f7905c440">
+          targetConnections="id-b5527a1c85174a89bb8ac8b63bfce9a4 id-f243b64c688a4b60bb41441f7905c440"
+          textPosition="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -900,7 +906,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-54f10cf45a834a16ba51f5c992b49280"
-          targetConnections="id-c166d38da064453b8adfff61b6729413 id-a7a668387a224b499e091e0197fa0295">
+          targetConnections="id-c166d38da064453b8adfff61b6729413 id-a7a668387a224b499e091e0197fa0295"
+          textPosition="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -956,7 +963,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-d526de57cb6c413b8269cf1a3fe8aaa9"
-          targetConnections="id-149b1ad5568a44c48163da385a6f0831 id-bd33b33a182f414ab80bd0cf14757c80">
+          targetConnections="id-149b1ad5568a44c48163da385a6f0831 id-bd33b33a182f414ab80bd0cf14757c80"
+          textPosition="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -975,7 +983,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-0c0d75b6fdb24c4283122db2d79b7aae"
-          targetConnections="id-2541f05375e549a399e21a3b2d8f6635 id-82c6dec954dd4a3ab455f32556a7c195">
+          targetConnections="id-2541f05375e549a399e21a3b2d8f6635 id-82c6dec954dd4a3ab455f32556a7c195"
+          textPosition="1">
         <features
             name="iconVisible"
             value="2"/>
