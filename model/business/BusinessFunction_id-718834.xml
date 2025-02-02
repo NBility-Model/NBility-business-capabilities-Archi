@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Digitale producten ontwikkelen en beheren"
     id="id-718834"
-    documentation="Het vermogen om digitale producten te ontwikkelen en te beheren met informatie en operationele technologieën.  Dit betreft de informatie technologie (IT) en de (centrale) operationele technologie (OT, ook wel de IT van de OT genoemd). Let op: De secundaire assets zijn niet in scope en worden bestuurd in het domein 'Ontwikkeling en instandhouding van energienetten besturen' Het omvat tevens de digitale werkplek. (IT4IT value delivery)">
+    documentation="Het vermogen om digitale producten te ontwikkelen en te beheren met informatie en operationele technologieën.  Dit betreft de informatie technologie (IT) en de (centrale) operationele technologie (OT, ook wel de IT van de OT genoemd). Het omvat tevens de digitale werkplek. (IT4IT value delivery)&#xD;&#xA;Let op: De secundaire netcomponenten zijn niet in scope en worden bestuurd in het domein 'C.3 - Ontwikkeling en instandhouding van energienetten besturen' ">
   <properties
       key="Code"
       value="E.4"/>
@@ -14,5 +14,5 @@
       value="Develop and maintain digital technology"/>
   <properties
       key="Documentation (en)"
-      value="The ability to develop and manage digital products with information and operational technologies.  This concerns information technology (IT) and (central) operational technology (OT, also known as the IT of the OT). Please note: The secondary assets are not in scope and are managed in the domain 'Managing the development and maintenance of energy networks'. It also includes the digital workplace. (IT4IT value delivery)."/>
+      value="The ability to develop and manage digital products with information and operational technologies.  This concerns information technology (IT) and (central) operational technology (OT, also known as the IT of the OT). It also includes the digital workplace. (IT4IT value delivery). Please note: The secondary grid components are not in scope and are managed in the domain 'C.3 - Managing the development and maintenance of energy networks'."/>
 </archimate:BusinessFunction>

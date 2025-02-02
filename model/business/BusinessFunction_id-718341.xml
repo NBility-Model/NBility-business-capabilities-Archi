@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metingen van energietransport en -netten ter beschikking stellen"
     id="id-718341"
-    documentation="Het vermogen om de metingen te verwerken en te verspreiden.">
+    documentation="Het vermogen om de metingen van energietransport en -netten te verwerken en te verspreiden.">
   <properties
       key="Code"
       value="C.4.2"/>

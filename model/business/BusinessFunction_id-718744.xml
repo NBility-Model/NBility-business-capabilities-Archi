@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Goederen en diensten overeenkomen en/of bestellen"
     id="id-718744"
-    documentation="Het vermogen om goederen en diensten overeen te komen en/of te bestellen. Dit omvat ook het afsluiten van raamovereenkomsten en daarbinnen afroepen van goederen/diensten.">
+    documentation="Het vermogen om goederen en diensten overeen te komen en/of te bestellen. Dit omvat ook het aanbesteden, het afsluiten van raamovereenkomsten en het afroepen van goederen/diensten.">
   <properties
       key="Code"
       value="E.5.2.2"/>
@@ -14,5 +14,5 @@
       value="Establish contracts for goods and services"/>
   <properties
       key="Documentation (en)"
-      value="The ability to agree and/or order goods and services. This also includes concluding framework agreements and calling for goods/services within them."/>
+      value="The ability to agree and/or order goods and services. This also includes tendering, concluding framework agreements and calling for goods/services."/>
 </archimate:BusinessFunction>
