@@ -1032,4 +1032,70 @@
         xsi:type="archimate:Product"
         href="Product_id-c3e0cc9beea642ab8581dd5437c94c67.xml#id-c3e0cc9beea642ab8581dd5437c94c67"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-21b54e0e2f184332b9c2e9818b9615d7"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#ffffff"
+      textAlignment="1"
+      content="Belanghebbende">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <features
+        name="labelExpression"
+        value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <bounds
+        x="60"
+        y="10"
+        width="112"
+        height="37"/>
+    <properties
+        key="Name (en)"
+        value="Stakeholder"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-cd521e8fd0324b33ba46ce04b7444562"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#ffffff"
+      textAlignment="1"
+      content="Waarde">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <features
+        name="labelExpression"
+        value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <bounds
+        x="813"
+        y="10"
+        width="73"
+        height="37"/>
+    <properties
+        key="Name (en)"
+        value="Value"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ffc2cec0d453498ba91c2802126dfaf8"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#ffffff"
+      textAlignment="1"
+      content="Productgroep">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <features
+        name="labelExpression"
+        value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
+    <bounds
+        x="1053"
+        y="10"
+        width="122"
+        height="37"/>
+    <properties
+        key="Name (en)"
+        value="Productgroup"/>
+  </children>
 </archimate:ArchimateDiagramModel>

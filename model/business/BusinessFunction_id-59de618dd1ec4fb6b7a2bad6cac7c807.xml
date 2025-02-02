@@ -1,7 +1,8 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Netverlies compenseren"
-    id="id-59de618dd1ec4fb6b7a2bad6cac7c807">
+    id="id-59de618dd1ec4fb6b7a2bad6cac7c807"
+    documentation="Het vermogen om het technische dan wel administratieve verschil tussen de invoeding en afname te compenseren door het verkrijgen van energie.">
   <properties
       key="Code"
       value="C.1.4.6"/>
@@ -11,4 +12,7 @@
   <properties
       key="Name (en)"
       value="Compensate for grid losses"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to compensate for the technical or administrative difference between input and consumption by obtaining energy."/>
 </archimate:BusinessFunction>

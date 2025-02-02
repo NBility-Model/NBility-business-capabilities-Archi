@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opdracht voor uitvoering van onderhoud en inspectie verstrekken en bewaken"
     id="id-718710"
-    documentation="Het vermogen om de opdracht voor onderhoud en/of inspectie aan de uitvoering te verstrekken. Het monitoren/bewaken van onderhoud en/of inspecties inclusief input verstrekken aan (meerjaren)planning bij afwijking buiten de bandbreedte.">
+    documentation="Het vermogen om de opdracht voor onderhoud en/of inspectie aan de uitvoerder te verstrekken. Het monitoren/bewaken van onderhoud en/of inspecties inclusief input verstrekken aan (meerjaren)planning bij afwijking buiten de bandbreedte.">
   <properties
       key="Code"
       value="C.3.2.5"/>

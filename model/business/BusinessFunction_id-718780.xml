@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Energie-uitwisseling beheren"
     id="id-718780"
-    documentation="Het vermogen om energie-uitwisseling vast te stellen, inclusief berekenen van energie-uitwisseling ((standaardjaar)verbruik),  vaststellen onbemeten, berekeningen bij seriële allocatiepunten, berekening toegekende energieverlies, volume afgenomen marktdiensten (zoals balancering, opregel-, afregelaanbod). Inclusief oplevering van de energie-uitwisseling van de meetverantwoordelijke, de oplevering van derden (CPO (charge point operator)), opgaven van gemeenten tbv openbare verlichting (berekening energie-uitwisseling via belastingprofiel).">
+    documentation="Het vermogen om energie-uitwisseling vast te stellen. Dit is inclusief berekenen van energie-uitwisseling ((standaardjaar)verbruik), vaststellen onbemeten, berekeningen bij seriële allocatiepunten, berekening toegekende energieverlies en volume afgenomen marktdiensten (zoals balancering, opregel-, afregelaanbod). Tevens inclusief oplevering van de energie-uitwisseling van de meetverantwoordelijke, de oplevering van derden (CPO (charge point operator)) en opgaven van gemeenten tbv openbare verlichting (berekening energie-uitwisseling via belastingprofiel).">
   <properties
       key="Code"
       value="C.6.3.3"/>
@@ -14,5 +14,5 @@
       value="Manage energy exchange"/>
   <properties
       key="Documentation (en)"
-      value="The ability to determine energy exchange, including calculating energy exchange (standard annual consumption), determining unmetered, calculations at serial allocation points, calculation of allocated energy loss, volume of market services purchased (such as balancing, upward adjustment and downward adjustment supply). Including delivery of the energy exchange from the Measurement Responsible party, the delivery from third parties (CPO (charge point operator)), statements from municipalities for public lighting (calculation of energy exchange via tax profile)."/>
+      value="The ability to determine energy exchange. This includes calculating energy exchange (standard annual consumption), determining unmetered, calculations at serial allocation points, calculation of allocated energy loss and volume of market services purchased (such as balancing, upward adjustment and downward adjustment supply). This also includes delivery of the energy exchange from the Measurement Responsible party, the delivery from third parties (CPO (charge point operator)) and statements from municipalities for public lighting (calculation of energy exchange via tax profile)."/>
 </archimate:BusinessFunction>

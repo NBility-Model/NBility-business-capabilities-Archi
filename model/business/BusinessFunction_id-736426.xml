@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Betalingen verrichten"
     id="id-736426"
-    documentation="Het vermogen om betalingen te verrichten. Dit omvat de betaling aan crediteuren.&#xA;Het vermogen om betalingen te verrichten. Dit omvat de betaling aan crediteuren. ">
+    documentation="Het vermogen om betalingen te verrichten. Dit omvat de betaling aan crediteuren.">
   <properties
       key="Code"
       value="E.7.2.4"/>
