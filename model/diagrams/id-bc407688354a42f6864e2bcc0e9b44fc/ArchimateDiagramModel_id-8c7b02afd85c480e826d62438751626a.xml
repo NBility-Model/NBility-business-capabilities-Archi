@@ -1032,4 +1032,49 @@
         xsi:type="archimate:Product"
         href="Product_id-c3e0cc9beea642ab8581dd5437c94c67.xml#id-c3e0cc9beea642ab8581dd5437c94c67"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b86a120dc2634a52a52a73602944bf5d"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#ffffff"
+      textAlignment="1"
+      content="Belanghebbende">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <bounds
+        x="35"
+        width="145"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-57a7f1877b6240f8bc6fd62e71139cd2"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#ffffff"
+      textAlignment="1"
+      content="Waarde">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <bounds
+        x="803"
+        width="73"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-d784b2707a6140db8923a92d4b8cef41"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      lineColor="#ffffff"
+      textAlignment="1"
+      content="Productgroep">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <bounds
+        x="1043"
+        width="122"
+        height="37"/>
+  </children>
 </archimate:ArchimateDiagramModel>

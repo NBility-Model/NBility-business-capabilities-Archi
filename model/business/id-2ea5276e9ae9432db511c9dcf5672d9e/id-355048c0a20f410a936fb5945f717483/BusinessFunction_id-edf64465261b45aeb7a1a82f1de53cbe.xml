@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Netcomponent in levenscyclusbeheer opnemen"
+    id="id-edf64465261b45aeb7a1a82f1de53cbe"
+    documentation="Het vermogen om aanpassingen op assets in de assetregistraties te borgen gedurende de gehele levenscyclus van de assets.">
+  <properties
+      key="Code"
+      value="C.3.1.9"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Include grid component in lifecycle management"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to safeguard adjustments to assets in the asset registrations during the entire life cycle of the assets."/>
+</archimate:BusinessFunction>

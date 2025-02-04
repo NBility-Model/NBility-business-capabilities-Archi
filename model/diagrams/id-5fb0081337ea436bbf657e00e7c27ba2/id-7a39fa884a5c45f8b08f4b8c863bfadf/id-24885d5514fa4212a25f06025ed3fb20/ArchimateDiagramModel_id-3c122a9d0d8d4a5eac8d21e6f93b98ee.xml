@@ -541,7 +541,7 @@
           x="12"
           y="900"
           width="181"
-          height="217"/>
+          height="157"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-384d3a5a6c9b4a1d86189e2630397673"
@@ -558,7 +558,7 @@
             value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
         <bounds
             x="12"
-            y="156"
+            y="96"
             width="156"
             height="48"/>
         <archimateElement
