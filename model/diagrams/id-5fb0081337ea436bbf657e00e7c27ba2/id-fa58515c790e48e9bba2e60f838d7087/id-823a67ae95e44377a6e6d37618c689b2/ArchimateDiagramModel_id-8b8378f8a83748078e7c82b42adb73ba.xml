@@ -401,7 +401,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3c0e4d1f1b5a47d3aafb4b6d834ea6cb"
-      targetConnections="id-07ee4c3141994ae29319e3f041c43ed8"
       fillColor="#bfeeff"
       textPosition="1">
     <features
@@ -582,18 +581,6 @@
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-e831405fb0694f2c8b61828f0ee31ba6.xml#id-e831405fb0694f2c8b61828f0ee31ba6"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-07ee4c3141994ae29319e3f041c43ed8"
-        source="id-3d10f244d7224002b89f202383cdc69d"
-        target="id-3c0e4d1f1b5a47d3aafb4b6d834ea6cb">
-      <features
-          name="labelExpression"
-          value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-0f51480cebfa4d2b9cf33b23bff6af67.xml#id-0f51480cebfa4d2b9cf33b23bff6af67"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
