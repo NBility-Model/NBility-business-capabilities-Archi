@@ -42,4 +42,7 @@
   <properties
       key="Source"
       value="verzoek (Van Dale)"/>
+  <properties
+      key="Search term"
+      value="klantaanvraag"/>
 </archimate:BusinessObject>

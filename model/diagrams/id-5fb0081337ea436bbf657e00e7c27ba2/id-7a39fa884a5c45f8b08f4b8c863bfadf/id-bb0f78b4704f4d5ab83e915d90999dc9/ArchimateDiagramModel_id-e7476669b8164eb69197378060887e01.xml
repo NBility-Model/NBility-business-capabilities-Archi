@@ -2903,7 +2903,7 @@
           x="12"
           y="60"
           width="289"
-          height="697"/>
+          height="661"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-5bc2c0204e08418c8899ef4c0f76797f"
@@ -3228,20 +3228,11 @@
               xsi:type="archimate:AccessRelationship"
               href="AccessRelationship_id-65a39466419b4da9a33ff19ba07eac9a.xml#id-65a39466419b4da9a33ff19ba07eac9a"/>
         </sourceConnections>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-4fa91ce265aa4fcb85682a09be84f6e5"
-            source="id-fa91fc6fc6b440d2903da86ad09a3d97"
-            target="id-cf054cc9cdd74e58a53fa6aec1a93bd7">
-          <archimateRelationship
-              xsi:type="archimate:AccessRelationship"
-              href="AccessRelationship_id-bbf4ebfa3ce34055afe348ff4842577e.xml#id-bbf4ebfa3ce34055afe348ff4842577e"/>
-        </sourceConnections>
         <bounds
             x="12"
             y="564"
             width="264"
-            height="121"/>
+            height="85"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-afdc7ee42c174e13a50280477c26ca97"
@@ -3264,29 +3255,6 @@
           <archimateElement
               xsi:type="archimate:BusinessObject"
               href="BusinessObject_id-468873.xml#id-468873"/>
-        </children>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="id-cf054cc9cdd74e58a53fa6aec1a93bd7"
-            targetConnections="id-4fa91ce265aa4fcb85682a09be84f6e5"
-            fontColor="#000000"
-            lineColor="#000000"
-            fillColor="#ff7c80"
-            textPosition="1">
-          <features
-              name="iconVisible"
-              value="2"/>
-          <features
-              name="labelExpression"
-              value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
-          <bounds
-              x="12"
-              y="84"
-              width="240"
-              height="25"/>
-          <archimateElement
-              xsi:type="archimate:BusinessObject"
-              href="BusinessObject_id-469726.xml#id-469726"/>
         </children>
         <archimateElement
             xsi:type="archimate:BusinessFunction"
@@ -3338,7 +3306,7 @@
       </sourceConnections>
       <bounds
           x="12"
-          y="768"
+          y="732"
           width="289"
           height="337"/>
       <children

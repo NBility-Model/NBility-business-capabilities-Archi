@@ -1,14 +1,14 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Netrevisie"
+    name="Netrevisie of bevinding"
     id="id-c6868b832fb2474684d4cc4e6397a946"
-    documentation="Een door werkzaamheden aangebrachte wijziging aan het energienet.">
+    documentation="Een weergave van een ter plaatse aangebrachte of geconstateerde wijziging van het energienet.">
   <properties
       key="Level"
       value="3"/>
   <properties
       key="Name (en)"
-      value="Grid revision"/>
+      value="Grid revision or finding"/>
   <properties
       key="Search term"
       value="administratief gereed"/>

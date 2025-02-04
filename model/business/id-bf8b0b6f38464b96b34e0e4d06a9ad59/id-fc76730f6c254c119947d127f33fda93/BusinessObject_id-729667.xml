@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Marktpartij"
     id="id-729667"
-    documentation="Iedere partij die gerechtigd is om transacties in energie af te sluiten op de Nederlandse energiemarkt.">
+    documentation="Een partij die een rol vervult binnen de energiemarkt.">
   <properties
       key="Level"
       value="2"/>

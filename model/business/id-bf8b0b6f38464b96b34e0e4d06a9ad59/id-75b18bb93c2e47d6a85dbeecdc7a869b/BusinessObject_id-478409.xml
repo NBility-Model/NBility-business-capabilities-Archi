@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Marktpartij"
     id="id-478409"
-    documentation="Iedere partij die gerechtigd is om transacties in energie af te sluiten op de Nederlandse energiemarkt.">
+    documentation="Een partij die een rol vervult binnen de energiemarkt.">
   <properties
       key="Level"
       value="3"/>
@@ -45,4 +45,13 @@
   <properties
       key="Search term"
       value="congestion service provider (CSP)"/>
+  <properties
+      key="Search term"
+      value="overige dienstenaanbieder (ODA)"/>
+  <properties
+      key="Note"
+      value="Onder marktpartijen verstaan we niet de afnemers of toezichthouders van de energiemarkt."/>
+  <properties
+      key="Search term"
+      value="onafhankelijke dienstenaanbieder (ODA)"/>
 </archimate:BusinessObject>

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Werkactiviteit"
     id="id-472136"
-    documentation="Een inspanning van een medewerker die voortvloeit uit een werkopdracht.">
+    documentation="Het ter plaatse aanbrengen van wenselijk geachte veranderingen aan energienetten.">
   <properties
       key="Level"
       value="3"/>
@@ -12,4 +12,7 @@
   <properties
       key="Search term"
       value="taak"/>
+  <properties
+      key="Search term"
+      value="assetwerk"/>
 </archimate:BusinessObject>

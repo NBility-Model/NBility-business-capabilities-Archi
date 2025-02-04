@@ -1455,7 +1455,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d3147e4c02464fc49a93039e2e81c1fa"
-      fillColor="#ff7c80"
+      fillColor="#bfeeff"
       textPosition="1">
     <features
         name="iconVisible"
@@ -1479,7 +1479,7 @@
         x="1092"
         y="972"
         width="169"
-        height="52"/>
+        height="49"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-469726.xml#id-469726"/>

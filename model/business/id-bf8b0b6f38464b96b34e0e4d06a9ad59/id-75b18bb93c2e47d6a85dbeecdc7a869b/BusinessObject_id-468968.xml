@@ -18,4 +18,7 @@
   <properties
       key="Search term"
       value="grondpositie"/>
+  <properties
+      key="Note"
+      value="De levenscyclus van een tracévergunning is gekoppeld aan het energienet, terwijl de levenscyclus van een uitvoeringsvergunning is gekoppeld aan het werk."/>
 </archimate:BusinessObject>
