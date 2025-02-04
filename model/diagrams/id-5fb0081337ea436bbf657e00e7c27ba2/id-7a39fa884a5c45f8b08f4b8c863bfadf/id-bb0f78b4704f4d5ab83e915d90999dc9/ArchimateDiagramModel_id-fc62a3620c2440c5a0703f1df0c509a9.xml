@@ -1623,6 +1623,15 @@
           <features
               name="iconVisible"
               value="2"/>
+          <sourceConnections
+              xsi:type="archimate:DiagramModelArchimateConnection"
+              id="id-d5a87ab11d214e28adacdf33f2a4e3a0"
+              source="id-313a54322dc14b0d8fbbbe1b42798ca0"
+              target="id-06dcfb9a34834f92a366fa4d53ffe447">
+            <archimateRelationship
+                xsi:type="archimate:AssociationRelationship"
+                href="AssociationRelationship_id-ae271a39a36e4fc184f6f2e8abec27ad.xml#id-ae271a39a36e4fc184f6f2e8abec27ad"/>
+          </sourceConnections>
           <bounds
               x="288"
               y="48"
@@ -2956,7 +2965,7 @@
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
     <bounds
         x="1248"
-        y="13"
+        y="12"
         width="265"
         height="37"/>
     <archimateElement
@@ -2976,7 +2985,7 @@
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
     <bounds
         x="1572"
-        y="13"
+        y="12"
         width="265"
         height="37"/>
     <archimateElement
@@ -3096,7 +3105,7 @@
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
     <bounds
         x="4344"
-        y="11"
+        y="12"
         width="265"
         height="37"/>
     <archimateElement
@@ -3116,7 +3125,7 @@
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
     <bounds
         x="4644"
-        y="11"
+        y="12"
         width="265"
         height="37"/>
     <archimateElement
@@ -3126,13 +3135,14 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-06dcfb9a34834f92a366fa4d53ffe447"
+      targetConnections="id-d5a87ab11d214e28adacdf33f2a4e3a0"
       textPosition="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
     <bounds
         x="1848"
-        y="13"
+        y="12"
         width="265"
         height="37"/>
     <archimateElement
@@ -3172,7 +3182,7 @@
         value="2"/>
     <bounds
         x="3720"
-        y="13"
+        y="12"
         width="265"
         height="37"/>
     <archimateElement
