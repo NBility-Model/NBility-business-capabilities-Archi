@@ -1,0 +1,14 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanleggen en wijzigen van aansluitingen"
+    id="id-df9fefba488846358a0b0593b99c6284">
+  <properties
+      key="Code"
+      value="P.A"/>
+  <properties
+      key="Name (en)"
+      value="Install and change connections"/>
+  <properties
+      key="Level"
+      value="0"/>
+</archimate:BusinessProcess>

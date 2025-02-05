@@ -1,0 +1,11 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transportcapaciteit"
+    id="id-b0777c12113c43e9b139450386b0e543">
+  <properties
+      key="Name (en)"
+      value="Transport capacity"/>
+  <properties
+      key="Level"
+      value="0"/>
+</archimate:Product>

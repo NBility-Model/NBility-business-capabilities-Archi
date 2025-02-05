@@ -1,0 +1,11 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energietoerekening"
+    id="id-a1c684cf872e4ac2874a7873f89202f3">
+  <properties
+      key="Name (en)"
+      value="Energy attribution"/>
+  <properties
+      key="Level"
+      value="0"/>
+</archimate:Product>
