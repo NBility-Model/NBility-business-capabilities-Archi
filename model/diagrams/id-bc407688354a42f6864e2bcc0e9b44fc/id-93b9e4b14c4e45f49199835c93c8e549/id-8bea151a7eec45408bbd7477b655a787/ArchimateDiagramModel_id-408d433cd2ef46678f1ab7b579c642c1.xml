@@ -188,6 +188,9 @@
         <features
             name="iconVisible"
             value="2"/>
+        <features
+            name="labelExpression"
+            value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-441f8dc50d7f4d4285c8e5da53043d07"
