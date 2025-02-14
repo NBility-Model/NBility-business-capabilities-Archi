@@ -2821,7 +2821,7 @@
           x="12"
           y="1080"
           width="289"
-          height="253"/>
+          height="181"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-724993"
@@ -2861,7 +2861,7 @@
             value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
         <bounds
             x="12"
-            y="180"
+            y="108"
             width="265"
             height="61"/>
         <archimateElement
@@ -3241,7 +3241,8 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-8056f92c503d41539b3aaa38a4f16157"
           targetConnections="id-5166b2b5f67c4a198307b49196381802"
-          fillColor="#e5f1d7">
+          fillColor="#e5f1d7"
+          textPosition="1">
         <features
             name="labelExpression"
             value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>

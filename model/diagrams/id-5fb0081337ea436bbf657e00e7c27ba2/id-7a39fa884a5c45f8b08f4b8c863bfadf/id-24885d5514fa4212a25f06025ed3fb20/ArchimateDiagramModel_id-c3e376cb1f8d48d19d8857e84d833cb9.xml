@@ -1170,7 +1170,8 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-31c28dd78be0402c9d6a320427bafb48"
           targetConnections="id-d5c77e5d2fc742d7b1bd39ea893df92a"
-          fillColor="#ff7c80">
+          fillColor="#ff7c80"
+          textPosition="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -3238,7 +3239,8 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-19b97b813d3948728fb0250e34130342"
           targetConnections="id-bf91c68ab72c4741ab020ca62f393818"
-          fillColor="#e5f1d7">
+          fillColor="#e5f1d7"
+          textPosition="1">
         <features
             name="labelExpression"
             value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
